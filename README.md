@@ -9,3 +9,5 @@ A comprehensive survey of arabic sentiment analysis (https://www.sciencedirect.c
 ## Speech
  Arabic Automatic Speech Recognition: A Systematic Literature Review (https://www.mdpi.com/2076-3417/12/17/8898)
  Deep Investigation of the Recent Advances in Dialectal Arabic Speech Recognition (https://ieeexplore.ieee.org/document/9780142)
+## Summarization
+A Comprehensive Review of Arabic Text Summarization (https://ieeexplore.ieee.org/document/9745159)
