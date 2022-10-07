@@ -6,3 +6,6 @@ Arabic Sentiment Analysis: A Systematic Literature Review (https://www.hindawi.c
 ## Sentiment Analysis
 Arabic Sentiment Analysis: A Survey (https://www.proquest.com/docview/2656539777?pq-origsite=gscholar&fromopenview=true)
 A comprehensive survey of arabic sentiment analysis (https://www.sciencedirect.com/science/article/abs/pii/S0306457316306689)
+## Speech
+ Arabic Automatic Speech Recognition: A Systematic Literature Review (https://www.mdpi.com/2076-3417/12/17/8898)
+ 
