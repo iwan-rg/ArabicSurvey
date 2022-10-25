@@ -15,6 +15,7 @@ In this repository, we list survey papers on Arabic Natural Language Processing 
 ## Speech
 - Arabic Automatic Speech Recognition: A Systematic Literature Review ([Link](https://www.mdpi.com/2076-3417/12/17/8898)).
 - Deep Investigation of the Recent Advances in Dialectal Arabic Speech Recognition ([Link](https://ieeexplore.ieee.org/document/9780142)).
+- Arabic Speech Processing: State of the Art and Future Outlook ([Link](https://link.springer.com/chapter/10.1007/978-981-19-3444-5_5)).
 
 ## Summarization
 - A Comprehensive Review of Arabic Text Summarization ([Link](https://ieeexplore.ieee.org/document/9745159)).
