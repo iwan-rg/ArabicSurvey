@@ -5,6 +5,7 @@ In this repository, we list survey papers on Arabic Natural Language Processing 
  - Arabic question answering system: a survey ([Link](https://link.springer.com/article/10.1007/s10462-021-10031-1)).
  - Arabic Sentiment Analysis: A Systematic Literature Review
    ([Link](https://www.hindawi.com/journals/acisc/2020/7403128/)).
+ - Arabic Question Answering Systems: Gap Analysis ([Link](https://ieeexplore.ieee.org/document/9410528)).
    
 ## Sentiment Analysis
 - Arabic Sentiment Analysis: A Survey ([Link](https://www.proquest.com/docview/2656539777?pq-origsite=gscholar&fromopenview=true)).
