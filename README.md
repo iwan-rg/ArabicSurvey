@@ -39,3 +39,7 @@ In this repository, we list survey papers on Arabic Natural Language Processing 
 
 ## Machine Translation
 - Arabic Machine Translation: A Survey With Challenges and Future Directions ([Link](https://ieeexplore.ieee.org/document/9634008)).
+
+## Handwriting Recognition 
+- A Survey on Arabic Handwritten Script Recognition Systems ([Link](https://www.igi-global.com/gateway/article/279276)).
+
