@@ -14,7 +14,6 @@ In this repository, we list survey papers on Arabic Natural Language Processing 
 - Deep Investigation of the Recent Advances in Dialectal Arabic Speech Recognition ([Link](https://ieeexplore.ieee.org/document/9780142)).
 ## Summarization
 - A Comprehensive Review of Arabic Text Summarization ([Link](https://ieeexplore.ieee.org/document/9745159)).
-- Automatic arabic text summarization (AATS): A survey ([Link](
-//[https://ieeexplore.ieee.org/document/9745159](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs213589))).
+- Automatic arabic text summarization (AATS): A survey ([Link](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs213589)).
 ## Conversational AI
 - Recent Developments in Arabic Conversational AI: A Literature Review ([Link](https://ieeexplore.ieee.org/document/9723043)).
