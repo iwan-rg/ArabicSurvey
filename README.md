@@ -6,7 +6,7 @@ In this repository, we list survey papers on Arabic Natural Language Processing 
    ([Link](https://www.hindawi.com/journals/acisc/2020/7403128/)).
    
 ## Sentiment Analysis
-- Arabic Sentiment Analysis: A Survey ([Link]https://www.proquest.com/docview/2656539777?pq-origsite=gscholar&fromopenview=true))
+- Arabic Sentiment Analysis: A Survey ([Link](https://www.proquest.com/docview/2656539777?pq-origsite=gscholar&fromopenview=true))
 - A comprehensive survey of arabic sentiment analysis (https://www.sciencedirect.com/science/article/abs/pii/S0306457316306689)
 - Arabic sentiment analysis using recurrent neural networks: a review (https://link.springer.com/article/10.1007/s10462-021-09989-9)
 ## Speech
