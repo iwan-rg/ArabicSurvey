@@ -13,6 +13,7 @@ In this repository, we list survey papers on Arabic Natural Language Processing 
 - Arabic sentiment analysis using recurrent neural networks: a review ([Link](https://link.springer.com/article/10.1007/s10462-021-09989-9)).
 - Systematic literature review of arabic aspect-based sentiment analysis ([Link](https://www.sciencedirect.com/science/article/pii/S1319157822002282?via%3Dihub)).
 - Arabic Aspect-Based Sentiment Analysis: A Systematic Literature Review ([Link](https://ieeexplore.ieee.org/document/9611271)).
+- Deep learning for Arabic subjective sentiment analysis: Challenges and research opportunities ([Link](https://www.sciencedirect.com/science/article/abs/pii/S1568494620307742?via%3Dihub)).
 
 ## Speech
 - Arabic Automatic Speech Recognition: A Systematic Literature Review ([Link](https://www.mdpi.com/2076-3417/12/17/8898)).
