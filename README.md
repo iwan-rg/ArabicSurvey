@@ -1,8 +1,10 @@
 # Arabic Survey Papers Repository (ASPR)
-In this repository, we survey papers on Arabic Natural Language Processing (NLP). We show the list of the papers with URLs.
+In this repository, we list survey papers on Arabic Natural Language Processing (NLP). We show the list of the papers with URLs.
 ## Quesion Answering
-Arabic question answering system: a survey (https://link.springer.com/article/10.1007/s10462-021-10031-1)
-Arabic Sentiment Analysis: A Systematic Literature Review (https://www.hindawi.com/journals/acisc/2020/7403128/)
+ - Arabic question answering system: a survey ([Link](https://link.springer.com/article/10.1007/s10462-021-10031-1)).
+ - Arabic Sentiment Analysis: A Systematic Literature Review
+   ([Link](https://www.hindawi.com/journals/acisc/2020/7403128/)).
+   
 ## Sentiment Analysis
 Arabic Sentiment Analysis: A Survey (https://www.proquest.com/docview/2656539777?pq-origsite=gscholar&fromopenview=true)
 A comprehensive survey of arabic sentiment analysis (https://www.sciencedirect.com/science/article/abs/pii/S0306457316306689)
