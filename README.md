@@ -23,6 +23,10 @@ In this repository, we list survey papers on Arabic Natural Language Processing 
 
 ## Conversational AI
 - Recent Developments in Arabic Conversational AI: A Literature Review ([Link](https://ieeexplore.ieee.org/document/9723043)).
+- Empathy and Persona of English vs. Arabic Chatbots: A Survey and Future Directions ([Link](https://link.springer.com/chapter/10.1007/978-3-031-16270-1_43)).
 
 ## Word Sense Disambiguation (WSD)
 - A comprehensive review on Arabic word sense disambiguation for natural language processing applications ([Link](https://wires.onlinelibrary.wiley.com/doi/10.1002/widm.1447)).
+
+## Plagiarism Detection Systems
+- A Survey of Plagiarism Detection Systems: Case of Use with English, French and Arabic Languages  ([Link](https://arxiv.org/abs/2201.03423)).
