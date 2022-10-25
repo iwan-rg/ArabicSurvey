@@ -1,6 +1,9 @@
 # Arabic Survey Papers Repository (ASPR)
 In this repository, we list survey, reviewes and systematic review papers on Arabic Natural Language Processing (NLP). We complied a list of 50 papers between 2022 and 1990), we show the list of the papers with URLs.
 
+## General
+- Arabic natural language processing: An overview ([Link](https://www.sciencedirect.com/science/article/pii/S1319157818310553?via%3Dihub)).
+
 ## Quesion Answering
  - Arabic question answering system: a survey ([Link](https://link.springer.com/article/10.1007/s10462-021-10031-1)).
  - Arabic Sentiment Analysis: A Systematic Literature Review
