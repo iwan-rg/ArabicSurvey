@@ -47,4 +47,4 @@ In this repository, we list survey, reviewes and systematic review papers on Ara
 
 ## Handwriting Recognition 
 - A Survey on Arabic Handwritten Script Recognition Systems ([Link](https://www.igi-global.com/gateway/article/279276)).
-
+- Automatic recognition of handwritten Arabic characters: a comprehensive review ([Link](https://link.springer.com/article/10.1007/s00521-020-05137-6)).
