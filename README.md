@@ -36,7 +36,7 @@ In this repository, we list survey, reviewes and systematic review papers on Ara
 ## Word Sense Disambiguation (WSD)
 - A comprehensive review on Arabic word sense disambiguation for natural language processing applications ([Link](https://wires.onlinelibrary.wiley.com/doi/10.1002/widm.1447)).
 
-## Dialects
+## Dialects Identification & Detection
 - Systematic Literature Review of Dialectal Arabic: Identification and Detection ([Link](https://ieeexplore.ieee.org/document/9354635)).
 
 ## Plagiarism Detection Systems
@@ -48,3 +48,6 @@ In this repository, we list survey, reviewes and systematic review papers on Ara
 ## Handwriting Recognition 
 - A Survey on Arabic Handwritten Script Recognition Systems ([Link](https://www.igi-global.com/gateway/article/279276)).
 - Automatic recognition of handwritten Arabic characters: a comprehensive review ([Link](https://link.springer.com/article/10.1007/s00521-020-05137-6)).
+
+## Offensive Language Detection
+- A Survey of Offensive Language Detection for the Arabic Language ([Link](https://dl.acm.org/doi/10.1145/3421504)).
