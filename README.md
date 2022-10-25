@@ -15,6 +15,7 @@ In this repository, we list survey, reviewes and systematic review papers on Ara
 - Arabic Aspect-Based Sentiment Analysis: A Systematic Literature Review ([Link](https://ieeexplore.ieee.org/document/9611271)).
 - Deep learning for Arabic subjective sentiment analysis: Challenges and research opportunities ([Link](https://www.sciencedirect.com/science/article/abs/pii/S1568494620307742?via%3Dihub)).
 - A comparative study of effective approaches for Arabic sentiment analysis ([Link](https://www.sciencedirect.com/science/article/abs/pii/S0306457320309316?via%3Dihub)).
+- Deep learning in Arabic sentiment analysis: An overview ([Link](https://journals.sagepub.com/doi/10.1177/0165551519865488)).
 
 ## Speech
 - Arabic Automatic Speech Recognition: A Systematic Literature Review ([Link](https://www.mdpi.com/2076-3417/12/17/8898)).
