@@ -11,7 +11,7 @@ In this repository, we list survey papers on Arabic Natural Language Processing 
 - Arabic sentiment analysis using recurrent neural networks: a review ([Link](https://link.springer.com/article/10.1007/s10462-021-09989-9)).
 ## Speech
 - Arabic Automatic Speech Recognition: A Systematic Literature Review ([Link](https://www.mdpi.com/2076-3417/12/17/8898)).
-- Deep Investigation of the Recent Advances in Dialectal Arabic Speech Recognition ([Link]((https://ieeexplore.ieee.org/document/9780142)).
+- Deep Investigation of the Recent Advances in Dialectal Arabic Speech Recognition ([Link](https://ieeexplore.ieee.org/document/9780142)).
 ## Summarization
 - A Comprehensive Review of Arabic Text Summarization ([Link](https://ieeexplore.ieee.org/document/9745159)).
 ## Conversational AI
