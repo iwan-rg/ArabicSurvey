@@ -6,6 +6,8 @@ In this repository, we list survey, reviewes and systematic review papers on Ara
 
 ## Text Classification
 - Arabic Text Classification: A Review Study on Feature Selection Methods ([Link](https://ieeexplore.ieee.org/document/9677185)).
+- Arabic Text Classification: A Literature Review ([Link](https://ieeexplore.ieee.org/document/9686874)).
+
 
 ## Quesion Answering
  - Arabic question answering system: a survey ([Link](https://link.springer.com/article/10.1007/s10462-021-10031-1)).
