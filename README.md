@@ -22,3 +22,6 @@ In this repository, we list survey papers on Arabic Natural Language Processing 
 
 ## Conversational AI
 - Recent Developments in Arabic Conversational AI: A Literature Review ([Link](https://ieeexplore.ieee.org/document/9723043)).
+
+## Word Sense Disambiguation (WSD)
+- A comprehensive review on Arabic word sense disambiguation for natural language processing applications ([Link](https://wires.onlinelibrary.wiley.com/doi/10.1002/widm.1447)).
