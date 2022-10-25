@@ -35,3 +35,6 @@ In this repository, we list survey papers on Arabic Natural Language Processing 
 
 ## Plagiarism Detection Systems
 - A Survey of Plagiarism Detection Systems: Case of Use with English, French and Arabic Languages  ([Link](https://arxiv.org/abs/2201.03423)).
+
+## Machine Translation
+- Arabic Machine Translation: A Survey With Challenges and Future Directions ([Link](https://ieeexplore.ieee.org/document/9634008)).
