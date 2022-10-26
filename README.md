@@ -14,12 +14,13 @@ In this repository, we list survey, literature review and systematic review pape
 - Arabic natural language processing: An overview ([Link](https://www.sciencedirect.com/science/article/pii/S1319157818310553?via%3Dihub)).
 - A panoramic survey of natural language processing in the Arab world ([Link](https://dl.acm.org/doi/fullHtml/10.1145/3447735)).
 
-## Text Classification
+## Text Classification & Mining
 - Arabic Text Classification: A Review Study on Feature Selection Methods ([Link](https://ieeexplore.ieee.org/document/9677185)).
 - Arabic Text Classification: A Literature Review ([Link](https://ieeexplore.ieee.org/document/9686874)).
 - Text Classification of Arabic Text: Deep Learning in ANLP ([Link](https://link.springer.com/chapter/10.1007/978-3-030-69717-4_10)).
 - Arabic Text Categorization: A Comparison Survey ([Link](https://ieeexplore.ieee.org/document/9491640)).
 - Classifiers for Arabic NLP: survey ([Link](https://www.inderscienceonline.com/doi/abs/10.1504/IJCCIA.2020.105538)).
+- A Survey of Arabic Text Mining ([Link](https://link.springer.com/chapter/10.1007/978-3-319-67056-0_20)).
 
 ## Named Entity Recognition
 -  A Survey of Arabic Named Entity Recognition and Classification ([Link](https://direct.mit.edu/coli/article/40/2/469/1475/A-Survey-of-Arabic-Named-Entity-Recognition-and)).
@@ -29,6 +30,7 @@ In this repository, we list survey, literature review and systematic review pape
  - Arabic Sentiment Analysis: A Systematic Literature Review
    ([Link](https://www.hindawi.com/journals/acisc/2020/7403128/)).
  - Arabic Question Answering Systems: Gap Analysis ([Link](https://ieeexplore.ieee.org/document/9410528)).
+ - A survey of Arabic question answering: challenges, tasks, approaches, tools, and future trends ([Link](https://www.researchgate.net/profile/Ahmed-Magdy-18/publication/270098044_A_Survey_of_Arabic_Question_Answering_Challenges_Tasks_Approaches_Tools_And_Future_Trends/links/549fcf230cf267bdb8fdc13c/A-Survey-of-Arabic-Question-Answering-Challenges-Tasks-Approaches-Tools-And-Future-Trends.pdf)).
    
 ## Sentiment Analysis
 - Arabic Sentiment Analysis: A Survey ([Link](https://www.proquest.com/docview/2656539777?pq-origsite=gscholar&fromopenview=true)).
