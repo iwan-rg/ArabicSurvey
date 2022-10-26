@@ -18,6 +18,7 @@ In this repository, we list survey, literature review and systematic review pape
 - Stemming impact on Arabic text categorization performance: A survey ([Link](https://ieeexplore.ieee.org/abstract/document/7426875)).
 - A Survey of Lexical Functional Grammar in the Arabic Context ([Link](https://pdfs.semanticscholar.org/edf8/4a8181e8a5755e6011995f0b2de4566bb21d.pdf)).
 - A survey of automatic Arabic diacritization techniques ([Link](https://www.cambridge.org/core/journals/natural-language-engineering/article/abs/survey-of-automatic-arabic-diacritization-techniques/8D869B09FE33D60F3C801A97AFD6C5F1)).
+- Automatic Methods and Neural Networks in Arabic Texts Diacritization: A Comprehensive Survey ([Link](https://ieeexplore.ieee.org/abstract/document/9585619)).
 
 ## Text Classification & Mining
 - Arabic Text Classification: A Review Study on Feature Selection Methods ([Link](https://ieeexplore.ieee.org/document/9677185)).
@@ -26,6 +27,7 @@ In this repository, we list survey, literature review and systematic review pape
 - Arabic Text Categorization: A Comparison Survey ([Link](https://ieeexplore.ieee.org/document/9491640)).
 - Classifiers for Arabic NLP: survey ([Link](https://www.inderscienceonline.com/doi/abs/10.1504/IJCCIA.2020.105538)).
 - A Survey of Arabic Text Mining ([Link](https://link.springer.com/chapter/10.1007/978-3-319-67056-0_20)).
+- Text Mining Techniques for Sentiment Analysis of Arabic Dialects: Literature Review ([Link](https://www.researchgate.net/profile/Arwa-A-Al-Shamsi/publication/349576084_Text_Mining_Techniques_for_Sentiment_Analysis_of_Arabic_Dialects_Literature_Review/links/60433a0b92851c077f1cc4ec/Text-Mining-Techniques-for-Sentiment-Analysis-of-Arabic-Dialects-Literature-Review.pdf)).
 
 ## Named Entity Recognition
 -  A Survey of Arabic Named Entity Recognition and Classification ([Link](https://direct.mit.edu/coli/article/40/2/469/1475/A-Survey-of-Arabic-Named-Entity-Recognition-and)).
@@ -79,6 +81,7 @@ In this repository, we list survey, literature review and systematic review pape
 ## Machine Translation
 - Arabic Machine Translation: A Survey With Challenges and Future Directions ([Link](https://ieeexplore.ieee.org/document/9634008)).
 - Machine translation for Arabic dialects (survey) ([Link](https://www.sciencedirect.com/science/article/abs/pii/S0306457316305702)).
+- Arabic machine translation: a survey ([Link](https://link.springer.com/article/10.1007/s10462-012-9351-1)).
 
 ## Handwriting Recognition 
 - A Survey on Arabic Handwritten Script Recognition Systems ([Link](https://www.igi-global.com/gateway/article/279276)).
