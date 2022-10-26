@@ -19,6 +19,7 @@ In this repository, we list survey, literature review and systematic review pape
 - Arabic Text Classification: A Literature Review ([Link](https://ieeexplore.ieee.org/document/9686874)).
 - Text Classification of Arabic Text: Deep Learning in ANLP ([Link](https://link.springer.com/chapter/10.1007/978-3-030-69717-4_10)).
 - Arabic Text Categorization: A Comparison Survey ([Link](https://ieeexplore.ieee.org/document/9491640)).
+- Classifiers for Arabic NLP: survey ([Link](https://www.inderscienceonline.com/doi/abs/10.1504/IJCCIA.2020.105538)).
 
 
 ## Quesion Answering
