@@ -1,5 +1,14 @@
-# Arabic Survey Papers Repository (ASPR)
-In this repository, we list survey, reviewes and systematic review papers on Arabic Natural Language Processing (NLP). We complied a list of 50 papers between 2022 and 1990), we show the list of the papers with URLs. **Disclaimer:** we didnot review the quality of the listed papers. 
+# Arabic NLP Survey Papers Repository (ASPR) - مستودع الأوراق المسحية في معالجة اللغة العربية (أسبر)
+
+In this repository, we list survey, literature review and systematic review papers for Arabic Natural Language Processing (NLP). We complied a list of 50+ papers with their URLs. The list will be updated in a regular basis and volunteers are welcome to contribute. 
+
+في هذا المستودع، حاولنا جمع الأوراق المسحية ومراجعة الأدبيات وأوراق المراجعة المنهجية لمعالجة اللغة العربية الطبيعية (NLP). القائمة تضم أكثر من 50 بحثًا مع رابط الوصول للورقة. سيتم تحديث القائمة بشكل دوري  ونرحب بمشاركة المتطوعين.
+
+**
+|disclaimer| إخلاء المسؤولية |
+|----------|----------------|
+| we didn't review the quality of the listed papers.  | لم نعمل على مراجعة جودة الأوراق المدرجة. |
+**
 
 ## General
 - Arabic natural language processing: An overview ([Link](https://www.sciencedirect.com/science/article/pii/S1319157818310553?via%3Dihub)).
@@ -7,6 +16,8 @@ In this repository, we list survey, reviewes and systematic review papers on Ara
 ## Text Classification
 - Arabic Text Classification: A Review Study on Feature Selection Methods ([Link](https://ieeexplore.ieee.org/document/9677185)).
 - Arabic Text Classification: A Literature Review ([Link](https://ieeexplore.ieee.org/document/9686874)).
+- Text Classification of Arabic Text: Deep Learning in ANLP ([Link](https://link.springer.com/chapter/10.1007/978-3-030-69717-4_10)).
+- Arabic Text Categorization: A Comparison Survey ([Link](https://ieeexplore.ieee.org/document/9491640)).
 
 
 ## Quesion Answering
