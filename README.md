@@ -57,6 +57,7 @@ In this repository, we list survey, literature review and systematic review pape
 
 ## Dialects Identification & Detection
 - Systematic Literature Review of Dialectal Arabic: Identification and Detection ([Link](https://ieeexplore.ieee.org/document/9354635)).
+- Natural Language Processing for Dialectical Arabic: A Survey ([Link](https://aclanthology.org/W15-3205.pdf)).
 
 ## Plagiarism Detection Systems
 - A Survey of Plagiarism Detection Systems: Case of Use with English, French and Arabic Languages  ([Link](https://arxiv.org/abs/2201.03423)).
