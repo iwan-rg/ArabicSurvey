@@ -12,6 +12,7 @@ In this repository, we list survey, literature review and systematic review pape
 ##
 ## General
 - Arabic natural language processing: An overview ([Link](https://www.sciencedirect.com/science/article/pii/S1319157818310553?via%3Dihub)).
+- A panoramic survey of natural language processing in the Arab world ([Link](https://dl.acm.org/doi/fullHtml/10.1145/3447735)).
 
 ## Text Classification
 - Arabic Text Classification: A Review Study on Feature Selection Methods ([Link](https://ieeexplore.ieee.org/document/9677185)).
