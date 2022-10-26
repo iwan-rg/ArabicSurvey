@@ -84,6 +84,9 @@ In this repository, we list survey, literature review and systematic review pape
 - Arabic NLP tools for ontology construction from Arabic text: An overview ([Link](https://ieeexplore.ieee.org/abstract/document/7162980)).
 - Critical Survey of the Freely Available Arabic Corpora ([Link](https://arxiv.org/abs/1702.07835v1)).
 
+## Opinion Mining
+- A Survey of Opinion Mining in Arabic: A Comprehensive System Perspective Covering Challenges and Advances in Tools, Resources, Models, Applications, and Visualizations ([Link](https://dl.acm.org/doi/abs/10.1145/3295662)).
+
 ## Others (Steganography, Transfer Learning, Deep learning, etc.) 
 - A Review of Arabic Text Steganography ([Link](https://dl.acm.org/doi/10.1145/3456146.3456148)).
 - A Survey on Transfer Learning in Natural Language Processing ([Link](https://arxiv.org/abs/2007.04239)).
