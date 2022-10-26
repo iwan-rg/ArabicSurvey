@@ -14,6 +14,10 @@ In this repository, we list survey, literature review and systematic review pape
 - Arabic natural language processing: An overview ([Link](https://www.sciencedirect.com/science/article/pii/S1319157818310553?via%3Dihub)).
 - A panoramic survey of natural language processing in the Arab world ([Link](https://dl.acm.org/doi/fullHtml/10.1145/3447735)).
 
+## Morphology
+- Stemming impact on Arabic text categorization performance: A survey ([Link](https://ieeexplore.ieee.org/abstract/document/7426875)).
+- A Survey of Lexical Functional Grammar in the Arabic Context ([Link](https://pdfs.semanticscholar.org/edf8/4a8181e8a5755e6011995f0b2de4566bb21d.pdf)).
+
 ## Text Classification & Mining
 - Arabic Text Classification: A Review Study on Feature Selection Methods ([Link](https://ieeexplore.ieee.org/document/9677185)).
 - Arabic Text Classification: A Literature Review ([Link](https://ieeexplore.ieee.org/document/9686874)).
@@ -94,3 +98,4 @@ In this repository, we list survey, literature review and systematic review pape
 - A Survey on Transfer Learning in Natural Language Processing ([Link](https://arxiv.org/abs/2007.04239)).
 - Deep learning for Arabic NLP: A survey ([Link](https://www.sciencedirect.com/science/article/abs/pii/S1877750317303757)).
 - Graph-based Arabic NLP Techniques: A Survey ([Link](https://www.sciencedirect.com/science/article/pii/S1877050918321926)).
+- A Survey and Comparative Study of Arabic NLP Architectures ([Link](https://link.springer.com/chapter/10.1007/978-3-319-67056-0_28)).
