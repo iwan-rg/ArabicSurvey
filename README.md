@@ -63,6 +63,7 @@ In this repository, we list survey, literature review and systematic review pape
 
 ## Machine Translation
 - Arabic Machine Translation: A Survey With Challenges and Future Directions ([Link](https://ieeexplore.ieee.org/document/9634008)).
+- Machine translation for Arabic dialects (survey) ([Link](https://www.sciencedirect.com/science/article/abs/pii/S0306457316305702)).
 
 ## Handwriting Recognition 
 - A Survey on Arabic Handwritten Script Recognition Systems ([Link](https://www.igi-global.com/gateway/article/279276)).
