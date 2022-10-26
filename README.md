@@ -28,6 +28,7 @@ In this repository, we list survey, literature review and systematic review pape
 - Classifiers for Arabic NLP: survey ([Link](https://www.inderscienceonline.com/doi/abs/10.1504/IJCCIA.2020.105538)).
 - A Survey of Arabic Text Mining ([Link](https://link.springer.com/chapter/10.1007/978-3-319-67056-0_20)).
 - Text Mining Techniques for Sentiment Analysis of Arabic Dialects: Literature Review ([Link](https://www.researchgate.net/profile/Arwa-A-Al-Shamsi/publication/349576084_Text_Mining_Techniques_for_Sentiment_Analysis_of_Arabic_Dialects_Literature_Review/links/60433a0b92851c077f1cc4ec/Text-Mining-Techniques-for-Sentiment-Analysis-of-Arabic-Dialects-Literature-Review.pdf)).
+-  Classification of Arabic Tweets: A Review  ([Link](https://www.mdpi.com/2079-9292/10/10/1143)).
 
 ## Named Entity Recognition
 -  A Survey of Arabic Named Entity Recognition and Classification ([Link](https://direct.mit.edu/coli/article/40/2/469/1475/A-Survey-of-Arabic-Named-Entity-Recognition-and)).
