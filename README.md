@@ -91,6 +91,7 @@ In this repository, we list survey, literature review and systematic review pape
 ## Ontology and Resources
 - Arabic NLP tools for ontology construction from Arabic text: An overview ([Link](https://ieeexplore.ieee.org/abstract/document/7162980)).
 - Critical Survey of the Freely Available Arabic Corpora ([Link](https://arxiv.org/abs/1702.07835v1)).
+- Freely Available Arabic Corpora: A Scoping Review ([Link](https://www.sciencedirect.com/science/article/pii/S2666990022000015)).
 
 ## Opinion Mining
 - A Survey of Opinion Mining in Arabic: A Comprehensive System Perspective Covering Challenges and Advances in Tools, Resources, Models, Applications, and Visualizations ([Link](https://dl.acm.org/doi/abs/10.1145/3295662)).
