@@ -77,6 +77,10 @@ In this repository, we list survey, literature review and systematic review pape
 - A Survey of Offensive Language Detection for the Arabic Language ([Link](https://dl.acm.org/doi/10.1145/3421504)).
 - Cyberbullying Classification Methods for Arabic: A Systematic Review ([Link](https://link.springer.com/chapter/10.1007/978-3-030-76346-6_35)).
 
+## Ontology and Resources
+- Arabic NLP tools for ontology construction from Arabic text: An overview ([Link](https://ieeexplore.ieee.org/abstract/document/7162980)).
+- Critical Survey of the Freely Available Arabic Corpora ([Link](https://arxiv.org/abs/1702.07835v1)).
+
 ## Others (Steganography, Transfer Learning, Deep learning, etc.) 
 - A Review of Arabic Text Steganography ([Link](https://dl.acm.org/doi/10.1145/3456146.3456148)).
 - A Survey on Transfer Learning in Natural Language Processing ([Link](https://arxiv.org/abs/2007.04239)).
