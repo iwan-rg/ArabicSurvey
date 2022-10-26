@@ -32,6 +32,7 @@ In this repository, we list survey, literature review and systematic review pape
 ## Named Entity Recognition
 -  A Survey of Arabic Named Entity Recognition and Classification ([Link](https://direct.mit.edu/coli/article/40/2/469/1475/A-Survey-of-Arabic-Named-Entity-Recognition-and)).
 -  A comparative review of machine learning for Arabic named entity recognition ([Link](https://www.researchgate.net/profile/Ramzi-Salah/publication/315822557_A_Comparative_Review_of_Machine_Learning_for_Arabic_Named_Entity_Recognition/links/58f6b9b0a6fdcc187f3a6617/A-Comparative-Review-of-Machine-Learning-for-Arabic-Named-Entity-Recognition.pdf)).
+-  A Recent Survey of Arabic Named Entity Recognition on Social Media ([Link](https://www.researchgate.net/profile/Soukaina-Mihi/publication/342075278_A_Recent_Survey_of_Arabic_Named_Entity_Recognition_on_Social_Media/links/60524bd9458515e83451834f/A-Recent-Survey-of-Arabic-Named-Entity-Recognition-on-Social-Media.pdf)).
 
 ## Quesion Answering
  - Arabic question answering system: a survey ([Link](https://link.springer.com/article/10.1007/s10462-021-10031-1)).
