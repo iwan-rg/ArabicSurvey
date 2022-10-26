@@ -54,9 +54,10 @@ In this repository, we list survey, literature review and systematic review pape
 - A Comprehensive Review of Arabic Text Summarization ([Link](https://ieeexplore.ieee.org/document/9745159)).
 - Automatic arabic text summarization (AATS): A survey ([Link](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs213589)).
 
-## Conversational AI
+## Conversational AI (Chatbots & Dialogue systems)
 - Recent Developments in Arabic Conversational AI: A Literature Review ([Link](https://ieeexplore.ieee.org/document/9723043)).
 - Empathy and Persona of English vs. Arabic Chatbots: A Survey and Future Directions ([Link](https://link.springer.com/chapter/10.1007/978-3-031-16270-1_43)).
+- Arabic Chatbots: A Survey ([Link](https://pdfs.semanticscholar.org/2150/6e1399980b0b5e5233938129020bb75c7a59.pdf)).
 
 ## Word Sense Disambiguation (WSD)
 - A comprehensive review on Arabic word sense disambiguation for natural language processing applications ([Link](https://wires.onlinelibrary.wiley.com/doi/10.1002/widm.1447)).
