@@ -101,3 +101,4 @@ In this repository, we list survey, literature review and systematic review pape
 - Deep learning for Arabic NLP: A survey ([Link](https://www.sciencedirect.com/science/article/abs/pii/S1877750317303757)).
 - Graph-based Arabic NLP Techniques: A Survey ([Link](https://www.sciencedirect.com/science/article/pii/S1877050918321926)).
 - A Survey and Comparative Study of Arabic NLP Architectures ([Link](https://link.springer.com/chapter/10.1007/978-3-319-67056-0_28)).
+- The Use of Hidden Markov Model in Natural ARABIC Language Processing: a survey ([Link](https://www.sciencedirect.com/science/article/pii/S1877050917317738)).
