@@ -4,11 +4,11 @@ In this repository, we list survey, literature review and systematic review pape
 
 في هذا المستودع، حاولنا جمع الأوراق المسحية ومراجعة الأدبيات وأوراق المراجعة المنهجية لمعالجة اللغة العربية الطبيعية (NLP). القائمة تضم أكثر من 50 بحثًا مع رابط الوصول للورقة. سيتم تحديث القائمة بشكل دوري  ونرحب بمشاركة المتطوعين.
 
-**
-|disclaimer| إخلاء المسؤولية |
+
+|Disclaimer| إخلاء مسؤولية |
 |----------|----------------|
-| we didn't review the quality of the listed papers.  | لم نعمل على مراجعة جودة الأوراق المدرجة. |
-**
+| We didn't review the quality of the listed papers.  | لم نعمل على مراجعة جودة الأوراق المدرجة. |
+
 ##
 ## General
 - Arabic natural language processing: An overview ([Link](https://www.sciencedirect.com/science/article/pii/S1319157818310553?via%3Dihub)).
