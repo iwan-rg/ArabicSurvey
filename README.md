@@ -21,6 +21,8 @@ In this repository, we list survey, literature review and systematic review pape
 - Arabic Text Categorization: A Comparison Survey ([Link](https://ieeexplore.ieee.org/document/9491640)).
 - Classifiers for Arabic NLP: survey ([Link](https://www.inderscienceonline.com/doi/abs/10.1504/IJCCIA.2020.105538)).
 
+## Named Entity Recognition
+-  A Survey of Arabic Named Entity Recognition and Classification ([Link](https://direct.mit.edu/coli/article/40/2/469/1475/A-Survey-of-Arabic-Named-Entity-Recognition-and)).
 
 ## Quesion Answering
  - Arabic question answering system: a survey ([Link](https://link.springer.com/article/10.1007/s10462-021-10031-1)).
