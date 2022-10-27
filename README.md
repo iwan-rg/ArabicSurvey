@@ -13,6 +13,7 @@ In this repository, we list survey, literature review and systematic review pape
 ## General
 - Arabic natural language processing: An overview ([Link](https://www.sciencedirect.com/science/article/pii/S1319157818310553?via%3Dihub)).
 - A panoramic survey of natural language processing in the Arab world ([Link](https://dl.acm.org/doi/fullHtml/10.1145/3447735)).
+- Recent Advances in NLP: The Case of Arabic Language [Book] ([Link](https://books.google.com.sa/books?hl=en&lr=&id=HQ3BDwAAQBAJ&oi=fnd&pg=PR5&dq=arabic+nlp&ots=UROXqs23R1&sig=37A5-xdyACv_FxpQIjeV6hrSIFY&redir_esc=y#v=onepage&q=arabic%20nlp&f=false)).
 
 ## Enabling Tools (Morphology, Diacritization, Grammer, etc.)
 - Stemming impact on Arabic text categorization performance: A survey ([Link](https://ieeexplore.ieee.org/abstract/document/7426875)).
