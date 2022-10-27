@@ -21,6 +21,7 @@ In this repository, we list survey, literature review and systematic review pape
 - A Survey of Lexical Functional Grammar in the Arabic Context ([Link](https://pdfs.semanticscholar.org/edf8/4a8181e8a5755e6011995f0b2de4566bb21d.pdf)).
 - A survey of automatic Arabic diacritization techniques ([Link](https://www.cambridge.org/core/journals/natural-language-engineering/article/abs/survey-of-automatic-arabic-diacritization-techniques/8D869B09FE33D60F3C801A97AFD6C5F1)).
 - Automatic Methods and Neural Networks in Arabic Texts Diacritization: A Comprehensive Survey ([Link](https://ieeexplore.ieee.org/abstract/document/9585619)).
+-  A review of morphosyntactic analysers and tag-sets for Arabic corpus linguistics ([Link](https://eprints.whiterose.ac.uk/94413/)).
 
 ## Text Classification & Mining
 - Arabic Text Classification: A Review Study on Feature Selection Methods ([Link](https://ieeexplore.ieee.org/document/9677185)).
