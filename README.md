@@ -115,6 +115,7 @@ In this repository, we list survey, literature review and systematic review pape
 ## Offensive Language Detection
 - A Survey of Offensive Language Detection for the Arabic Language ([Link](https://dl.acm.org/doi/10.1145/3421504)).
 - Cyberbullying Classification Methods for Arabic: A Systematic Review ([Link](https://link.springer.com/chapter/10.1007/978-3-030-76346-6_35)).
+- Detecting Arabic textual threats in social media using artificial intelligence: An overview ([Link](https://www.researchgate.net/profile/Hossam-Elzayady/publication/358644391_Detecting_Arabic_textual_threats_in_social_media_using_artificial_intelligence_An_overview/links/620d2494e0b7e94fb0c55ed3/Detecting-Arabic-textual-threats-in-social-media-using-artificial-intelligence-An-overview.pdf)). 
 
 ## Fake news and Spam
 - Arabic Fake News and Spam Handling: Methods, Resources and Opportunities ([Link](https://ieeexplore.ieee.org/document/9671174)).
@@ -128,6 +129,10 @@ In this repository, we list survey, literature review and systematic review pape
 ## Opinion Mining
 - A Survey of Opinion Mining in Arabic: A Comprehensive System Perspective Covering Challenges and Advances in Tools, Resources, Models, Applications, and Visualizations ([Link](https://dl.acm.org/doi/abs/10.1145/3295662)).
 
+## Knowledge Graph 
+- Arabic Knowledge Graph Construction: A close look in the present and into the future ([Link](https://www.sciencedirect.com/science/article/pii/S1319157822001240)).
+- The Arabic Knowledge Graph: Opportunities and Challenges ([Link](https://ieeexplore.ieee.org/abstract/document/7889502)).
+
 ## Others (Information Retrieval, Steganography, Transfer Learning, Deep learning, etc.) 
 - A Review of Arabic Text Steganography ([Link](https://dl.acm.org/doi/10.1145/3456146.3456148)).
 - A Survey on Transfer Learning in Natural Language Processing ([Link](https://arxiv.org/abs/2007.04239)).
@@ -136,5 +141,4 @@ In this repository, we list survey, literature review and systematic review pape
 - A Survey and Comparative Study of Arabic NLP Architectures ([Link](https://link.springer.com/chapter/10.1007/978-3-319-67056-0_28)).
 - The Use of Hidden Markov Model in Natural ARABIC Language Processing: a survey ([Link](https://www.sciencedirect.com/science/article/pii/S1877050917317738)).
 - Arabic Readability Research: Current State and Future Directions ([Link](https://www.sciencedirect.com/science/article/pii/S1877050918321598)).
-- The Arabic Knowledge Graph: Opportunities and Challenges ([Link](https://ieeexplore.ieee.org/abstract/document/7889502)).
 - Arabic Cross-Language Information Retrieval: A Review ([Link](https://dl.acm.org/doi/abs/10.1145/2789210?casa_token=ztyuMF_bHoAAAAAA:hbGaRp4_myDh7o_AvShgCtZ4yP7MiaiusTYKKHKsY7oP3mmichP_R0aAX_MMgjO1IJYd-KgDx2NOiQ)).
