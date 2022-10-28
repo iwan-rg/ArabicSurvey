@@ -58,6 +58,7 @@ In this repository, we list survey, literature review and systematic review pape
  - Arabic Question Answering: Systems, Resources, Tools, and Future Trends ([Link](https://link.springer.com/article/10.1007/s13369-014-1062-2)).
  - Recent Advances and Challenges of Arabic Why Question Answering Systems ([Link](https://dl.acm.org/doi/abs/10.1145/3485557.3485571?casa_token=IaXgR4SkmBsAAAAA:izj6y50jZHivk-I4j9-AGtyJhYV8NkwHbZF-xGQq-NR91HLEbQcrU_czBJEFV3MY93lUvcFln14IaQ)).
  - A Review and Future Perspectives of Arabic Question Answering Systems ([Link](https://ieeexplore.ieee.org/abstract/document/7563293)). 
+ - Ontology-Based Approach to Semantically Enhanced Question Answering for Closed Domain: A Review  ([Link](https://www.mdpi.com/2078-2489/12/5/200)).
    
 ## Sentiment Analysis
 - Arabic Sentiment Analysis: A Survey ([Link](https://www.proquest.com/docview/2656539777?pq-origsite=gscholar&fromopenview=true)).
@@ -86,12 +87,14 @@ In this repository, we list survey, literature review and systematic review pape
 - Sentiment analysis in healthcare: a brief review ([Link](https://link.springer.com/chapter/10.1007/978-3-030-34614-0_7)).
 - Arabic Sentiment Analysis Approaches: An Overview ([Link](https://ieeexplore.ieee.org/abstract/document/9375763)).
 - Arabic sentiment analysis: studies, resources, and tools ([Link](https://link.springer.com/article/10.1007/s13278-019-0602-x)).
+- Text-based Arabic Emotion Detection Challenges and Effective Approaches: A Review of the State-of-the-Art ([Link](https://ijisrt.com/assets/upload/files/IJISRT21MAR342.pdf)).
 
 ## Speech
 - Arabic Automatic Speech Recognition: A Systematic Literature Review ([Link](https://www.mdpi.com/2076-3417/12/17/8898)).
 - Deep Investigation of the Recent Advances in Dialectal Arabic Speech Recognition ([Link](https://ieeexplore.ieee.org/document/9780142)).
 - Arabic Speech Processing: State of the Art and Future Outlook ([Link](https://link.springer.com/chapter/10.1007/978-981-19-3444-5_5)).
 - Automatic Speech Recognition (ASR) Systems for Learning Arabic Language and Al-Quran Recitation: A Review ([Link](https://d1wqtxts1xzle7.cloudfront.net/68918547/V10I7202116-with-cover-page-v2.pdf?Expires=1666952652&Signature=KK2jrbXvVXy0caRqLKsb-XlrVwb4oIqljvp73erdF1RwC3IQLt0AAxrzYGW-geRBs3NLnCds1bdHP7SJmWITNY5uZPo7FEAQVImquJ~w04zoKVS4y5VOV9n7f7Jq-G7unyOIbBqXYpyQmTywvBYOxpHrPbdtnfPls8a4VeHScxxfd77~E~8Top3VSMUX4S4~~lvBua3eKmsUd8Rgqp~0Ac4fh5-iY5vOK73-ojolDOxarXCnrk85WFfS2t240e9rr-vtrnO-DKaASWwriizAhaCPWSm9aAiYlqJcwIJo6hICNEVK8XmVTC2aqmr5VFAQAHx-Aw~YoeHzlFc9JgY57Q__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)).
+- Arabic Speech Recognition with Deep Learning: A Review ([Link](https://link.springer.com/chapter/10.1007/978-3-030-21902-4_2)).
 
 ## Summarization
 - A Comprehensive Review of Arabic Text Summarization ([Link](https://ieeexplore.ieee.org/document/9745159)).
@@ -106,7 +109,7 @@ In this repository, we list survey, literature review and systematic review pape
 - Arabic Chatbots: A Survey ([Link](https://pdfs.semanticscholar.org/2150/6e1399980b0b5e5233938129020bb75c7a59.pdf)).
 - Support of existing chatbot development framework for Arabic language: a brief survey ([Link](https://link.springer.com/chapter/10.1007/978-3-319-78753-4_3)).
 - A Review of Arabic Intelligent Chatbots: Developments and Challenges ([Link](https://rengj.mosuljournals.com/article_175364_en.html)). 
-
+- A Survey of Arabic Dialogues Understanding for Spontaneous Dialogues and Instant Message ([Link](https://arxiv.org/abs/1505.03084)).
 
 ## Word Sense Disambiguation (WSD)
 - A comprehensive review on Arabic word sense disambiguation for natural language processing applications ([Link](https://wires.onlinelibrary.wiley.com/doi/10.1002/widm.1447)).
@@ -129,6 +132,7 @@ In this repository, we list survey, literature review and systematic review pape
 - Arabic machine translation: a survey ([Link](https://link.springer.com/article/10.1007/s10462-012-9351-1)).
 - Arabic machine translation: A survey of the latest trends and challenges ([Link](https://www.sciencedirect.com/science/article/abs/pii/S1574013720304056)).
 - Neural Arabic Text Diacritization: State of the Art Results and a Novel Approach for Machine Translation ([Link](https://arxiv.org/abs/1911.03531)).
+- Survey of Arabic Machine Translation, Methodologies, Progress, and Challenges ([Link](https://ieeexplore.ieee.org/abstract/document/9781776)).
 
 ## Handwriting Recognition 
 - A Survey on Arabic Handwritten Script Recognition Systems ([Link](https://www.igi-global.com/gateway/article/279276)).
@@ -143,6 +147,7 @@ In this repository, we list survey, literature review and systematic review pape
 ## Fake news and Spam
 - Arabic Fake News and Spam Handling: Methods, Resources and Opportunities ([Link](https://ieeexplore.ieee.org/document/9671174)).
 - A systematic literature review on phishing email detection using natural language processing techniques ([Link](https://ieeexplore.ieee.org/abstract/document/9795286)).
+- Arabic Fake News Detection: A Fact Checking Based Deep Learning Approach ([Link](https://dl.acm.org/doi/full/10.1145/3501401?casa_token=y9cTqG7Xg3UAAAAA%3Ak8xc8qYg_7HDpkOOnfYPeCO-WvIzTWtuVl925aRlSbSq_MgBsQQdcgWMcyQWKrLoI_JBrSbL95Arhg)).
 
 ## Ontology and Resources
 - Arabic NLP tools for ontology construction from Arabic text: An overview ([Link](https://ieeexplore.ieee.org/abstract/document/7162980)).
@@ -150,6 +155,8 @@ In this repository, we list survey, literature review and systematic review pape
 - Freely Available Arabic Corpora: A Scoping Review ([Link](https://www.sciencedirect.com/science/article/pii/S2666990022000015)).
 - Applying ontological engineering approach for Arabic Quran corpus: A comprehensive survey ([Link](https://ieeexplore.ieee.org/abstract/document/7397287)).
 - Arabic Quranic Search Tool Based on Ontology ([Link](https://link.springer.com/chapter/10.1007/978-3-319-41754-7_52)).
+- An Overview of Ontology Learning Process from Arabic Text ([Link](https://journals.ekb.eg/article_81877.html)).
+- Ontology-Based Approach to Semantically Enhanced Question Answering for Closed Domain: A Review  ([Link](https://www.mdpi.com/2078-2489/12/5/200)).
 
 ## Opinion Mining
 - A Survey of Opinion Mining in Arabic: A Comprehensive System Perspective Covering Challenges and Advances in Tools, Resources, Models, Applications, and Visualizations ([Link](https://dl.acm.org/doi/abs/10.1145/3295662)).
@@ -177,3 +184,4 @@ In this repository, we list survey, literature review and systematic review pape
 - Arabic Topic Identification: A Decade Scoping Review ([Link](https://www.e3s-conferences.org/articles/e3sconf/abs/2021/73/e3sconf_iccsre21_01058/e3sconf_iccsre21_01058.html)).
 - Arabic Query Expansion: A Review ([Link](https://www.researchgate.net/profile/Jaffar-Atwan/publication/323689372_Arabic_query_expansion_A_review/links/5aa4f7a7aca272d448b95c58/Arabic-query-expansion-A-review.pdf)).
 - Arabic Domain Terminology Extraction: A Literature Review ([Link](https://link.springer.com/chapter/10.1007/978-3-662-45563-0_51)).
+- Semantic similarity for english and arabic texts: a review ([Link](https://www.worldscientific.com/doi/abs/10.1142/S0219649220500331)).
