@@ -15,6 +15,7 @@ In this repository, we list survey, literature review and systematic review pape
 - A panoramic survey of natural language processing in the Arab world ([Link](https://dl.acm.org/doi/fullHtml/10.1145/3447735)).
 - Recent Advances in NLP: The Case of Arabic Language [Book] ([Link](https://books.google.com.sa/books?hl=en&lr=&id=HQ3BDwAAQBAJ&oi=fnd&pg=PR5&dq=arabic+nlp&ots=UROXqs23R1&sig=37A5-xdyACv_FxpQIjeV6hrSIFY&redir_esc=y#v=onepage&q=arabic%20nlp&f=false)).
 - A Review Study for Arabic Machine Learning and Deep Learning Methods ([Link](https://ieeexplore.ieee.org/abstract/document/9888948)).
+-  A survey on the state-of-the-art machine learning models in the context of NLP ([Link](https://journalskuwait.org/kjs/index.php/KJS/article/view/946)).
 
 ## Enabling Tools (Morphology, Diacritization, Grammer, etc.)
 - Stemming impact on Arabic text categorization performance: A survey ([Link](https://ieeexplore.ieee.org/abstract/document/7426875)).
@@ -42,6 +43,9 @@ In this repository, we list survey, literature review and systematic review pape
 -  Machine Learning Algorithms in Arabic Text Classification: A Review ([Link](https://ieeexplore.ieee.org/abstract/document/9073058)).
 -  A systematic review of text classification research based ondeep learning models in Arabic language ([Link](https://pdfs.semanticscholar.org/9a39/0e96ae960a2c263680fde1f47126307eab70.pdf)). 
 -  Applications of mining arabic text: A review [Book Chapter] ([Link](https://books.google.com.sa/books?hl=en&lr=&id=MJn8DwAAQBAJ&oi=fnd&pg=PA91&dq=arabic+nlp&ots=501rjKm1Sb&sig=IcMa93VyljryGGtnwC51D5CO96c&redir_esc=y#v=onepage&q=arabic%20nlp&f=false)).
+-  Arabic text classification methods: Systematic literature review of primary studies ([Link](https://ieeexplore.ieee.org/abstract/document/7805072)).
+-  Computational Mining of Social Media to Curb Terrorism ([Link](https://dl.acm.org/doi/abs/10.1145/3342101?casa_token=YWtNoES3_h4AAAAA:xovlRheNVKsFL2K34V4IlrhIY5UG1OZhGYa88eXlWd2aU-o3vanJ8tNKW4etcwzqDMAbLoqmtwlm7Q)).
+-  Arabic Text Mining a Systematic Review of the Published Literature 2002-2014 ([Link](https://ieeexplore.ieee.org/abstract/document/7149632)).
 
 ## Named Entity Recognition
 -  A Survey of Arabic Named Entity Recognition and Classification ([Link](https://direct.mit.edu/coli/article/40/2/469/1475/A-Survey-of-Arabic-Named-Entity-Recognition-and)).
@@ -88,6 +92,11 @@ In this repository, we list survey, literature review and systematic review pape
 - Arabic Sentiment Analysis Approaches: An Overview ([Link](https://ieeexplore.ieee.org/abstract/document/9375763)).
 - Arabic sentiment analysis: studies, resources, and tools ([Link](https://link.springer.com/article/10.1007/s13278-019-0602-x)).
 - Text-based Arabic Emotion Detection Challenges and Effective Approaches: A Review of the State-of-the-Art ([Link](https://ijisrt.com/assets/upload/files/IJISRT21MAR342.pdf)).
+- Recent Advances of Affect Detection from Arabic Text ([Link](https://ieeexplore.ieee.org/abstract/document/8809155)).
+- Lexicon-based sentiment analysis of arabic tweets: A survey ([Link](https://www.researchgate.net/profile/Baha-Ihnaini/publication/328497117_Lexicon-Based_Sentiment_Analysis_of_Arabic_Tweets_A_Survey/links/5bd18fa2299bf14eac83a977/Lexicon-Based-Sentiment-Analysis-of-Arabic-Tweets-A-Survey.pdf)).
+- Sentiment analysis of arabic documents: main challenges and recent advances ([Link](https://www.igi-global.com/chapter/sentiment-analysis-of-arabic-documents/308542)).
+- Sentiment analysis for arabic in social media network: A systematic mapping study ([Link](https://arxiv.org/abs/1911.05483)).
+- An Overview of Word Embedding Models Evaluation for Arabic Sentiment Analysis ([Link](https://link.springer.com/chapter/10.1007/978-3-031-07969-6_31)).
 
 ## Speech
 - Arabic Automatic Speech Recognition: A Systematic Literature Review ([Link](https://www.mdpi.com/2076-3417/12/17/8898)).
@@ -95,6 +104,9 @@ In this repository, we list survey, literature review and systematic review pape
 - Arabic Speech Processing: State of the Art and Future Outlook ([Link](https://link.springer.com/chapter/10.1007/978-981-19-3444-5_5)).
 - Automatic Speech Recognition (ASR) Systems for Learning Arabic Language and Al-Quran Recitation: A Review ([Link](https://d1wqtxts1xzle7.cloudfront.net/68918547/V10I7202116-with-cover-page-v2.pdf?Expires=1666952652&Signature=KK2jrbXvVXy0caRqLKsb-XlrVwb4oIqljvp73erdF1RwC3IQLt0AAxrzYGW-geRBs3NLnCds1bdHP7SJmWITNY5uZPo7FEAQVImquJ~w04zoKVS4y5VOV9n7f7Jq-G7unyOIbBqXYpyQmTywvBYOxpHrPbdtnfPls8a4VeHScxxfd77~E~8Top3VSMUX4S4~~lvBua3eKmsUd8Rgqp~0Ac4fh5-iY5vOK73-ojolDOxarXCnrk85WFfS2t240e9rr-vtrnO-DKaASWwriizAhaCPWSm9aAiYlqJcwIJo6hICNEVK8XmVTC2aqmr5VFAQAHx-Aw~YoeHzlFc9JgY57Q__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)).
 - Arabic Speech Recognition with Deep Learning: A Review ([Link](https://link.springer.com/chapter/10.1007/978-3-030-21902-4_2)).
+- End-to-End Arabic Speech Recognition: A Review ([Link](https://www.researchgate.net/profile/Hamzah-Alsayadi/publication/344799361_End-to-End_Arabic_Speech_Recognition_A_Review/links/5f90babfa6fdccfd7b74575d/End-to-End-Arabic-Speech-Recognition-A-Review.pdf)).
+- Arabic Speech Recognition: Challenges and State of the Art [Book Chapter] ([Link](https://www.worldscientific.com/doi/abs/10.1142/9789813229396_0001)).
+-  The Challenges of Developing a Living Arabic Phonetic Dictionary for Speech Recognition System: A Literature Review ([Link](https://journals.aijr.org/index.php/ajss/article/view/3633)).
 
 ## Summarization
 - A Comprehensive Review of Arabic Text Summarization ([Link](https://ieeexplore.ieee.org/document/9745159)).
@@ -134,15 +146,19 @@ In this repository, we list survey, literature review and systematic review pape
 - Neural Arabic Text Diacritization: State of the Art Results and a Novel Approach for Machine Translation ([Link](https://arxiv.org/abs/1911.03531)).
 - Survey of Arabic Machine Translation, Methodologies, Progress, and Challenges ([Link](https://ieeexplore.ieee.org/abstract/document/9781776)).
 
-## Handwriting Recognition 
+## Handwriting Recognition & OCR
 - A Survey on Arabic Handwritten Script Recognition Systems ([Link](https://www.igi-global.com/gateway/article/279276)).
 - Automatic recognition of handwritten Arabic characters: a comprehensive review ([Link](https://link.springer.com/article/10.1007/s00521-020-05137-6)).
 - Offline arabic handwritten text recognition: A Survey ([Link](https://dl.acm.org/doi/abs/10.1145/2431211.2431222?casa_token=UFXdsrCmVxEAAAAA:q3mXIBotlToHuE6aNAQItjk4-4DGSTZMW5TkyDEe3BGPmq-GamDqy8zif2-NN0qdbSPux4YP_I0DoA)).
+- Arabic Online Handwriting Recognition (AOHR): A Survey ([Link](https://dl.acm.org/doi/abs/10.1145/3060620?casa_token=Wr1pbv7mr44AAAAA:w2zfxfHxwHpzMpXsg-nVQ914Mm0nSFtYxiSDHKHkfIUp6ds0usicEOv4_ndL7UoUtVSk6s1VZ-xlLQ)).
+- Arabic Character Recognition: Progress and Challenges ([Link](https://www.sciencedirect.com/science/article/pii/S131915780080004X)).
+- Arabic character recognition: a survey ([Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/3386/0000/Arabic-character-recognition-a-survey/10.1117/12.304778.short?SSO=1)).
 
 ## Offensive Language Detection
 - A Survey of Offensive Language Detection for the Arabic Language ([Link](https://dl.acm.org/doi/10.1145/3421504)).
 - Cyberbullying Classification Methods for Arabic: A Systematic Review ([Link](https://link.springer.com/chapter/10.1007/978-3-030-76346-6_35)).
 - Detecting Arabic textual threats in social media using artificial intelligence: An overview ([Link](https://www.researchgate.net/profile/Hossam-Elzayady/publication/358644391_Detecting_Arabic_textual_threats_in_social_media_using_artificial_intelligence_An_overview/links/620d2494e0b7e94fb0c55ed3/Detecting-Arabic-textual-threats-in-social-media-using-artificial-intelligence-An-overview.pdf)). 
+- From Machine Learning to Deep Learning for Detecting Abusive Messages in Arabic Social Media: Survey and Challenges ([Link](https://link.springer.com/chapter/10.1007/978-3-030-71187-0_38)).
 
 ## Fake news and Spam
 - Arabic Fake News and Spam Handling: Methods, Resources and Opportunities ([Link](https://ieeexplore.ieee.org/document/9671174)).
@@ -158,6 +174,11 @@ In this repository, we list survey, literature review and systematic review pape
 - An Overview of Ontology Learning Process from Arabic Text ([Link](https://journals.ekb.eg/article_81877.html)).
 - Ontology-Based Approach to Semantically Enhanced Question Answering for Closed Domain: A Review  ([Link](https://www.mdpi.com/2078-2489/12/5/200)).
 
+## Information Retrieval
+- Arabic Cross-Language Information Retrieval: A Review ([Link](https://dl.acm.org/doi/abs/10.1145/2789210?casa_token=ztyuMF_bHoAAAAAA:hbGaRp4_myDh7o_AvShgCtZ4yP7MiaiusTYKKHKsY7oP3mmichP_R0aAX_MMgjO1IJYd-KgDx2NOiQ)).
+- Current Approaches in Arabic IR: A Survey ([Link](https://link.springer.com/chapter/10.1007/978-3-540-89533-6_57)).
+- Automatic Indexing of Arabic Texts: State of the Art ([Link](http://196.200.140.34/index.php/eti/article/view/96)).
+
 ## Opinion Mining
 - A Survey of Opinion Mining in Arabic: A Comprehensive System Perspective Covering Challenges and Advances in Tools, Resources, Models, Applications, and Visualizations ([Link](https://dl.acm.org/doi/abs/10.1145/3295662)).
 - A review of recent aspect extraction techniques for opinion mining systems ([Link](https://ieeexplore.ieee.org/abstract/document/8374382)).
@@ -166,12 +187,16 @@ In this repository, we list survey, literature review and systematic review pape
 - Arabic Knowledge Graph Construction: A close look in the present and into the future ([Link](https://www.sciencedirect.com/science/article/pii/S1319157822001240)).
 - The Arabic Knowledge Graph: Opportunities and Challenges ([Link](https://ieeexplore.ieee.org/abstract/document/7889502)).
 
+## Query Expansion
+- Arabic Query Expansion: A Review ([Link](https://www.researchgate.net/profile/Jaffar-Atwan/publication/323689372_Arabic_query_expansion_A_review/links/5aa4f7a7aca272d448b95c58/Arabic-query-expansion-A-review.pdf)).
+- Survey of Automatic Query Expansion for Arabic Text Retrieval ([Link](https://jistap.accesson.kr/v.8/4/67/7239)).
+
 ## Religious Text
 - Computational and natural language processing based studies of hadith literature: a survey ([Link](https://link.springer.com/article/10.1007/s10462-019-09692-w)).
 - A review of Quranic computation for e-learning ([Link](https://www.researchgate.net/profile/Dr-Abdullah-Kammani/publication/287694304_A_review_of_Quranic_computation_for_e-learning/links/57c111dd08aeda1ec38a5688/A-review-of-Quranic-computation-for-e-learning.pdf)).
 - Arabic Quranic Search Tool Based on Ontology ([Link](https://link.springer.com/chapter/10.1007/978-3-319-41754-7_52)).
 
-## Others (Information Retrieval, Steganography, Transfer Learning, Deep learning, etc.) 
+## Others (Steganography, Transfer Learning, Deep learning, etc.) 
 - A Review of Arabic Text Steganography ([Link](https://dl.acm.org/doi/10.1145/3456146.3456148)).
 - A Survey on Transfer Learning in Natural Language Processing ([Link](https://arxiv.org/abs/2007.04239)).
 - Deep learning for Arabic NLP: A survey ([Link](https://www.sciencedirect.com/science/article/abs/pii/S1877750317303757)).
@@ -179,9 +204,9 @@ In this repository, we list survey, literature review and systematic review pape
 - A Survey and Comparative Study of Arabic NLP Architectures ([Link](https://link.springer.com/chapter/10.1007/978-3-319-67056-0_28)).
 - The Use of Hidden Markov Model in Natural ARABIC Language Processing: a survey ([Link](https://www.sciencedirect.com/science/article/pii/S1877050917317738)).
 - Arabic Readability Research: Current State and Future Directions ([Link](https://www.sciencedirect.com/science/article/pii/S1877050918321598)).
-- Arabic Cross-Language Information Retrieval: A Review ([Link](https://dl.acm.org/doi/abs/10.1145/2789210?casa_token=ztyuMF_bHoAAAAAA:hbGaRp4_myDh7o_AvShgCtZ4yP7MiaiusTYKKHKsY7oP3mmichP_R0aAX_MMgjO1IJYd-KgDx2NOiQ)).
 - Research Trends in the Fields of Arabic Natural Language Processing Tasks and Arabic Information Extraction Applications: A Survey Study ([Link](https://journals.sfu.ca/ijitls/index.php/ijitls/article/view/233)).
 - Arabic Topic Identification: A Decade Scoping Review ([Link](https://www.e3s-conferences.org/articles/e3sconf/abs/2021/73/e3sconf_iccsre21_01058/e3sconf_iccsre21_01058.html)).
-- Arabic Query Expansion: A Review ([Link](https://www.researchgate.net/profile/Jaffar-Atwan/publication/323689372_Arabic_query_expansion_A_review/links/5aa4f7a7aca272d448b95c58/Arabic-query-expansion-A-review.pdf)).
 - Arabic Domain Terminology Extraction: A Literature Review ([Link](https://link.springer.com/chapter/10.1007/978-3-662-45563-0_51)).
 - Semantic similarity for english and arabic texts: a review ([Link](https://www.worldscientific.com/doi/abs/10.1142/S0219649220500331)).
+- Automatic Arabic sign language recognition: A review, taxonomy, open challenges, research roadmap and future directions ([Link](http://jummec.um.edu.my/index.php/MJCS/article/view/26902)).
+- Improving the reliability of deep neural networks in NLP: A review ([Link](https://www.sciencedirect.com/science/article/abs/pii/S0950705119305428)).
