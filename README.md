@@ -32,6 +32,7 @@ In this repository, we list survey, literature review and systematic review pape
 - A Survey of Arabic Text Mining ([Link](https://link.springer.com/chapter/10.1007/978-3-319-67056-0_20)).
 - Text Mining Techniques for Sentiment Analysis of Arabic Dialects: Literature Review ([Link](https://www.researchgate.net/profile/Arwa-A-Al-Shamsi/publication/349576084_Text_Mining_Techniques_for_Sentiment_Analysis_of_Arabic_Dialects_Literature_Review/links/60433a0b92851c077f1cc4ec/Text-Mining-Techniques-for-Sentiment-Analysis-of-Arabic-Dialects-Literature-Review.pdf)).
 -  Classification of Arabic Tweets: A Review  ([Link](https://www.mdpi.com/2079-9292/10/10/1143)).
+-  Machine Learning Algorithms in Arabic Text Classification: A Review ([Link](https://ieeexplore.ieee.org/abstract/document/9073058)).
 
 ## Named Entity Recognition
 -  A Survey of Arabic Named Entity Recognition and Classification ([Link](https://direct.mit.edu/coli/article/40/2/469/1475/A-Survey-of-Arabic-Named-Entity-Recognition-and)).
@@ -63,7 +64,8 @@ In this repository, we list survey, literature review and systematic review pape
 - A comprehensive study for Arabic sentiment analysis (challenges and applications) ([Link](https://www.sciencedirect.com/science/article/pii/S1110866519300945)).
 - Emotion Analysis of Arabic Tweets: Language Models and Available Resources ([Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9007318/)).
 - An Overview of Sentiment Analysis with Dialectical Processing ([Link](https://link.springer.com/chapter/10.1007/978-3-030-82616-1_1)).
--  The Corpus Based Approach to Sentiment Analysis in Modern Standard Arabic and Arabic Dialects: A Literature Review ([Link](https://dergipark.org.tr/tr/pub/politeknik/issue/36719/403975)).
+- The Corpus Based Approach to Sentiment Analysis in Modern Standard Arabic and Arabic Dialects: A Literature Review ([Link](https://dergipark.org.tr/tr/pub/politeknik/issue/36719/403975)).
+- Sentiment Analysis in Arabic: An Overview ([Link](https://core.ac.uk/download/pdf/249335183.pdf)).
 
 ## Speech
 - Arabic Automatic Speech Recognition: A Systematic Literature Review ([Link](https://www.mdpi.com/2076-3417/12/17/8898)).
@@ -73,6 +75,7 @@ In this repository, we list survey, literature review and systematic review pape
 ## Summarization
 - A Comprehensive Review of Arabic Text Summarization ([Link](https://ieeexplore.ieee.org/document/9745159)).
 - Automatic arabic text summarization (AATS): A survey ([Link](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs213589)).
+- Recent Advances in Arabic Automatic Text Summarization ([Link](https://www.researchgate.net/profile/Ahmad-Al-Taani/publication/356993013_Recent_Advances_in_Arabic_Automatic_Text_Summarization/links/61b742f51d88475981e87efe/Recent-Advances-in-Arabic-Automatic-Text-Summarization.pdf)).
 
 ## Conversational AI (Chatbots & Dialogue systems)
 - Recent Developments in Arabic Conversational AI: A Literature Review ([Link](https://ieeexplore.ieee.org/document/9723043)).
@@ -82,6 +85,7 @@ In this repository, we list survey, literature review and systematic review pape
 
 ## Word Sense Disambiguation (WSD)
 - A comprehensive review on Arabic word sense disambiguation for natural language processing applications ([Link](https://wires.onlinelibrary.wiley.com/doi/10.1002/widm.1447)).
+- Arabic word sense disambiguation: a review ([Link](https://link.springer.com/article/10.1007/s10462-018-9622-6)).
 
 ## Dialects
 - Systematic Literature Review of Dialectal Arabic: Identification and Detection ([Link](https://ieeexplore.ieee.org/document/9354635)).
@@ -126,3 +130,4 @@ In this repository, we list survey, literature review and systematic review pape
 - Graph-based Arabic NLP Techniques: A Survey ([Link](https://www.sciencedirect.com/science/article/pii/S1877050918321926)).
 - A Survey and Comparative Study of Arabic NLP Architectures ([Link](https://link.springer.com/chapter/10.1007/978-3-319-67056-0_28)).
 - The Use of Hidden Markov Model in Natural ARABIC Language Processing: a survey ([Link](https://www.sciencedirect.com/science/article/pii/S1877050917317738)).
+- Arabic Readability Research: Current State and Future Directions ([Link](https://www.sciencedirect.com/science/article/pii/S1877050918321598)).
