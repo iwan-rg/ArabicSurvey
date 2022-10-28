@@ -176,3 +176,4 @@ In this repository, we list survey, literature review and systematic review pape
 - Research Trends in the Fields of Arabic Natural Language Processing Tasks and Arabic Information Extraction Applications: A Survey Study ([Link](https://journals.sfu.ca/ijitls/index.php/ijitls/article/view/233)).
 - Arabic Topic Identification: A Decade Scoping Review ([Link](https://www.e3s-conferences.org/articles/e3sconf/abs/2021/73/e3sconf_iccsre21_01058/e3sconf_iccsre21_01058.html)).
 - Arabic Query Expansion: A Review ([Link](https://www.researchgate.net/profile/Jaffar-Atwan/publication/323689372_Arabic_query_expansion_A_review/links/5aa4f7a7aca272d448b95c58/Arabic-query-expansion-A-review.pdf)).
+- Arabic Domain Terminology Extraction: A Literature Review ([Link](https://link.springer.com/chapter/10.1007/978-3-662-45563-0_51)).
