@@ -173,4 +173,6 @@ In this repository, we list survey, literature review and systematic review pape
 - The Use of Hidden Markov Model in Natural ARABIC Language Processing: a survey ([Link](https://www.sciencedirect.com/science/article/pii/S1877050917317738)).
 - Arabic Readability Research: Current State and Future Directions ([Link](https://www.sciencedirect.com/science/article/pii/S1877050918321598)).
 - Arabic Cross-Language Information Retrieval: A Review ([Link](https://dl.acm.org/doi/abs/10.1145/2789210?casa_token=ztyuMF_bHoAAAAAA:hbGaRp4_myDh7o_AvShgCtZ4yP7MiaiusTYKKHKsY7oP3mmichP_R0aAX_MMgjO1IJYd-KgDx2NOiQ)).
-- 
+- Research Trends in the Fields of Arabic Natural Language Processing Tasks and Arabic Information Extraction Applications: A Survey Study ([Link](https://journals.sfu.ca/ijitls/index.php/ijitls/article/view/233)).
+- Arabic Topic Identification: A Decade Scoping Review ([Link](https://www.e3s-conferences.org/articles/e3sconf/abs/2021/73/e3sconf_iccsre21_01058/e3sconf_iccsre21_01058.html)).
+- Arabic Query Expansion: A Review ([Link](https://www.researchgate.net/profile/Jaffar-Atwan/publication/323689372_Arabic_query_expansion_A_review/links/5aa4f7a7aca272d448b95c58/Arabic-query-expansion-A-review.pdf)).
