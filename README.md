@@ -63,6 +63,7 @@ In this repository, we list survey, literature review and systematic review pape
 - A comprehensive study for Arabic sentiment analysis (challenges and applications) ([Link](https://www.sciencedirect.com/science/article/pii/S1110866519300945)).
 - Emotion Analysis of Arabic Tweets: Language Models and Available Resources ([Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9007318/)).
 - An Overview of Sentiment Analysis with Dialectical Processing ([Link](https://link.springer.com/chapter/10.1007/978-3-030-82616-1_1)).
+-  The Corpus Based Approach to Sentiment Analysis in Modern Standard Arabic and Arabic Dialects: A Literature Review ([Link](https://dergipark.org.tr/tr/pub/politeknik/issue/36719/403975)).
 
 ## Speech
 - Arabic Automatic Speech Recognition: A Systematic Literature Review ([Link](https://www.mdpi.com/2076-3417/12/17/8898)).
@@ -113,6 +114,7 @@ In this repository, we list survey, literature review and systematic review pape
 - Arabic NLP tools for ontology construction from Arabic text: An overview ([Link](https://ieeexplore.ieee.org/abstract/document/7162980)).
 - Critical Survey of the Freely Available Arabic Corpora ([Link](https://arxiv.org/abs/1702.07835v1)).
 - Freely Available Arabic Corpora: A Scoping Review ([Link](https://www.sciencedirect.com/science/article/pii/S2666990022000015)).
+- Applying ontological engineering approach for Arabic Quran corpus: A comprehensive survey ([Link](https://ieeexplore.ieee.org/abstract/document/7397287)).
 
 ## Opinion Mining
 - A Survey of Opinion Mining in Arabic: A Comprehensive System Perspective Covering Challenges and Advances in Tools, Resources, Models, Applications, and Visualizations ([Link](https://dl.acm.org/doi/abs/10.1145/3295662)).
