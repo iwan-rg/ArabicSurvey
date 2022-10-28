@@ -30,6 +30,7 @@ In this repository, we list survey, literature review and systematic review pape
 -  Neural Arabic Text Diacritization: State of the Art Results and a Novel Approach for Machine Translation ([Link](https://arxiv.org/abs/1911.03531)).
 -  A Review of Part of Speech Tagger for Arabic Language ([Link](https://d1wqtxts1xzle7.cloudfront.net/63194278/A_Review_of_Part_of_Speech_Tagger_for_Arabic_Language20200504-103867-18xzow9-with-cover-page-v2.pdf?Expires=1666951940&Signature=D7CX-wj5VtG3ZODeEZwOZYws5jr3br453X4b2MpDMVlXA10LAasPOPQuHb4T63DSoTTuaxk2UqfU7j7OYy1oUQn9ZsJqlosfOCF3SwQd~lZtARfWzoQ7QruFFy2FWJr2nWN6DeTNhSjV8tHxUUSDJRZjGvz6Y0kwximRsSbb4iMa3VcjdL4f6HibaTyINcKATiFyou1QDVuM7qnuZlpo-FF0J2Yd9PKNK-xil7HK4eehGd53BV~BejtL3pry2F5IOVqwRRiNJDqJiVzy5xbBr6r6gJkInfBEXONwOKtmoM4XsQxAjDorl49ScCxeG5xOVl5hcJONE-uQRgB2a9eaKQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)).
 -  A Comparative Study of Some Automatic Arabic Text Diacritization Systems ([Link](https://www.hindawi.com/journals/ahci/2022/3613710/)).
+-  Arabic Semantic Similarity Approaches - Review ([Link](https://ieeexplore.ieee.org/abstract/document/8672665)).
 
 ## Text Classification & Mining
 - Arabic Text Classification: A Review Study on Feature Selection Methods ([Link](https://ieeexplore.ieee.org/document/9677185)).
@@ -46,6 +47,7 @@ In this repository, we list survey, literature review and systematic review pape
 -  Arabic text classification methods: Systematic literature review of primary studies ([Link](https://ieeexplore.ieee.org/abstract/document/7805072)).
 -  Computational Mining of Social Media to Curb Terrorism ([Link](https://dl.acm.org/doi/abs/10.1145/3342101?casa_token=YWtNoES3_h4AAAAA:xovlRheNVKsFL2K34V4IlrhIY5UG1OZhGYa88eXlWd2aU-o3vanJ8tNKW4etcwzqDMAbLoqmtwlm7Q)).
 -  Arabic Text Mining a Systematic Review of the Published Literature 2002-2014 ([Link](https://ieeexplore.ieee.org/abstract/document/7149632)).
+-   BERT Models for Arabic Text Classification: A Systematic Review ([Link](https://www.mdpi.com/2076-3417/12/11/5720)).
 
 ## Named Entity Recognition
 -  A Survey of Arabic Named Entity Recognition and Classification ([Link](https://direct.mit.edu/coli/article/40/2/469/1475/A-Survey-of-Arabic-Named-Entity-Recognition-and)).
@@ -97,6 +99,7 @@ In this repository, we list survey, literature review and systematic review pape
 - Sentiment analysis of arabic documents: main challenges and recent advances ([Link](https://www.igi-global.com/chapter/sentiment-analysis-of-arabic-documents/308542)).
 - Sentiment analysis for arabic in social media network: A systematic mapping study ([Link](https://arxiv.org/abs/1911.05483)).
 - An Overview of Word Embedding Models Evaluation for Arabic Sentiment Analysis ([Link](https://link.springer.com/chapter/10.1007/978-3-031-07969-6_31)).
+- Sentiment Analysis of Arabic Sequential Data Using Traditional and Deep Learning: A Review ([Link](https://link.springer.com/chapter/10.1007/978-3-030-62796-6_26)).
 
 ## Speech
 - Arabic Automatic Speech Recognition: A Systematic Literature Review ([Link](https://www.mdpi.com/2076-3417/12/17/8898)).
@@ -107,6 +110,7 @@ In this repository, we list survey, literature review and systematic review pape
 - End-to-End Arabic Speech Recognition: A Review ([Link](https://www.researchgate.net/profile/Hamzah-Alsayadi/publication/344799361_End-to-End_Arabic_Speech_Recognition_A_Review/links/5f90babfa6fdccfd7b74575d/End-to-End-Arabic-Speech-Recognition-A-Review.pdf)).
 - Arabic Speech Recognition: Challenges and State of the Art [Book Chapter] ([Link](https://www.worldscientific.com/doi/abs/10.1142/9789813229396_0001)).
 -  The Challenges of Developing a Living Arabic Phonetic Dictionary for Speech Recognition System: A Literature Review ([Link](https://journals.aijr.org/index.php/ajss/article/view/3633)).
+-  Literature Survey of Arabic Speech Recognition ([Link](https://ieeexplore.ieee.org/abstract/document/8374215)).
 
 ## Summarization
 - A Comprehensive Review of Arabic Text Summarization ([Link](https://ieeexplore.ieee.org/document/9745159)).
@@ -137,6 +141,7 @@ In this repository, we list survey, literature review and systematic review pape
 
 ## Plagiarism Detection Systems
 - A Survey of Plagiarism Detection Systems: Case of Use with English, French and Arabic Languages  ([Link](https://arxiv.org/abs/2201.03423)).
+- Plagiarism Detection Techniques for Arabic Script Languages: A Literature Review ([Link](https://www.kjar.spu.edu.iq/index.php/kjar/article/view/66)).
 
 ## Machine Translation
 - Arabic Machine Translation: A Survey With Challenges and Future Directions ([Link](https://ieeexplore.ieee.org/document/9634008)).
@@ -195,6 +200,10 @@ In this repository, we list survey, literature review and systematic review pape
 - Computational and natural language processing based studies of hadith literature: a survey ([Link](https://link.springer.com/article/10.1007/s10462-019-09692-w)).
 - A review of Quranic computation for e-learning ([Link](https://www.researchgate.net/profile/Dr-Abdullah-Kammani/publication/287694304_A_review_of_Quranic_computation_for_e-learning/links/57c111dd08aeda1ec38a5688/A-review-of-Quranic-computation-for-e-learning.pdf)).
 - Arabic Quranic Search Tool Based on Ontology ([Link](https://link.springer.com/chapter/10.1007/978-3-319-41754-7_52)).
+- Question Answering Systems on Holy Quran: A Review of Existing Frameworks, Approaches, Algorithms and Research Issues ([Link](https://iopscience.iop.org/article/10.1088/1742-6596/1501/1/012022/meta)).
+- Arabic Text Clustering Methods and Suggested Solutions for Theme-Based Quran Clustering: Analysis of Literature ([Link](https://oarep.usim.edu.my/jspui/handle/123456789/14961)).
+- Quranic Computation: A Review of Research and Application ([Link](https://ieeexplore.ieee.org/abstract/document/7277247)).
+- Hadith Text Classification: A Literature Review ([Link](https://eudl.eu/doi/10.4108/eai.2-10-2018.2295445)).
 
 ## Others (Steganography, Transfer Learning, Deep learning, etc.) 
 - A Review of Arabic Text Steganography ([Link](https://dl.acm.org/doi/10.1145/3456146.3456148)).
@@ -210,3 +219,4 @@ In this repository, we list survey, literature review and systematic review pape
 - Semantic similarity for english and arabic texts: a review ([Link](https://www.worldscientific.com/doi/abs/10.1142/S0219649220500331)).
 - Automatic Arabic sign language recognition: A review, taxonomy, open challenges, research roadmap and future directions ([Link](http://jummec.um.edu.my/index.php/MJCS/article/view/26902)).
 - Improving the reliability of deep neural networks in NLP: A review ([Link](https://www.sciencedirect.com/science/article/abs/pii/S0950705119305428)).
+- Arabic Automatic Essay Scoring Systems: An Overview Study ([Link](https://link.springer.com/chapter/10.1007/978-3-030-96308-8_108)).
