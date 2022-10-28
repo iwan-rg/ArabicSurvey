@@ -35,6 +35,7 @@ In this repository, we list survey, literature review and systematic review pape
 -  Classification of Arabic Tweets: A Review  ([Link](https://www.mdpi.com/2079-9292/10/10/1143)).
 -  Machine Learning Algorithms in Arabic Text Classification: A Review ([Link](https://ieeexplore.ieee.org/abstract/document/9073058)).
 -  A systematic review of text classification research based ondeep learning models in Arabic language ([Link](https://pdfs.semanticscholar.org/9a39/0e96ae960a2c263680fde1f47126307eab70.pdf)). 
+-  Applications of mining arabic text: A review [Book Chapter] ([Link](https://books.google.com.sa/books?hl=en&lr=&id=MJn8DwAAQBAJ&oi=fnd&pg=PA91&dq=arabic+nlp&ots=501rjKm1Sb&sig=IcMa93VyljryGGtnwC51D5CO96c&redir_esc=y#v=onepage&q=arabic%20nlp&f=false)).
 
 ## Named Entity Recognition
 -  A Survey of Arabic Named Entity Recognition and Classification ([Link](https://direct.mit.edu/coli/article/40/2/469/1475/A-Survey-of-Arabic-Named-Entity-Recognition-and)).
@@ -127,7 +128,7 @@ In this repository, we list survey, literature review and systematic review pape
 ## Opinion Mining
 - A Survey of Opinion Mining in Arabic: A Comprehensive System Perspective Covering Challenges and Advances in Tools, Resources, Models, Applications, and Visualizations ([Link](https://dl.acm.org/doi/abs/10.1145/3295662)).
 
-## Others (Steganography, Transfer Learning, Deep learning, etc.) 
+## Others (Information Retrieval, Steganography, Transfer Learning, Deep learning, etc.) 
 - A Review of Arabic Text Steganography ([Link](https://dl.acm.org/doi/10.1145/3456146.3456148)).
 - A Survey on Transfer Learning in Natural Language Processing ([Link](https://arxiv.org/abs/2007.04239)).
 - Deep learning for Arabic NLP: A survey ([Link](https://www.sciencedirect.com/science/article/abs/pii/S1877750317303757)).
@@ -136,3 +137,4 @@ In this repository, we list survey, literature review and systematic review pape
 - The Use of Hidden Markov Model in Natural ARABIC Language Processing: a survey ([Link](https://www.sciencedirect.com/science/article/pii/S1877050917317738)).
 - Arabic Readability Research: Current State and Future Directions ([Link](https://www.sciencedirect.com/science/article/pii/S1877050918321598)).
 - The Arabic Knowledge Graph: Opportunities and Challenges ([Link](https://ieeexplore.ieee.org/abstract/document/7889502)).
+- Arabic Cross-Language Information Retrieval: A Review ([Link](https://dl.acm.org/doi/abs/10.1145/2789210?casa_token=ztyuMF_bHoAAAAAA:hbGaRp4_myDh7o_AvShgCtZ4yP7MiaiusTYKKHKsY7oP3mmichP_R0aAX_MMgjO1IJYd-KgDx2NOiQ)).
