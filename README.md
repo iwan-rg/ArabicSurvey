@@ -33,6 +33,7 @@ In this repository, we list survey, literature review and systematic review pape
 - Text Mining Techniques for Sentiment Analysis of Arabic Dialects: Literature Review ([Link](https://www.researchgate.net/profile/Arwa-A-Al-Shamsi/publication/349576084_Text_Mining_Techniques_for_Sentiment_Analysis_of_Arabic_Dialects_Literature_Review/links/60433a0b92851c077f1cc4ec/Text-Mining-Techniques-for-Sentiment-Analysis-of-Arabic-Dialects-Literature-Review.pdf)).
 -  Classification of Arabic Tweets: A Review  ([Link](https://www.mdpi.com/2079-9292/10/10/1143)).
 -  Machine Learning Algorithms in Arabic Text Classification: A Review ([Link](https://ieeexplore.ieee.org/abstract/document/9073058)).
+-  A systematic review of text classification research based ondeep learning models in Arabic language ([Link](https://pdfs.semanticscholar.org/9a39/0e96ae960a2c263680fde1f47126307eab70.pdf)). 
 
 ## Named Entity Recognition
 -  A Survey of Arabic Named Entity Recognition and Classification ([Link](https://direct.mit.edu/coli/article/40/2/469/1475/A-Survey-of-Arabic-Named-Entity-Recognition-and)).
@@ -67,6 +68,7 @@ In this repository, we list survey, literature review and systematic review pape
 - An Overview of Sentiment Analysis with Dialectical Processing ([Link](https://link.springer.com/chapter/10.1007/978-3-030-82616-1_1)).
 - The Corpus Based Approach to Sentiment Analysis in Modern Standard Arabic and Arabic Dialects: A Literature Review ([Link](https://dergipark.org.tr/tr/pub/politeknik/issue/36719/403975)).
 - Sentiment Analysis in Arabic: An Overview ([Link](https://core.ac.uk/download/pdf/249335183.pdf)).
+- Subjectivity and Sentiment Analysis of Arabic: A Survey ([Link](https://link.springer.com/chapter/10.1007/978-3-642-35326-0_14)).
 
 ## Speech
 - Arabic Automatic Speech Recognition: A Systematic Literature Review ([Link](https://www.mdpi.com/2076-3417/12/17/8898)).
@@ -132,3 +134,4 @@ In this repository, we list survey, literature review and systematic review pape
 - A Survey and Comparative Study of Arabic NLP Architectures ([Link](https://link.springer.com/chapter/10.1007/978-3-319-67056-0_28)).
 - The Use of Hidden Markov Model in Natural ARABIC Language Processing: a survey ([Link](https://www.sciencedirect.com/science/article/pii/S1877050917317738)).
 - Arabic Readability Research: Current State and Future Directions ([Link](https://www.sciencedirect.com/science/article/pii/S1877050918321598)).
+- The Arabic Knowledge Graph: Opportunities and Challenges ([Link](https://ieeexplore.ieee.org/abstract/document/7889502)).
