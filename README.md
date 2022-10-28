@@ -23,6 +23,8 @@ In this repository, we list survey, literature review and systematic review pape
 - Automatic Methods and Neural Networks in Arabic Texts Diacritization: A Comprehensive Survey ([Link](https://ieeexplore.ieee.org/abstract/document/9585619)).
 -  A review of morphosyntactic analysers and tag-sets for Arabic corpus linguistics ([Link](https://eprints.whiterose.ac.uk/94413/)).
 -  A comparative survey on Arabic stemming: approaches and challenges ([Link](https://www.scirp.org/html/1-8701417_75067.htm)).
+-  Neural Computing Based Part of Speech Tagger for Arabic Language: A Review Study ([Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3460163)). 
+-  Part of speech tagger for Arabic text based support vector machines: A review ([Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3460178)).
 
 ## Text Classification & Mining
 - Arabic Text Classification: A Review Study on Feature Selection Methods ([Link](https://ieeexplore.ieee.org/document/9677185)).
@@ -71,6 +73,8 @@ In this repository, we list survey, literature review and systematic review pape
 - The Corpus Based Approach to Sentiment Analysis in Modern Standard Arabic and Arabic Dialects: A Literature Review ([Link](https://dergipark.org.tr/tr/pub/politeknik/issue/36719/403975)).
 - Sentiment Analysis in Arabic: An Overview ([Link](https://core.ac.uk/download/pdf/249335183.pdf)).
 - Subjectivity and Sentiment Analysis of Arabic: A Survey ([Link](https://link.springer.com/chapter/10.1007/978-3-642-35326-0_14)).
+- A review on Arabic sentiment analysis: state-of-the-art, taxonomy and open research challenges ([Link](https://ieeexplore.ieee.org/abstract/document/8890900)).
+- A Systematic Review for Sentiment Analysis of Arabic Dialect Texts Researches ([Link](https://link.springer.com/chapter/10.1007/978-3-030-85990-9_25)).
 
 ## Speech
 - Arabic Automatic Speech Recognition: A Systematic Literature Review ([Link](https://www.mdpi.com/2076-3417/12/17/8898)).
@@ -87,6 +91,7 @@ In this repository, we list survey, literature review and systematic review pape
 - Empathy and Persona of English vs. Arabic Chatbots: A Survey and Future Directions ([Link](https://link.springer.com/chapter/10.1007/978-3-031-16270-1_43)).
 - Arabic chatbot technologies: A scoping review ([Link](https://www.sciencedirect.com/science/article/pii/S2666990022000088)).
 - Arabic Chatbots: A Survey ([Link](https://pdfs.semanticscholar.org/2150/6e1399980b0b5e5233938129020bb75c7a59.pdf)).
+- Support of existing chatbot development framework for Arabic language: a brief survey ([Link](https://link.springer.com/chapter/10.1007/978-3-319-78753-4_3)).
 
 ## Word Sense Disambiguation (WSD)
 - A comprehensive review on Arabic word sense disambiguation for natural language processing applications ([Link](https://wires.onlinelibrary.wiley.com/doi/10.1002/widm.1447)).
@@ -98,6 +103,7 @@ In this repository, we list survey, literature review and systematic review pape
 - Language resources for Maghrebi Arabic dialects’ NLP: a survey ([Link](https://link.springer.com/article/10.1007/s10579-020-09490-9)).
 - Maghrebi Arabic dialect processing: an overview ([Link](https://hal.archives-ouvertes.fr/hal-01873779/)).
 - An Overview of Sentiment Analysis with Dialectical Processing ([Link](https://link.springer.com/chapter/10.1007/978-3-030-82616-1_1)).
+- A Systematic Review for Sentiment Analysis of Arabic Dialect Texts Researches ([Link](https://link.springer.com/chapter/10.1007/978-3-030-85990-9_25)).
 
 ## Plagiarism Detection Systems
 - A Survey of Plagiarism Detection Systems: Case of Use with English, French and Arabic Languages  ([Link](https://arxiv.org/abs/2201.03423)).
@@ -119,6 +125,7 @@ In this repository, we list survey, literature review and systematic review pape
 
 ## Fake news and Spam
 - Arabic Fake News and Spam Handling: Methods, Resources and Opportunities ([Link](https://ieeexplore.ieee.org/document/9671174)).
+- A systematic literature review on phishing email detection using natural language processing techniques ([Link](https://ieeexplore.ieee.org/abstract/document/9795286)).
 
 ## Ontology and Resources
 - Arabic NLP tools for ontology construction from Arabic text: An overview ([Link](https://ieeexplore.ieee.org/abstract/document/7162980)).
@@ -142,3 +149,4 @@ In this repository, we list survey, literature review and systematic review pape
 - The Use of Hidden Markov Model in Natural ARABIC Language Processing: a survey ([Link](https://www.sciencedirect.com/science/article/pii/S1877050917317738)).
 - Arabic Readability Research: Current State and Future Directions ([Link](https://www.sciencedirect.com/science/article/pii/S1877050918321598)).
 - Arabic Cross-Language Information Retrieval: A Review ([Link](https://dl.acm.org/doi/abs/10.1145/2789210?casa_token=ztyuMF_bHoAAAAAA:hbGaRp4_myDh7o_AvShgCtZ4yP7MiaiusTYKKHKsY7oP3mmichP_R0aAX_MMgjO1IJYd-KgDx2NOiQ)).
+- Computational and natural language processing based studies of hadith literature: a survey ([Link](https://link.springer.com/article/10.1007/s10462-019-09692-w)).
