@@ -62,6 +62,7 @@ In this repository, we list survey, literature review and systematic review pape
 - Modern trends in Arabic sentiment analysis: A survey ([Link](https://www.researchgate.net/profile/Hala-Mulki/publication/328052398_Modern_Trends_in_Arabic_Sentiment_Analysis_A_Survey/links/5bb5376745851574f7f7e8a0/Modern-Trends-in-Arabic-Sentiment-Analysis-A-Survey.pdf)).
 - A comprehensive study for Arabic sentiment analysis (challenges and applications) ([Link](https://www.sciencedirect.com/science/article/pii/S1110866519300945)).
 - Emotion Analysis of Arabic Tweets: Language Models and Available Resources ([Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9007318/)).
+- An Overview of Sentiment Analysis with Dialectical Processing ([Link](https://link.springer.com/chapter/10.1007/978-3-030-82616-1_1)).
 
 ## Speech
 - Arabic Automatic Speech Recognition: A Systematic Literature Review ([Link](https://www.mdpi.com/2076-3417/12/17/8898)).
@@ -86,6 +87,7 @@ In this repository, we list survey, literature review and systematic review pape
 - Natural Language Processing for Dialectical Arabic: A Survey ([Link](https://aclanthology.org/W15-3205.pdf)).
 - Language resources for Maghrebi Arabic dialects’ NLP: a survey ([Link](https://link.springer.com/article/10.1007/s10579-020-09490-9)).
 - Maghrebi Arabic dialect processing: an overview ([Link](https://hal.archives-ouvertes.fr/hal-01873779/)).
+- An Overview of Sentiment Analysis with Dialectical Processing ([Link](https://link.springer.com/chapter/10.1007/978-3-030-82616-1_1)).
 
 ## Plagiarism Detection Systems
 - A Survey of Plagiarism Detection Systems: Case of Use with English, French and Arabic Languages  ([Link](https://arxiv.org/abs/2201.03423)).
