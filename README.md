@@ -37,6 +37,7 @@ In this repository, we list survey, literature review and systematic review pape
 -  A Survey of Arabic Named Entity Recognition and Classification ([Link](https://direct.mit.edu/coli/article/40/2/469/1475/A-Survey-of-Arabic-Named-Entity-Recognition-and)).
 -  A comparative review of machine learning for Arabic named entity recognition ([Link](https://www.researchgate.net/profile/Ramzi-Salah/publication/315822557_A_Comparative_Review_of_Machine_Learning_for_Arabic_Named_Entity_Recognition/links/58f6b9b0a6fdcc187f3a6617/A-Comparative-Review-of-Machine-Learning-for-Arabic-Named-Entity-Recognition.pdf)).
 -  A Recent Survey of Arabic Named Entity Recognition on Social Media ([Link](https://www.researchgate.net/profile/Soukaina-Mihi/publication/342075278_A_Recent_Survey_of_Arabic_Named_Entity_Recognition_on_Social_Media/links/60524bd9458515e83451834f/A-Recent-Survey-of-Arabic-Named-Entity-Recognition-on-Social-Media.pdf)).
+-  Arabic Rule-Based Named Entity Recognition Systems Progress and Challenges ([Link](https://core.ac.uk/outputs/325990680)).
 
 ## Quesion Answering
  - Arabic question answering system: a survey ([Link](https://link.springer.com/article/10.1007/s10462-021-10031-1)).
@@ -44,6 +45,8 @@ In this repository, we list survey, literature review and systematic review pape
    ([Link](https://www.hindawi.com/journals/acisc/2020/7403128/)).
  - Arabic Question Answering Systems: Gap Analysis ([Link](https://ieeexplore.ieee.org/document/9410528)).
  - A survey of Arabic question answering: challenges, tasks, approaches, tools, and future trends ([Link](https://www.researchgate.net/profile/Ahmed-Magdy-18/publication/270098044_A_Survey_of_Arabic_Question_Answering_Challenges_Tasks_Approaches_Tools_And_Future_Trends/links/549fcf230cf267bdb8fdc13c/A-Survey-of-Arabic-Question-Answering-Challenges-Tasks-Approaches-Tools-And-Future-Trends.pdf)).
+ - Arabic Question Answering: Systems, Resources, Tools, and Future Trends ([Link](https://link.springer.com/article/10.1007/s13369-014-1062-2)).
+ - Recent Advances and Challenges of Arabic Why Question Answering Systems ([Link](https://dl.acm.org/doi/abs/10.1145/3485557.3485571?casa_token=IaXgR4SkmBsAAAAA:izj6y50jZHivk-I4j9-AGtyJhYV8NkwHbZF-xGQq-NR91HLEbQcrU_czBJEFV3MY93lUvcFln14IaQ)).
    
 ## Sentiment Analysis
 - Arabic Sentiment Analysis: A Survey ([Link](https://www.proquest.com/docview/2656539777?pq-origsite=gscholar&fromopenview=true)).
@@ -100,7 +103,7 @@ In this repository, we list survey, literature review and systematic review pape
 - A Survey of Offensive Language Detection for the Arabic Language ([Link](https://dl.acm.org/doi/10.1145/3421504)).
 - Cyberbullying Classification Methods for Arabic: A Systematic Review ([Link](https://link.springer.com/chapter/10.1007/978-3-030-76346-6_35)).
 
-## Fake and Spam
+## Fake news and Spam
 - Arabic Fake News and Spam Handling: Methods, Resources and Opportunities ([Link](https://ieeexplore.ieee.org/document/9671174)).
 
 ## Ontology and Resources
