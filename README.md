@@ -206,6 +206,8 @@ In this repository, we list survey, literature review and systematic review pape
 - Arabic Text Clustering Methods and Suggested Solutions for Theme-Based Quran Clustering: Analysis of Literature ([Link](https://oarep.usim.edu.my/jspui/handle/123456789/14961)).
 - Quranic Computation: A Review of Research and Application ([Link](https://ieeexplore.ieee.org/abstract/document/7277247)).
 - Hadith Text Classification: A Literature Review ([Link](https://eudl.eu/doi/10.4108/eai.2-10-2018.2295445)).
+- Information Reliability Evaluation: From Arabic Storytelling to Computer Sciences ([Link](https://dl.acm.org/doi/10.1145/2693847)).
+- On the Usage of a Classical Arabic Corpus as a Language Resource: Related Research and Key Challenges ([Link](https://dl.acm.org/doi/10.1145/3277591)).
 
 ## Others (Steganography, Transfer Learning, Deep learning, etc.) 
 - A Review of Arabic Text Steganography ([Link](https://dl.acm.org/doi/10.1145/3456146.3456148)).
