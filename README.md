@@ -51,6 +51,7 @@ In this repository, we list survey, literature review and systematic review pape
 -  Arabic Text Mining a Systematic Review of the Published Literature 2002-2014 ([Link](https://ieeexplore.ieee.org/abstract/document/7149632)).
 -   BERT Models for Arabic Text Classification: A Systematic Review ([Link](https://www.mdpi.com/2076-3417/12/11/5720)).
 -   Comparative Study on Arabic Text Classification: Challenges and Opportunities ([Link](https://link.springer.com/chapter/10.1007/978-3-031-17576-3_10)).
+-   Multi-Label Arabic Text Classification: An Overview ([Link](https://pdfs.semanticscholar.org/ebc7/c0e8b809ea4a6159defde5a03156d1a1c64d.pdf)).
 
 ## Named Entity Recognition
 -  A Survey of Arabic Named Entity Recognition and Classification ([Link](https://direct.mit.edu/coli/article/40/2/469/1475/A-Survey-of-Arabic-Named-Entity-Recognition-and)).
