@@ -215,6 +215,7 @@ In this repository, we list survey, literature review and systematic review pape
 
 ## Others (Steganography, Transfer Learning, Deep learning, etc.) 
 - A Review of Arabic Text Steganography ([Link](https://dl.acm.org/doi/10.1145/3456146.3456148)).
+- A Comparative Analysis of Arabic Text Steganography ([Link](https://www.mdpi.com/2076-3417/11/15/6851)).
 - A Survey on Transfer Learning in Natural Language Processing ([Link](https://arxiv.org/abs/2007.04239)).
 - Deep learning for Arabic NLP: A survey ([Link](https://www.sciencedirect.com/science/article/abs/pii/S1877750317303757)).
 - Graph-based Arabic NLP Techniques: A Survey ([Link](https://www.sciencedirect.com/science/article/pii/S1877050918321926)).
