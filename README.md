@@ -226,3 +226,4 @@ In this repository, we list survey, literature review and systematic review pape
 - Improving the reliability of deep neural networks in NLP: A review ([Link](https://www.sciencedirect.com/science/article/abs/pii/S0950705119305428)).
 - Arabic Automatic Essay Scoring Systems: An Overview Study ([Link](https://link.springer.com/chapter/10.1007/978-3-030-96308-8_108)).
 - Arabic relation extraction: a survey ([Link](https://www.researchgate.net/profile/Injy-Sarhan/publication/351824481_Arabic_relation_extraction_A_survey/links/619e1aa9f1d624457166f7ee/Arabic-relation-extraction-A-survey.pdf)).
+- Automatic Translation from Arabic to Arabic Sign Language: A Review ([Link](https://ieeexplore.ieee.org/abstract/document/8726197)).
