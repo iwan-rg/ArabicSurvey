@@ -162,6 +162,7 @@ In this repository, we list survey, literature review and systematic review pape
 - Arabic Character Recognition: Progress and Challenges ([Link](https://www.sciencedirect.com/science/article/pii/S131915780080004X)).
 - Arabic character recognition: a survey ([Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/3386/0000/Arabic-character-recognition-a-survey/10.1117/12.304778.short?SSO=1)).
 - Offline Arabic Handwriting Recognition Using Deep Machine Learning: A Review of Recent Advances ([Link](https://link.springer.com/chapter/10.1007/978-3-030-39431-8_44)).
+- Arabic optical character recognition software: A review ([Link](https://link.springer.com/article/10.1134/S105466181704006X)).
 
 ## Offensive Language Detection
 - A Survey of Offensive Language Detection for the Arabic Language ([Link](https://dl.acm.org/doi/10.1145/3421504)).
