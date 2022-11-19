@@ -50,6 +50,7 @@ In this repository, we list survey, literature review and systematic review pape
 -  Computational Mining of Social Media to Curb Terrorism ([Link](https://dl.acm.org/doi/abs/10.1145/3342101?casa_token=YWtNoES3_h4AAAAA:xovlRheNVKsFL2K34V4IlrhIY5UG1OZhGYa88eXlWd2aU-o3vanJ8tNKW4etcwzqDMAbLoqmtwlm7Q)).
 -  Arabic Text Mining a Systematic Review of the Published Literature 2002-2014 ([Link](https://ieeexplore.ieee.org/abstract/document/7149632)).
 -   BERT Models for Arabic Text Classification: A Systematic Review ([Link](https://www.mdpi.com/2076-3417/12/11/5720)).
+-   Comparative Study on Arabic Text Classification: Challenges and Opportunities ([Link](https://link.springer.com/chapter/10.1007/978-3-031-17576-3_10)).
 
 ## Named Entity Recognition
 -  A Survey of Arabic Named Entity Recognition and Classification ([Link](https://direct.mit.edu/coli/article/40/2/469/1475/A-Survey-of-Arabic-Named-Entity-Recognition-and)).
