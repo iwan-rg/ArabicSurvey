@@ -1,8 +1,8 @@
 # Arabic NLP Survey Papers Repository (ASPR) - مستودع الأوراق المسحية في معالجة اللغة العربية (أسبر)
 
-In this repository, we list survey, literature review and systematic review papers for Arabic Natural Language Processing (NLP). We complied a list of 150+ papers with their URLs. The list will be updated in a regular basis and volunteers are welcome to contribute. 
+In this repository, we list survey, literature review and systematic review papers for Arabic Natural Language Processing (NLP). We complied a list of 200+ papers with their URLs. The list will be updated in a regular basis and volunteers are welcome to contribute. 
 
-في هذا المستودع، حاولنا جمع الأوراق المسحية ومراجعة الأدبيات وأوراق المراجعة المنهجية لمعالجة اللغة العربية الطبيعية (NLP). القائمة تضم أكثر من 150 بحثًا مع رابط الوصول للورقة. سيتم تحديث القائمة بشكل دوري  ونرحب بمشاركة المتطوعين.
+في هذا المستودع، حاولنا جمع الأوراق المسحية ومراجعة الأدبيات وأوراق المراجعة المنهجية لمعالجة اللغة العربية الطبيعية (NLP). القائمة تضم أكثر من 200 بحثًا مع رابط الوصول للورقة. سيتم تحديث القائمة بشكل دوري  ونرحب بمشاركة المتطوعين.
 
 
 |Disclaimer| إخلاء مسؤولية |
@@ -240,3 +240,4 @@ In this repository, we list survey, literature review and systematic review pape
 - Arabic Web page clustering: A review  ([Link](https://www.sciencedirect.com/science/article/pii/S1319157817300290)).
 - Towards Author Profiling from Modern Standard Arabic Texts: A Review ([Link](https://link.springer.com/chapter/10.1007/978-981-16-2377-6_69)).
 - Survey of Authorship Identification Tasks on Arabic Texts ([Link](https://dl.acm.org/doi/abs/10.1145/3564156)).
+- A Survey and Comparative Study of Arabic Diacritization Tools ([Link](https://jlcl.org/content/2-allissues/4-Heft1-2017/02-diacritics.pdf)).
