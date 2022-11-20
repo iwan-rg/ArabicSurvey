@@ -90,6 +90,7 @@ In this repository, we list survey, literature review and systematic review pape
 - The Corpus Based Approach to Sentiment Analysis in Modern Standard Arabic and Arabic Dialects: A Literature Review ([Link](https://dergipark.org.tr/tr/pub/politeknik/issue/36719/403975)).
 - Sentiment Analysis in Arabic: An Overview ([Link](https://core.ac.uk/download/pdf/249335183.pdf)).
 - Subjectivity and Sentiment Analysis of Arabic: A Survey ([Link](https://link.springer.com/chapter/10.1007/978-3-642-35326-0_14)).
+- Subjectivity and sentiment analysis of Arabic: Trends and challenges ([Link](https://ieeexplore.ieee.org/abstract/document/7073192)).
 - A review on Arabic sentiment analysis: state-of-the-art, taxonomy and open research challenges ([Link](https://ieeexplore.ieee.org/abstract/document/8890900)).
 - A Systematic Review for Sentiment Analysis of Arabic Dialect Texts Researches ([Link](https://link.springer.com/chapter/10.1007/978-3-030-85990-9_25)).
 - Sentiment analysis in Arabic: A review of the literature ([Link](https://www.sciencedirect.com/science/article/pii/S2090447917300862)).
