@@ -106,6 +106,7 @@ In this repository, we list survey, literature review and systematic review pape
 - Sentiment analysis for arabic in social media network: A systematic mapping study ([Link](https://arxiv.org/abs/1911.05483)).
 - An Overview of Word Embedding Models Evaluation for Arabic Sentiment Analysis ([Link](https://link.springer.com/chapter/10.1007/978-3-031-07969-6_31)).
 - Sentiment Analysis of Arabic Sequential Data Using Traditional and Deep Learning: A Review ([Link](https://link.springer.com/chapter/10.1007/978-3-030-62796-6_26)).
+- A survey of Arabic thematic sentiment analysis based on topic modeling ([Link](https://koreascience.kr/article/JAKO202129436716265.page)).
 
 ## Speech
 - Arabic Automatic Speech Recognition: A Systematic Literature Review ([Link](https://www.mdpi.com/2076-3417/12/17/8898)).
