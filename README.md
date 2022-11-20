@@ -121,6 +121,7 @@ In this repository, we list survey, literature review and systematic review pape
 - Automatic arabic text summarization (AATS): A survey ([Link](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs213589)).
 - Recent Advances in Arabic Automatic Text Summarization ([Link](https://www.researchgate.net/profile/Ahmad-Al-Taani/publication/356993013_Recent_Advances_in_Arabic_Automatic_Text_Summarization/links/61b742f51d88475981e87efe/Recent-Advances-in-Arabic-Automatic-Text-Summarization.pdf)).
 - Text summarization: a brief review ([Link](https://link.springer.com/chapter/10.1007/978-3-030-34614-0_1)).
+- Automatic Arabic text summarization: a survey ([Link](https://link.springer.com/article/10.1007/s10462-015-9442-x)).
 
 ## Conversational AI (Chatbots & Dialogue systems)
 - Recent Developments in Arabic Conversational AI: A Literature Review ([Link](https://ieeexplore.ieee.org/document/9723043)).
