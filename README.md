@@ -158,6 +158,7 @@ In this repository, we list survey, literature review and systematic review pape
 - Arabic machine translation: A survey of the latest trends and challenges ([Link](https://www.sciencedirect.com/science/article/abs/pii/S1574013720304056)).
 - Neural Arabic Text Diacritization: State of the Art Results and a Novel Approach for Machine Translation ([Link](https://arxiv.org/abs/1911.03531)).
 - Survey of Arabic Machine Translation, Methodologies, Progress, and Challenges ([Link](https://ieeexplore.ieee.org/abstract/document/9781776)).
+- Survey of the Arabic Machine Translation Corpora ([Link](https://link.springer.com/chapter/10.1007/978-3-031-18516-8_15)).
 
 ## Handwriting Recognition & OCR
 - A Survey on Arabic Handwritten Script Recognition Systems ([Link](https://www.igi-global.com/gateway/article/279276)).
