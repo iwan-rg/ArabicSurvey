@@ -234,3 +234,4 @@ In this repository, we list survey, literature review and systematic review pape
 - Arabic relation extraction: a survey ([Link](https://www.researchgate.net/profile/Injy-Sarhan/publication/351824481_Arabic_relation_extraction_A_survey/links/619e1aa9f1d624457166f7ee/Arabic-relation-extraction-A-survey.pdf)).
 - Automatic Translation from Arabic to Arabic Sign Language: A Review ([Link](https://ieeexplore.ieee.org/abstract/document/8726197)).
 - Arabic Web page clustering: A review  ([Link](https://www.sciencedirect.com/science/article/pii/S1319157817300290)).
+- Towards Author Profiling from Modern Standard Arabic Texts: A Review ([Link](https://link.springer.com/chapter/10.1007/978-981-16-2377-6_69)).
