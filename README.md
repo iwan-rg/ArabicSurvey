@@ -191,6 +191,7 @@ In this repository, we list survey, literature review and systematic review pape
 - An Overview of Ontology Learning Process from Arabic Text ([Link](https://journals.ekb.eg/article_81877.html)).
 - Ontology-Based Approach to Semantically Enhanced Question Answering for Closed Domain: A Review  ([Link](https://www.mdpi.com/2078-2489/12/5/200)).
 - Semantic Relations Extraction and Ontology Learning from Arabic Texts—A Survey ([Link](https://link.springer.com/chapter/10.1007/978-3-319-67056-0_11)).
+- Arabic ontology engineering-challenges and opportunities ([Link](https://dl.acm.org/doi/abs/10.1145/1980822.1980824)).
 
 ## Information Retrieval
 - Arabic Cross-Language Information Retrieval: A Review ([Link](https://dl.acm.org/doi/abs/10.1145/2789210?casa_token=ztyuMF_bHoAAAAAA:hbGaRp4_myDh7o_AvShgCtZ4yP7MiaiusTYKKHKsY7oP3mmichP_R0aAX_MMgjO1IJYd-KgDx2NOiQ)).
