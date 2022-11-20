@@ -173,6 +173,7 @@ In this repository, we list survey, literature review and systematic review pape
 - Cyberbullying Classification Methods for Arabic: A Systematic Review ([Link](https://link.springer.com/chapter/10.1007/978-3-030-76346-6_35)).
 - Detecting Arabic textual threats in social media using artificial intelligence: An overview ([Link](https://www.researchgate.net/profile/Hossam-Elzayady/publication/358644391_Detecting_Arabic_textual_threats_in_social_media_using_artificial_intelligence_An_overview/links/620d2494e0b7e94fb0c55ed3/Detecting-Arabic-textual-threats-in-social-media-using-artificial-intelligence-An-overview.pdf)). 
 - From Machine Learning to Deep Learning for Detecting Abusive Messages in Arabic Social Media: Survey and Challenges ([Link](https://link.springer.com/chapter/10.1007/978-3-030-71187-0_38)).
+- Automatic Detection of Cyberbullying and Abusive Language in Arabic Content on Social Networks: A Survey ([Link] (https://www.sciencedirect.com/science/article/pii/S1877050921011959)).
 
 ## Fake news and Spam
 - Arabic Fake News and Spam Handling: Methods, Resources and Opportunities ([Link](https://ieeexplore.ieee.org/document/9671174)).
