@@ -250,3 +250,4 @@ In this repository, we list survey, literature review and systematic review pape
 - Towards Author Profiling from Modern Standard Arabic Texts: A Review ([Link](https://link.springer.com/chapter/10.1007/978-981-16-2377-6_69)).
 - Survey of Authorship Identification Tasks on Arabic Texts ([Link](https://dl.acm.org/doi/abs/10.1145/3564156)).
 - A Survey and Comparative Study of Arabic Diacritization Tools ([Link](https://jlcl.org/content/2-allissues/4-Heft1-2017/02-diacritics.pdf)).
+- Deep Learning Architectures Applied on Arabic-Adapted Scripts: A Review ([Link](https://link.springer.com/chapter/10.1007/978-981-19-5292-0_18)).
