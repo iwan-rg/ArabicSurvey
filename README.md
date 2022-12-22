@@ -9,49 +9,26 @@ In this repository, we list survey, literature review and systematic review pape
 |----------|----------------|
 | We didn't review the quality of the listed papers.  | لم نعمل على مراجعة جودة الأوراق المدرجة. |
 
-[General](01 General.md)
-
-[Enabling Tools (Morphology, Diacritization, Grammer, etc.)](02 Enabling Tools (Morphology, Diacritization, Grammer, etc.).md)
-
-[Text Classification & Mining](03 Text Classification & Mining.md)
-
-[Named Entity Recognition](04 Named Entity Recognition.md)
-
-[Quesion Answering](05 Quesion Answering.md)
-
-[Sentiment Analysis](06 Sentiment Analysis.md)
-
-[Speech](07 Speech.md)
-
-[Summarization](08 Summarization.md)
-
-[Conversational AI (Chatbots & Dialogue systems)](09 Conversational AI (Chatbots & Dialogue systems).md)
-
-[Word Sense Disambiguation (WSD)](10 Word Sense Disambiguation (WSD).md)
-
-[Dialects](11 Dialects.md)
-
-[Plagiarism Detection Systems](12 Plagiarism Detection Systems.md)
-
-[Machine Translation](13 Machine Translation.md)
-
-[Handwriting Recognition & OCR](14 Handwriting Recognition & OCR.md)
-
-[Offensive Language Detection](15 Offensive Language Detection.md)
-
-[Fake news and Spam](16 Fake news and Spam.md)
-
-[Ontology and Resources](17 Ontology and Resources.md)
-
-[Information Retrieval](18 Information Retrieval.md)
-
-[Opinion Mining](19 Opinion Mining.md)
-
-[Knowledge Graph](20 Knowledge Graph.md)
-
-[Query Expansion](21 Query Expansion.md)
-
-[Religious Text](22 Religious Text.md)
-
-[Others (Steganography, Transfer Learning, Deep learning, etc.)](23 Others (Steganography, Transfer Learning, Deep learning, etc.).md)
-
+- [01 General](../blob/master/01 General.md)
+- [02 Enabling Tools (Morphology, Diacritization, Grammer, etc.)](../blob/master/02 Enabling Tools (Morphology, Diacritization, Grammer, etc.).md)
+- [03 Text Classification & Mining](../blob/master/03 Text Classification & Mining.md)
+- [04 Named Entity Recognition](../blob/master/04 Named Entity Recognition.md)
+- [05 Quesion Answering](../blob/master/05 Quesion Answering.md)
+- [06 Sentiment Analysis](../blob/master/06 Sentiment Analysis.md)
+- [07 Speech](../blob/master/07 Speech.md)
+- [08 Summarization](../blob/master/08 Summarization.md)
+- [09 Conversational AI (Chatbots & Dialogue systems)](../blob/master/09 Conversational AI (Chatbots & Dialogue systems).md)
+- [10 Word Sense Disambiguation (WSD)](../blob/master/10 Word Sense Disambiguation (WSD).md)
+- [11 Dialects](../blob/master/11 Dialects.md)
+- [12 Plagiarism Detection Systems](../blob/master/12 Plagiarism Detection Systems.md)
+- [13 Machine Translation](../blob/master/13 Machine Translation.md)
+- [14 Handwriting Recognition & OCR](../blob/master/14 Handwriting Recognition & OCR.md)
+- [15 Offensive Language Detection](../blob/master/15 Offensive Language Detection.md)
+- [16 Fake news and Spam](../blob/master/16 Fake news and Spam.md)
+- [17 Ontology and Resources](../blob/master/17 Ontology and Resources.md)
+- [18 Information Retrieval](../blob/master/18 Information Retrieval.md)
+- [19 Opinion Mining](../blob/master/19 Opinion Mining.md)
+- [20 Knowledge Graph](../blob/master/20 Knowledge Graph.md)
+- [21 Query Expansion](../blob/master/21 Query Expansion.md)
+- [22 Religious Text](../blob/master/22 Religious Text.md)
+- [23 Others (Steganography, Transfer Learning, Deep learning, etc.)](../blob/master/23 Others (Steganography, Transfer Learning, Deep learning, etc.).md)
