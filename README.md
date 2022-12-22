@@ -9,7 +9,7 @@ In this repository, we list survey, literature review and systematic review pape
 |----------|----------------|
 | We didn't review the quality of the listed papers.  | لم نعمل على مراجعة جودة الأوراق المدرجة. |
 
-- [01 General](/blob/main/01 General.md)
+- [01 General](/blob/main/01-General.md)
 - [02 Enabling Tools (Morphology, Diacritization, Grammer, etc.)](/blob/main/02 Enabling Tools (Morphology, Diacritization, Grammer, etc.).md)
 - [03 Text Classification & Mining](/blob/main/03 Text Classification & Mining.md)
 - [04 Named Entity Recognition](/blob/main/04 Named Entity Recognition.md)
