@@ -227,6 +227,7 @@ In this repository, we list survey, literature review and systematic review pape
 - On the Usage of a Classical Arabic Corpus as a Language Resource: Related Research and Key Challenges ([Link](https://dl.acm.org/doi/10.1145/3277591)).
 - Digital Hadith authentication: Recent advances, open challenges, and future directions ([Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3977)).
 - A Review of Algorithms, Datasets, and Criteria in Word Sense Disambiguation With a View to its Use in Islamic Texts ([Link](https://ieeexplore.ieee.org/abstract/document/9238679)).
+- Arabic natural language processing for Qur’anic research: a systematic review ([Link](https://link.springer.com/article/10.1007/s10462-022-10313-2)).
 
 ## Others (Steganography, Transfer Learning, Deep learning, etc.) 
 - A Review of Arabic Text Steganography ([Link](https://dl.acm.org/doi/10.1145/3456146.3456148)).
