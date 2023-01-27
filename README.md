@@ -207,9 +207,10 @@ In this repository, we list survey, literature review and systematic review pape
 - A Survey of Opinion Mining in Arabic: A Comprehensive System Perspective Covering Challenges and Advances in Tools, Resources, Models, Applications, and Visualizations ([Link](https://dl.acm.org/doi/abs/10.1145/3295662)).
 - A review of recent aspect extraction techniques for opinion mining systems ([Link](https://ieeexplore.ieee.org/abstract/document/8374382)).
 
-## Knowledge Graph 
+## Knowledge Graph and Topic Modeling 
 - Arabic Knowledge Graph Construction: A close look in the present and into the future ([Link](https://www.sciencedirect.com/science/article/pii/S1319157822001240)).
 - The Arabic Knowledge Graph: Opportunities and Challenges ([Link](https://ieeexplore.ieee.org/abstract/document/7889502)).
+- Topic Modeling on Arabic Language Dataset: Comparative Study ([Link](https://link.springer.com/chapter/10.1007/978-3-031-23119-3_5)).
 
 ## Query Expansion
 - Arabic Query Expansion: A Review ([Link](https://www.researchgate.net/profile/Jaffar-Atwan/publication/323689372_Arabic_query_expansion_A_review/links/5aa4f7a7aca272d448b95c58/Arabic-query-expansion-A-review.pdf)).
