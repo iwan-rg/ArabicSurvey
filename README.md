@@ -118,8 +118,9 @@ In this repository, we list survey, literature review and systematic review pape
 - Arabic Speech Recognition with Deep Learning: A Review ([Link](https://link.springer.com/chapter/10.1007/978-3-030-21902-4_2)).
 - End-to-End Arabic Speech Recognition: A Review ([Link](https://www.researchgate.net/profile/Hamzah-Alsayadi/publication/344799361_End-to-End_Arabic_Speech_Recognition_A_Review/links/5f90babfa6fdccfd7b74575d/End-to-End-Arabic-Speech-Recognition-A-Review.pdf)).
 - Arabic Speech Recognition: Challenges and State of the Art [Book Chapter] ([Link](https://www.worldscientific.com/doi/abs/10.1142/9789813229396_0001)).
--  The Challenges of Developing a Living Arabic Phonetic Dictionary for Speech Recognition System: A Literature Review ([Link](https://journals.aijr.org/index.php/ajss/article/view/3633)).
--  Literature Survey of Arabic Speech Recognition ([Link](https://ieeexplore.ieee.org/abstract/document/8374215)).
+- The Challenges of Developing a Living Arabic Phonetic Dictionary for Speech Recognition System: A Literature Review ([Link](https://journals.aijr.org/index.php/ajss/article/view/3633)).
+- Literature Survey of Arabic Speech Recognition ([Link](https://ieeexplore.ieee.org/abstract/document/8374215)).
+- Advancements in Arabic Text-to-Speech Systems: A 22-Year Literature Review ([Link](https://ieeexplore.ieee.org/document/10078891)).
 
 ## Summarization
 - A Comprehensive Review of Arabic Text Summarization ([Link](https://ieeexplore.ieee.org/document/9745159)).
