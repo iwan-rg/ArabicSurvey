@@ -33,6 +33,7 @@ In this repository, we list survey, literature review and systematic review pape
 -  A Review of Part of Speech Tagger for Arabic Language ([Link](https://d1wqtxts1xzle7.cloudfront.net/63194278/A_Review_of_Part_of_Speech_Tagger_for_Arabic_Language20200504-103867-18xzow9-with-cover-page-v2.pdf?Expires=1666951940&Signature=D7CX-wj5VtG3ZODeEZwOZYws5jr3br453X4b2MpDMVlXA10LAasPOPQuHb4T63DSoTTuaxk2UqfU7j7OYy1oUQn9ZsJqlosfOCF3SwQd~lZtARfWzoQ7QruFFy2FWJr2nWN6DeTNhSjV8tHxUUSDJRZjGvz6Y0kwximRsSbb4iMa3VcjdL4f6HibaTyINcKATiFyou1QDVuM7qnuZlpo-FF0J2Yd9PKNK-xil7HK4eehGd53BV~BejtL3pry2F5IOVqwRRiNJDqJiVzy5xbBr6r6gJkInfBEXONwOKtmoM4XsQxAjDorl49ScCxeG5xOVl5hcJONE-uQRgB2a9eaKQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)).
 -  A Comparative Study of Some Automatic Arabic Text Diacritization Systems ([Link](https://www.hindawi.com/journals/ahci/2022/3613710/)).
 -  Arabic Semantic Similarity Approaches - Review ([Link](https://ieeexplore.ieee.org/abstract/document/8672665)).
+- Automatic Methods and Neural Networks in Arabic Texts Diacritization: A Comprehensive Survey ([Link](https://ieeexplore.ieee.org/abstract/document/9585619)).
 
 ## Text Classification & Mining
 - Arabic Text Classification: A Review Study on Feature Selection Methods ([Link](https://ieeexplore.ieee.org/document/9677185)).
