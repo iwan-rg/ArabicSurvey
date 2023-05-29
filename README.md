@@ -8,7 +8,6 @@ In this repository, we list survey, literature review and systematic review pape
 |----------|----------------|
 | We didn't review the quality of the listed papers.  | لم نعمل على مراجعة جودة الأوراق المدرجة. |
 
-|--------------------------------------------|
 # Table of Contents
 
 - [General](#general)
@@ -16,8 +15,25 @@ In this repository, we list survey, literature review and systematic review pape
 - [Text Classification & Mining](#text-classification--mining)
 - [Named Entity Recognition](#named-entity-recognition)
 - [Question Answering](#question-answering)
+1. [Sentiment Analysis](#sentiment-analysis)
+2. [Speech](#speech)
+3. [Summarization](#summarization)
+4. [Conversational AI (Chatbots & Dialogue systems)](#conversational-ai)
+5. [Word Sense Disambiguation (WSD)](#word-sense-disambiguation)
+6. [Dialects](#dialects)
+7. [Plagiarism Detection Systems](#plagiarism-detection-systems)
+8. [Machine Translation](#machine-translation)
+9. [Handwriting Recognition & OCR](#handwriting-recognition-and-ocr)
+10. [Offensive Language Detection](#offensive-language-detection)
+11. [Fake news and Spam](#fake-news-and-spam)
+12. [Ontology and Resources](#ontology-and-resources)
+13. [Information Retrieval](#information-retrieval)
+14. [Opinion Mining](#opinion-mining)
+15. [Knowledge Graph and Topic Modeling](#knowledge-graph-and-topic-modeling)
+16. [Query Expansion](#query-expansion)
+17. [Religious Text](#religious-text)
+18. [Others (Steganography, Transfer Learning, Deep learning, etc.)](#others)
 
-|--------------------------------------------|
 
 ## General
 - Arabic natural language processing: An overview ([Link](https://www.sciencedirect.com/science/article/pii/S1319157818310553?via%3Dihub)).
