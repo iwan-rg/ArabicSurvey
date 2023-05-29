@@ -23,7 +23,7 @@ In this repository, we list survey, literature review and systematic review pape
 11. [Dialects](#dialects)
 12. [Plagiarism Detection Systems](#plagiarism-detection-systems)
 13. [Machine Translation](#machine-translation)
-14. [Handwriting Recognition & OCR](#handwriting-recognition-and-ocr)
+14. [Handwriting Recognition & OCR](#handwriting-recognition--ocr)
 15. [Offensive Language Detection](#offensive-language-detection)
 16. [Fake news and Spam](#fake-news-and-spam)
 17. [Ontology and Resources](#ontology-and-resources)
