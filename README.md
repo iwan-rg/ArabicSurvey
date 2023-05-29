@@ -32,7 +32,7 @@ In this repository, we list survey, literature review and systematic review pape
 20. [Knowledge Graph and Topic Modeling](#knowledge-graph-and-topic-modeling)
 21. [Query Expansion](#query-expansion)
 22. [Religious Text](#religious-text)
-23. [Others (Steganography, Transfer Learning, Deep learning, etc.)](#others)
+23. [Others (Steganography, Transfer Learning, Deep learning, etc.)](#Others (Steganography, Transfer Learning, Deep learning, etc.))
 
 
 ## General
