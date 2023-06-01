@@ -284,3 +284,4 @@ In this repository, we list survey, literature review and systematic review pape
 - Survey of Authorship Identification Tasks on Arabic Texts ([Link](https://dl.acm.org/doi/abs/10.1145/3564156)).
 - A Survey and Comparative Study of Arabic Diacritization Tools ([Link](https://jlcl.org/content/2-allissues/4-Heft1-2017/02-diacritics.pdf)).
 - Deep Learning Architectures Applied on Arabic-Adapted Scripts: A Review ([Link](https://link.springer.com/chapter/10.1007/978-981-19-5292-0_18)).
+- A Systematic Review of Sentiment Analysis in Arabizi ([Link](https://link.springer.com/chapter/10.1007/978-981-99-2969-6_11)).
