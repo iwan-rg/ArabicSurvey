@@ -99,6 +99,7 @@ In this repository, we list survey, literature review and systematic review pape
  - Recent Advances and Challenges of Arabic Why Question Answering Systems ([Link](https://dl.acm.org/doi/abs/10.1145/3485557.3485571?casa_token=IaXgR4SkmBsAAAAA:izj6y50jZHivk-I4j9-AGtyJhYV8NkwHbZF-xGQq-NR91HLEbQcrU_czBJEFV3MY93lUvcFln14IaQ)).
  - A Review and Future Perspectives of Arabic Question Answering Systems ([Link](https://ieeexplore.ieee.org/abstract/document/7563293)). 
  - Ontology-Based Approach to Semantically Enhanced Question Answering for Closed Domain: A Review  ([Link](https://www.mdpi.com/2078-2489/12/5/200)).
+ - A comprehensive survey of techniques for developing an Arabic question answering system ([Link](https://peerj.com/articles/cs-1413/)).
    
 ## Sentiment Analysis
 - Arabic Sentiment Analysis: A Survey ([Link](https://www.proquest.com/docview/2656539777?pq-origsite=gscholar&fromopenview=true)).
