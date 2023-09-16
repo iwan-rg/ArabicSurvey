@@ -79,6 +79,7 @@ In this repository, we list survey, literature review and systematic review pape
 -   Comparative Study on Arabic Text Classification: Challenges and Opportunities ([Link](https://link.springer.com/chapter/10.1007/978-3-031-17576-3_10)).
 -   Multi-Label Arabic Text Classification: An Overview ([Link](https://pdfs.semanticscholar.org/ebc7/c0e8b809ea4a6159defde5a03156d1a1c64d.pdf)).
 -   A systematic review of Arabic text classification: areas, applications, and future directions ([Link](https://link.springer.com/article/10.1007/s00500-023-08384-6)).
+-   Arabic documents classification: Overview and systematic review ([Link](https://pubs.aip.org/aip/acp/article/2845/1/050007/2911295)).
 
 ## Named Entity Recognition
 -  A Survey of Arabic Named Entity Recognition and Classification ([Link](https://direct.mit.edu/coli/article/40/2/469/1475/A-Survey-of-Arabic-Named-Entity-Recognition-and)).
