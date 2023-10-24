@@ -101,6 +101,7 @@ In this repository, we list survey, literature review and systematic review pape
  - A Review and Future Perspectives of Arabic Question Answering Systems ([Link](https://ieeexplore.ieee.org/abstract/document/7563293)). 
  - Ontology-Based Approach to Semantically Enhanced Question Answering for Closed Domain: A Review  ([Link](https://www.mdpi.com/2078-2489/12/5/200)).
  - A comprehensive survey of techniques for developing an Arabic question answering system ([Link](https://peerj.com/articles/cs-1413/)).
+ - Challenges and opportunities for Arabic question-answering systems: current techniques and future directions ([link](https://peerj.com/articles/cs-1633/)).
    
 ## Sentiment Analysis
 - Arabic Sentiment Analysis: A Survey ([Link](https://www.proquest.com/docview/2656539777?pq-origsite=gscholar&fromopenview=true)).
@@ -140,6 +141,7 @@ In this repository, we list survey, literature review and systematic review pape
 - A survey of Arabic thematic sentiment analysis based on topic modeling ([Link](https://koreascience.kr/article/JAKO202129436716265.page)).
 - A Systematic Literature Review of Arabic Dialect Sentiment Analysis ([Link](https://www.sciencedirect.com/science/article/pii/S1319157823001246)).
 - Lexicon annotation in sentiment analysis for dialectal Arabic: Systematic review of current trends and future directions ([Link](https://www.sciencedirect.com/science/article/abs/pii/S0306457323001863)).
+- Opinion mining for Arabic dialect in social media data fusion platforms: A systematic review ([link](https://www.researchgate.net/profile/Ahmed-Khamees/publication/364543686_Opinion_mining_for_Arabic_dialect_in_social_media_data_fusion_platforms_A_systematic_review/links/646f919371e5b40b0735a406/Opinion-mining-for-Arabic-dialect-in-social-media-data-fusion-platforms-A-systematic-review.pdf)).
 
 ## Speech
 - Arabic Automatic Speech Recognition: A Systematic Literature Review ([Link](https://www.mdpi.com/2076-3417/12/17/8898)).
