@@ -102,6 +102,7 @@ In this repository, we list survey, literature review and systematic review pape
  - Ontology-Based Approach to Semantically Enhanced Question Answering for Closed Domain: A Review  ([Link](https://www.mdpi.com/2078-2489/12/5/200)).
  - A comprehensive survey of techniques for developing an Arabic question answering system ([Link](https://peerj.com/articles/cs-1413/)).
  - Challenges and opportunities for Arabic question-answering systems: current techniques and future directions ([link](https://peerj.com/articles/cs-1633/)).
+ - A Comprehensive Review of Arabic Question Answering Datasets ([Link](https://link.springer.com/chapter/10.1007/978-981-99-8126-7_22)).
    
 ## Sentiment Analysis
 - Arabic Sentiment Analysis: A Survey ([Link](https://www.proquest.com/docview/2656539777?pq-origsite=gscholar&fromopenview=true)).
@@ -212,6 +213,7 @@ In this repository, we list survey, literature review and systematic review pape
 - Offline Arabic Handwriting Recognition Using Deep Machine Learning: A Review of Recent Advances ([Link](https://link.springer.com/chapter/10.1007/978-3-030-39431-8_44)).
 - Arabic optical character recognition software: A review ([Link](https://link.springer.com/article/10.1134/S105466181704006X)).
 -  A Survey of OCR in Arabic Language: Applications, Techniques, and Challenges ([Link](https://www.mdpi.com/2076-3417/13/7/4584)).
+-  Arabic Handwritten Text Recognition Systems Challenges and Opportunities ([Link](https://ejle.journals.ekb.eg/article_327127_7c7fc57d7f8458b44d257a7130b2ac47.pdf)).
 
 ## Offensive Language Detection
 - A Survey of Offensive Language Detection for the Arabic Language ([Link](https://dl.acm.org/doi/10.1145/3421504)).
