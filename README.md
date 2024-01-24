@@ -224,6 +224,7 @@ In this repository, we list survey, literature review and systematic review pape
 - From Machine Learning to Deep Learning for Detecting Abusive Messages in Arabic Social Media: Survey and Challenges ([Link](https://link.springer.com/chapter/10.1007/978-3-030-71187-0_38)).
 - Automatic Detection of Cyberbullying and Abusive Language in Arabic Content on Social Networks: A Survey ([Link](https://www.sciencedirect.com/science/article/pii/S1877050921011959)).
 - Toxic language detection: a systematic survey of Arabic datasets ([Link](https://www.researchgate.net/profile/Imene-Bensalem-2/publication/375693171_Toxic_language_detection_a_systematic_survey_of_Arabic_datasets/links/65568b1c3fa26f66f4074467/Toxic-language-detection-a-systematic-survey-of-Arabic-datasets.pdf)).
+- A Comprehensive Survey on Arabic Sarcasm Detection: Approaches, Challenges and Future Trends. ([Link](https://ieeexplore.ieee.org/document/10049545)).
 
 ## Fake news and Spam
 - Arabic Fake News and Spam Handling: Methods, Resources and Opportunities ([Link](https://ieeexplore.ieee.org/document/9671174)).
