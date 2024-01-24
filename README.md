@@ -155,6 +155,7 @@ In this repository, we list survey, literature review and systematic review pape
 - The Challenges of Developing a Living Arabic Phonetic Dictionary for Speech Recognition System: A Literature Review ([Link](https://journals.aijr.org/index.php/ajss/article/view/3633)).
 - Literature Survey of Arabic Speech Recognition ([Link](https://ieeexplore.ieee.org/abstract/document/8374215)).
 - Advancements in Arabic Text-to-Speech Systems: A 22-Year Literature Review ([Link](https://ieeexplore.ieee.org/document/10078891)).
+- Modern Standard Arabic Speech Corpora: A Systematic Review ([Link](https://ieeexplore.ieee.org/document/10143205/citations?tabFilter=papers#citations)).
 
 ## Summarization
 - A Comprehensive Review of Arabic Text Summarization ([Link](https://ieeexplore.ieee.org/document/9745159)).
