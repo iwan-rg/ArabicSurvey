@@ -307,3 +307,4 @@ In this repository, we list survey, literature review and systematic review pape
 - A Systematic Review of Sentiment Analysis in Arabizi ([Link](https://link.springer.com/chapter/10.1007/978-981-99-2969-6_11)).
 - A Revised Survey of Paraphrasing Generation Approaches and Tools for Arabic ([Link](https://ieeexplore.ieee.org/abstract/document/10009462)).
 - Arabic text detection: a survey of recent progress challenges and opportunities. ([link](https://link.springer.com/article/10.1007/s10489-023-04992-9)).
+- Analysis and Mining of Arabic Comparative Sentences: A Literature Review. ([link](https://ijci.journals.ekb.eg/article_358902.html)).
