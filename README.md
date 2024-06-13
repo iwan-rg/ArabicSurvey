@@ -309,3 +309,4 @@ In this repository, we list survey, literature review and systematic review pape
 - A Revised Survey of Paraphrasing Generation Approaches and Tools for Arabic ([Link](https://ieeexplore.ieee.org/abstract/document/10009462)).
 - Arabic text detection: a survey of recent progress challenges and opportunities. ([link](https://link.springer.com/article/10.1007/s10489-023-04992-9)).
 - Analysis and Mining of Arabic Comparative Sentences: A Literature Review. ([link](https://ijci.journals.ekb.eg/article_358902.html)).
+- Word embedding as a semantic feature extraction technique in arabic natural language processing: an overview. ([link](https://iajit.org/upload/files/Word-Embedding-as-a-Semantic-Feature-Extraction-Technique-in-Arabic-Natural-Language-Processing-An-Overview.pdf)).
