@@ -226,7 +226,7 @@ In this repository, we list survey, literature review and systematic review pape
 - Detecting Arabic textual threats in social media using artificial intelligence: An overview ([Link](https://www.researchgate.net/profile/Hossam-Elzayady/publication/358644391_Detecting_Arabic_textual_threats_in_social_media_using_artificial_intelligence_An_overview/links/620d2494e0b7e94fb0c55ed3/Detecting-Arabic-textual-threats-in-social-media-using-artificial-intelligence-An-overview.pdf)). 
 - From Machine Learning to Deep Learning for Detecting Abusive Messages in Arabic Social Media: Survey and Challenges ([Link](https://link.springer.com/chapter/10.1007/978-3-030-71187-0_38)).
 - Automatic Detection of Cyberbullying and Abusive Language in Arabic Content on Social Networks: A Survey ([Link](https://www.sciencedirect.com/science/article/pii/S1877050921011959)).
-- Toxic language detection: a systematic survey of Arabic datasets ([Link](https://www.researchgate.net/profile/Imene-Bensalem-2/publication/375693171_Toxic_language_detection_a_systematic_survey_of_Arabic_datasets/links/65568b1c3fa26f66f4074467/Toxic-language-detection-a-systematic-survey-of-Arabic-datasets.pdf)).
+- Toxic language detection: a systematic survey of Arabic datasets ([Link](https://www.researchgate.net/publication/377814066_Toxic_language_detection_A_systematic_review_of_Arabic_datasets)).
 - A Comprehensive Survey on Arabic Sarcasm Detection: Approaches, Challenges and Future Trends. ([Link](https://ieeexplore.ieee.org/document/10049545)).
 - A systematic literature review of hate speech identification on Arabic Twitter data: research challenges and future directions. ([Link](https://peerj.com/articles/cs-1966/)).
 
