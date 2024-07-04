@@ -177,6 +177,7 @@ In this repository, we list survey, literature review and systematic review pape
 - Support of existing chatbot development framework for Arabic language: a brief survey ([Link](https://link.springer.com/chapter/10.1007/978-3-319-78753-4_3)).
 - A Review of Arabic Intelligent Chatbots: Developments and Challenges ([Link](https://rengj.mosuljournals.com/article_175364_en.html)). 
 - A Survey of Arabic Dialogues Understanding for Spontaneous Dialogues and Instant Message ([Link](https://arxiv.org/abs/1505.03084)).
+- Arabic Chatbots Challenges and Solutions: A Systematic Literature Review ([Link](http://journal.esj.edu.iq/index.php/IJCM/article/view/1481)).
 
 ## Word Sense Disambiguation (WSD)
 - A comprehensive review on Arabic word sense disambiguation for natural language processing applications ([Link](https://wires.onlinelibrary.wiley.com/doi/10.1002/widm.1447)).
