@@ -237,6 +237,7 @@ In this repository, we list survey, literature review and systematic review pape
 - Arabic Fake News Detection: A Fact Checking Based Deep Learning Approach ([Link](https://dl.acm.org/doi/full/10.1145/3501401?casa_token=y9cTqG7Xg3UAAAAA%3Ak8xc8qYg_7HDpkOOnfYPeCO-WvIzTWtuVl925aRlSbSq_MgBsQQdcgWMcyQWKrLoI_JBrSbL95Arhg)).
 - A Survey: Datasets and Methods for Arabic Fake News Detection ([Link](https://www.researchgate.net/publication/373949310_A_Survey_Datasets_and_Methods_for_Arabic_Fake_News_Detection)).
 - Survey of machine learning techniques for Arabic fake news detection ([Link](https://link.springer.com/article/10.1007/s10462-024-10778-3)).
+- A Review of Fake News Detection Techniques for Arabic Language ([Link](https://thesai.org/Publications/ViewPaper?Volume=15&Issue=1&Code=IJACSA&SerialNo=37)).
 
 ## Ontology and Resources
 - Arabic NLP tools for ontology construction from Arabic text: An overview ([Link](https://ieeexplore.ieee.org/abstract/document/7162980)).
