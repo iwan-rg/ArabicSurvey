@@ -168,6 +168,7 @@ In this repository, we list survey, literature review and systematic review pape
 - Automatic Arabic text summarization: a survey ([Link](https://link.springer.com/article/10.1007/s10462-015-9442-x)).
 - Deep Transformer Language Models for Arabic Text Summarization: A Comparison Study ([Link](https://www.mdpi.com/2076-3417/12/23/11944)).
 - Arabic Text Summarization Challenges using Deep Learning Techniques: A Review ([Link](https://www.researchgate.net/profile/Adnan-Souri-2/publication/375064033_Arabic_Text_Summarization_Challenges_using_Deep_Learning_Techniques_A_Review/links/653f7a2aff8d8f507cd86db0/Arabic-Text-Summarization-Challenges-using-Deep-Learning-Techniques-A-Review.pdf)).
+- Exploring Advances in Arabic Long-Text Summarization Strategies: A Survey ([Link](https://fcihib.journals.ekb.eg/article_363467_9ae37ba2e9289b9ba16771efe7658e61.pdf)).
 
 ## Conversational AI (Chatbots & Dialogue systems)
 - Recent Developments in Arabic Conversational AI: A Literature Review ([Link](https://ieeexplore.ieee.org/document/9723043)).
