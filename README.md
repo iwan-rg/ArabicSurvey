@@ -286,6 +286,7 @@ In this repository, we list survey, literature review and systematic review pape
 - The utilization of machine learning on studying Hadith in Islam: A systematic literature review ([Link](https://link.springer.com/article/10.1007/s10639-023-12008-9)).
 
 ## Others (Steganography, Transfer Learning, Deep learning, etc.) 
+- ARABIC TEXT WATERMARKING: A REVIEW ([Link](https://arxiv.org/pdf/1508.01485)).
 - A Review of Arabic Text Steganography ([Link](https://dl.acm.org/doi/10.1145/3456146.3456148)).
 - A Comparative Analysis of Arabic Text Steganography ([Link](https://www.mdpi.com/2076-3417/11/15/6851)).
 - A Survey on Transfer Learning in Natural Language Processing ([Link](https://arxiv.org/abs/2007.04239)).
