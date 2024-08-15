@@ -103,6 +103,7 @@ In this repository, we list survey, literature review and systematic review pape
  - A comprehensive survey of techniques for developing an Arabic question answering system ([Link](https://peerj.com/articles/cs-1413/)).
  - Challenges and opportunities for Arabic question-answering systems: current techniques and future directions ([link](https://peerj.com/articles/cs-1633/)).
  - A Comprehensive Review of Arabic Question Answering Datasets ([Link](https://link.springer.com/chapter/10.1007/978-981-99-8126-7_22)).
+ - Deciphering Arabic question: a dedicated survey on Arabic question analysis methods, challenges, limitations and future pathways ([Link](https://link.springer.com/article/10.1007/s10462-024-10880-6)).
    
 ## Sentiment Analysis
 - Arabic Sentiment Analysis: A Survey ([Link](https://www.proquest.com/docview/2656539777?pq-origsite=gscholar&fromopenview=true)).
