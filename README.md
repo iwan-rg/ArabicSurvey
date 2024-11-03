@@ -32,7 +32,8 @@ In this repository, we list survey, literature review and systematic review pape
 20. [Knowledge Graph and Topic Modeling](#knowledge-graph-and-topic-modeling)
 21. [Query Expansion](#query-expansion)
 22. [Religious Text](#religious-text)
-23. [Others (Steganography, Transfer Learning, Deep learning, etc.)](#others-Steganography-Transfer-Learning-Deep-learning-etc))
+23. [LLMs](#LLMs)
+24. [Others (Steganography, Transfer Learning, Deep learning, etc.)](#others-Steganography-Transfer-Learning-Deep-learning-etc))
 
 
 ## General
@@ -287,6 +288,9 @@ In this repository, we list survey, literature review and systematic review pape
 - A Review of Algorithms, Datasets, and Criteria in Word Sense Disambiguation With a View to its Use in Islamic Texts ([Link](https://ieeexplore.ieee.org/abstract/document/9238679)).
 - Arabic natural language processing for Qur’anic research: a systematic review ([Link](https://link.springer.com/article/10.1007/s10462-022-10313-2)).
 - The utilization of machine learning on studying Hadith in Islam: A systematic literature review ([Link](https://link.springer.com/article/10.1007/s10639-023-12008-9)).
+
+## LLMs
+- A Survey of Large Language Models for Arabic Language and its Dialects ([Link](https://arxiv.org/abs/2410.20238)).
 
 ## Others (Steganography, Transfer Learning, Deep learning, etc.) 
 - ARABIC TEXT WATERMARKING: A REVIEW ([Link](https://arxiv.org/pdf/1508.01485)).
