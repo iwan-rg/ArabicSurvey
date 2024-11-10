@@ -90,6 +90,7 @@ In this repository, we list survey, literature review and systematic review pape
 -  Statistical Arabic Name Entity Recognition Approaches: A Survey ([Link](https://www.sciencedirect.com/science/article/pii/S1877050917316976)).
 -  Arabic Named Entity Recognition—A Survey and Analysis ([Link](https://link.springer.com/chapter/10.1007/978-3-319-39345-2_8)).
 -  A Survey on Arabic Named Entity Recognition: Past, Recent Advances, and Future Trends ([Link](https://arxiv.org/pdf/2302.03512.pdf)).
+-  Advancements in Arabic Named Entity Recognition: A Comprehensive Review ([Link](https://ieeexplore.ieee.org/document/10744005)). 
 
 ## Quesion Answering
  - Arabic question answering system: a survey ([Link](https://link.springer.com/article/10.1007/s10462-021-10031-1)).
