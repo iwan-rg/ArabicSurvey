@@ -81,6 +81,7 @@ In this repository, we list survey, literature review and systematic review pape
 -   Multi-Label Arabic Text Classification: An Overview ([Link](https://pdfs.semanticscholar.org/ebc7/c0e8b809ea4a6159defde5a03156d1a1c64d.pdf)).
 -   A systematic review of Arabic text classification: areas, applications, and future directions ([Link](https://link.springer.com/article/10.1007/s00500-023-08384-6)).
 -   Arabic documents classification: Overview and systematic review ([Link](https://pubs.aip.org/aip/acp/article/2845/1/050007/2911295)).
+-   Data augmentation for Arabic text classification: a review of current methods, challenges and prospective directions ([Link](https://peerj.com/articles/cs-2685/)).
 
 ## Named Entity Recognition
 -  A Survey of Arabic Named Entity Recognition and Classification ([Link](https://direct.mit.edu/coli/article/40/2/469/1475/A-Survey-of-Arabic-Named-Entity-Recognition-and)).
@@ -324,3 +325,4 @@ In this repository, we list survey, literature review and systematic review pape
 - Word embedding as a semantic feature extraction technique in arabic natural language processing: an overview. ([link](https://iajit.org/upload/files/Word-Embedding-as-a-Semantic-Feature-Extraction-Technique-in-Arabic-Natural-Language-Processing-An-Overview.pdf)).
 - Natural Language Processing Approaches to Text Data Augmentation: A Computational Linguistic Analysis ([link](https://ijaes2011.net/index.php/IJAES/article/view/682)).
 - Arabic Text Formality Modification: A Review and Future Research Directions. ([link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10778487)).
+- 
