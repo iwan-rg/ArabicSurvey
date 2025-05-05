@@ -325,4 +325,4 @@ In this repository, we list survey, literature review and systematic review pape
 - Word embedding as a semantic feature extraction technique in arabic natural language processing: an overview. ([link](https://iajit.org/upload/files/Word-Embedding-as-a-Semantic-Feature-Extraction-Technique-in-Arabic-Natural-Language-Processing-An-Overview.pdf)).
 - Natural Language Processing Approaches to Text Data Augmentation: A Computational Linguistic Analysis ([link](https://ijaes2011.net/index.php/IJAES/article/view/682)).
 - Arabic Text Formality Modification: A Review and Future Research Directions. ([link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10778487)).
-- 
+- Deep Learning in Written Arabic Linguistic Studies: A Comprehensive Survey ([link](https://ieeexplore.ieee.org/abstract/document/10738816)).
