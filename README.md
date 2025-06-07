@@ -293,6 +293,8 @@ In this repository, we list survey, literature review and systematic review pape
 
 ## LLMs
 - A Survey of Large Language Models for Arabic Language and its Dialects ([Link](https://arxiv.org/abs/2410.20238)).
+- The Landscape of Arabic Large Language Models (ALLMs): A New Era for Arabic Language Technology ([Link](https://arxiv.org/abs/2506.01340)).
+- Large Language Models and Arabic Content: A Review ([Link](https://arxiv.org/abs/2505.08004)).
 
 ## Others (Steganography, Transfer Learning, Deep learning, etc.) 
 - ARABIC TEXT WATERMARKING: A REVIEW ([Link](https://arxiv.org/pdf/1508.01485)).
