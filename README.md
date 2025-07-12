@@ -164,6 +164,7 @@ In this repository, we list survey, literature review and systematic review pape
 - Advancements in Arabic Text-to-Speech Systems: A 22-Year Literature Review ([Link](https://ieeexplore.ieee.org/document/10078891)).
 - Modern Standard Arabic Speech Corpora: A Systematic Review ([Link](https://ieeexplore.ieee.org/document/10143205/)).
 - Arabic Speech Recognition: Advancement and Challenges ([Link](https://ieeexplore.ieee.org/iel7/6287639/6514899/10466536.pdf)).
+- Arabic speech recognition using neural networks: concepts, literature review and challenges ([Link](https://link.springer.com/article/10.1007/s43994-025-00213-w))).
 
 ## Summarization
 - A Comprehensive Review of Arabic Text Summarization ([Link](https://ieeexplore.ieee.org/document/9745159)).
