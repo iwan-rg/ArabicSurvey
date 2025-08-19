@@ -331,3 +331,4 @@ In this repository, we list survey, literature review and systematic review pape
 - Natural Language Processing Approaches to Text Data Augmentation: A Computational Linguistic Analysis ([link](https://ijaes2011.net/index.php/IJAES/article/view/682)).
 - Arabic Text Formality Modification: A Review and Future Research Directions. ([link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10778487)).
 - Deep Learning in Written Arabic Linguistic Studies: A Comprehensive Survey ([link](https://ieeexplore.ieee.org/abstract/document/10738816)).
+- Arabic Multimodal Machine Learning: Datasets, Applications, Approaches, and Challenges ([link](https://arxiv.org/abs/2508.12227)).
