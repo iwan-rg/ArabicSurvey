@@ -200,7 +200,8 @@ In this repository, we list survey, literature review and systematic review pape
 - Maghrebi Arabic dialect processing: an overview ([Link](https://hal.archives-ouvertes.fr/hal-01873779/)).
 - An Overview of Sentiment Analysis with Dialectical Processing ([Link](https://link.springer.com/chapter/10.1007/978-3-030-82616-1_1)).
 - A Systematic Review for Sentiment Analysis of Arabic Dialect Texts Researches ([Link](https://link.springer.com/chapter/10.1007/978-3-030-85990-9_25)).
-- Automatic Arabic Dialect Identification Systems for Written Texts: A Survey ([Link] (https://arxiv.org/abs/2009.12622)).
+- Automatic Arabic Dialect Identification Systems for Written Texts: A Survey ([Link](https://arxiv.org/abs/2009.12622)).
+- A Survey on Dialect Arabic Processing and Analysis: Recent Advances and Future Trends ([Link](https://dl.acm.org/doi/abs/10.1145/3747290)).
 
 ## Plagiarism Detection Systems
 - A Survey of Plagiarism Detection Systems: Case of Use with English, French and Arabic Languages  ([Link](https://arxiv.org/abs/2201.03423)).
