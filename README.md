@@ -241,6 +241,7 @@ In this repository, we list survey, literature review and systematic review pape
 - Toxic language detection: a systematic survey of Arabic datasets ([Link](https://www.researchgate.net/publication/377814066_Toxic_language_detection_A_systematic_review_of_Arabic_datasets)).
 - A Comprehensive Survey on Arabic Sarcasm Detection: Approaches, Challenges and Future Trends. ([Link](https://ieeexplore.ieee.org/document/10049545)).
 - A systematic literature review of hate speech identification on Arabic Twitter data: research challenges and future directions. ([Link](https://peerj.com/articles/cs-1966/)).
+- Arabic hate speech detection using deep learning: a state-of-the-art survey of advances, challenges, and future directions \(2020–2024) ([link](https://peerj.com/articles/cs-3133/)).
 
 ## Fake news and Spam
 - Arabic Fake News and Spam Handling: Methods, Resources and Opportunities ([Link](https://ieeexplore.ieee.org/document/9671174)).
