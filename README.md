@@ -60,6 +60,9 @@ In this repository, we list survey, literature review and systematic review pape
 -  A Comparative Study of Some Automatic Arabic Text Diacritization Systems ([Link](https://www.hindawi.com/journals/ahci/2022/3613710/)).
 -  Arabic Semantic Similarity Approaches - Review ([Link](https://ieeexplore.ieee.org/abstract/document/8672665)).
 - Automatic Methods and Neural Networks in Arabic Texts Diacritization: A Comprehensive Survey ([Link](https://ieeexplore.ieee.org/abstract/document/9585619)).
+- Semitic Root Encoding: Tokenization Based on the Templatic Morphology of Semitic Languages in NMT ([Link](https://aclanthology.org/2025.arabicnlp-main.3/)).
+- Lemmatizing Dialectal Arabic with Sequence-to-Sequence Models ([Link](https://aclanthology.org/2025.arabicnlp-main.10/)).
+- DialG2P: Dialectal Grapheme-to-Phoneme. Arabic as a Case Study ([Link](https://aclanthology.org/2025.arabicnlp-main.38/)).
 
 ## Text Classification & Mining
 - Arabic Text Classification: A Review Study on Feature Selection Methods ([Link](https://ieeexplore.ieee.org/document/9677185)).
@@ -82,6 +85,7 @@ In this repository, we list survey, literature review and systematic review pape
 -   A systematic review of Arabic text classification: areas, applications, and future directions ([Link](https://link.springer.com/article/10.1007/s00500-023-08384-6)).
 -   Arabic documents classification: Overview and systematic review ([Link](https://pubs.aip.org/aip/acp/article/2845/1/050007/2911295)).
 -   Data augmentation for Arabic text classification: a review of current methods, challenges and prospective directions ([Link](https://peerj.com/articles/cs-2685/)).
+- A-SEA3𝐋-QA: A Fully Automated Self-Evolving, Adversarial Workflow for Arabic Long-Context Question-Answer Generation ([Link](https://aclanthology.org/2025.arabicnlp-main.9/)).
 
 ## Named Entity Recognition
 -  A Survey of Arabic Named Entity Recognition and Classification ([Link](https://direct.mit.edu/coli/article/40/2/469/1475/A-Survey-of-Arabic-Named-Entity-Recognition-and)).
@@ -107,6 +111,7 @@ In this repository, we list survey, literature review and systematic review pape
  - Challenges and opportunities for Arabic question-answering systems: current techniques and future directions ([link](https://peerj.com/articles/cs-1633/)).
  - A Comprehensive Review of Arabic Question Answering Datasets ([Link](https://link.springer.com/chapter/10.1007/978-981-99-8126-7_22)).
  - Deciphering Arabic question: a dedicated survey on Arabic question analysis methods, challenges, limitations and future pathways ([Link](https://link.springer.com/article/10.1007/s10462-024-10880-6)).
+ - Open-domain Arabic Conversational Question Answering with Question Rewriting ([Link](https://aclanthology.org/2025.arabicnlp-main.7/)).
    
 ## Sentiment Analysis
 - Arabic Sentiment Analysis: A Survey ([Link](https://www.proquest.com/docview/2656539777?pq-origsite=gscholar&fromopenview=true)).
@@ -166,6 +171,9 @@ In this repository, we list survey, literature review and systematic review pape
 - Arabic Speech Recognition: Advancement and Challenges ([Link](https://ieeexplore.ieee.org/iel7/6287639/6514899/10466536.pdf)).
 - Arabic speech recognition using neural networks: concepts, literature review and challenges ([Link](https://link.springer.com/article/10.1007/s43994-025-00213-w))).
 - A Review of Speech Recognition and Application to Arabic Speech Recognition ([Link](https://link.springer.com/chapter/10.1007/978-3-031-85363-0_2)).
+- TuniFra: A Tunisian Arabic Speech Corpus with Orthographic Transcriptions and French Translations ([Link](https://aclanthology.org/2025.arabicnlp-main.5/)).
+- ArabEmoNet: A Lightweight Hybrid 2D CNN-BiLSTM Model with Attention for Robust Arabic Speech Emotion Recognition ([Link](https://aclanthology.org/2025.arabicnlp-main.17/)).
+- Octopus: Towards Building the Arabic Speech LLM Suite ([Link](https://aclanthology.org/2025.arabicnlp-main.35/)).
 
 
 ## Summarization
@@ -192,16 +200,19 @@ In this repository, we list survey, literature review and systematic review pape
 - A comprehensive review on Arabic word sense disambiguation for natural language processing applications ([Link](https://wires.onlinelibrary.wiley.com/doi/10.1002/widm.1447)).
 - Arabic word sense disambiguation: a review ([Link](https://link.springer.com/article/10.1007/s10462-018-9622-6)).
 - Arabic Word Sense Disambiguation - Survey ([Link](https://ieeexplore.ieee.org/abstract/document/8250294)).
+- Zero-Shot and Fine-Tuned Evaluation of Generative LLMs for Arabic Word Sense Disambiguation ([Link](https://aclanthology.org/2025.arabicnlp-main.26/)).
 
 ## Dialects
 - Systematic Literature Review of Dialectal Arabic: Identification and Detection ([Link](https://ieeexplore.ieee.org/document/9354635)).
 - Natural Language Processing for Dialectical Arabic: A Survey ([Link](https://aclanthology.org/W15-3205.pdf)).
-- Language resources for Maghrebi Arabic dialects’ NLP: a survey ([Link](https://link.springer.com/article/10.1007/s10579-020-09490-9)).
+- Language resources for Maghrebi Arabic dialects' NLP: a survey ([Link](https://link.springer.com/article/10.1007/s10579-020-09490-9)).
 - Maghrebi Arabic dialect processing: an overview ([Link](https://hal.archives-ouvertes.fr/hal-01873779/)).
 - An Overview of Sentiment Analysis with Dialectical Processing ([Link](https://link.springer.com/chapter/10.1007/978-3-030-82616-1_1)).
 - A Systematic Review for Sentiment Analysis of Arabic Dialect Texts Researches ([Link](https://link.springer.com/chapter/10.1007/978-3-030-85990-9_25)).
 - Automatic Arabic Dialect Identification Systems for Written Texts: A Survey ([Link](https://arxiv.org/abs/2009.12622)).
 - A Survey on Dialect Arabic Processing and Analysis: Recent Advances and Future Trends ([Link](https://dl.acm.org/doi/abs/10.1145/3747290)).
+- Capturing Intra-Dialectal Variation in Qatari Arabic: A Corpus of Cultural and Gender Dimensions ([Link](https://aclanthology.org/2025.arabicnlp-main.18/)).
+- Modeling North African Dialects from Standard Languages ([Link](https://aclanthology.org/2025.arabicnlp-main.30/)).
 
 ## Plagiarism Detection Systems
 - A Survey of Plagiarism Detection Systems: Case of Use with English, French and Arabic Languages  ([Link](https://arxiv.org/abs/2201.03423)).
@@ -218,6 +229,8 @@ In this repository, we list survey, literature review and systematic review pape
 - Arabic Machine Translation: A Panoramic Survey ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4312742)).
 - Challenges in Rendering Arabic text to English using Machine Translation: A Systematic Literature Review ([link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10233872)).
 - A Survey on Machine Translation of Low-Resource Arabic Dialects ([link](https://ieeexplore.ieee.org/abstract/document/10638285)).
+- ATHAR: A High-Quality and Diverse Dataset for Classical Arabic to English Translation ([Link](https://aclanthology.org/2025.arabicnlp-main.8/)).
+- TEDxTN: TEDx Speech Translation Corpus for Code-Switched Tunisian Arabic - English ([Link](https://aclanthology.org/2025.arabicnlp-main.22/)).
 
 ## Handwriting Recognition & OCR
 - A Survey on Arabic Handwritten Script Recognition Systems ([Link](https://www.igi-global.com/gateway/article/279276)).
@@ -261,12 +274,18 @@ In this repository, we list survey, literature review and systematic review pape
 - Ontology-Based Approach to Semantically Enhanced Question Answering for Closed Domain: A Review  ([Link](https://www.mdpi.com/2078-2489/12/5/200)).
 - Semantic Relations Extraction and Ontology Learning from Arabic Texts—A Survey ([Link](https://link.springer.com/chapter/10.1007/978-3-319-67056-0_11)).
 - Arabic ontology engineering-challenges and opportunities ([Link](https://dl.acm.org/doi/abs/10.1145/1980822.1980824)).
+- ArabJobs: A Multinational Corpus of Arabic Job Ads ([Link](https://aclanthology.org/2025.arabicnlp-main.2/)).
+- WojoodOntology - Ontology-Driven LLM Prompting for Unified Information Extraction Tasks ([Link](https://aclanthology.org/2025.arabicnlp-main.14/)).
+- ArabicWeb-Edu: Educational Quality Data for Arabic LLM Training ([Link](https://aclanthology.org/2025.arabicnlp-main.36/)).
+- AMCrawl: An Arabic Web-Scale Dataset of Interleaved Image-Text Documents and Image-Text Pairs ([Link](https://aclanthology.org/2025.arabicnlp-main.37/)).
 
 ## Information Retrieval
 - Arabic Cross-Language Information Retrieval: A Review ([Link](https://dl.acm.org/doi/abs/10.1145/2789210?casa_token=ztyuMF_bHoAAAAAA:hbGaRp4_myDh7o_AvShgCtZ4yP7MiaiusTYKKHKsY7oP3mmichP_R0aAX_MMgjO1IJYd-KgDx2NOiQ)).
 - Current Approaches in Arabic IR: A Survey ([Link](https://link.springer.com/chapter/10.1007/978-3-540-89533-6_57)).
 - Automatic Indexing of Arabic Texts: State of the Art ([Link](http://196.200.140.34/index.php/eti/article/view/96)).
 - Arabic Information Retrieval: A Relevancy Assessment Survey ([Link](http://eprints.hud.ac.uk/id/eprint/31385/)).
+- The Cross-Lingual Cost: Retrieval Biases in RAG over Arabic-English Corpora ([Link](https://aclanthology.org/2025.arabicnlp-main.6/)).
+- AutoArabic: A Three-Stage Framework for Localizing Video-Text Retrieval Benchmarks ([Link](https://aclanthology.org/2025.arabicnlp-main.23/)).
 
 ## Opinion Mining
 - A Survey of Opinion Mining in Arabic: A Comprehensive System Perspective Covering Challenges and Advances in Tools, Resources, Models, Applications, and Visualizations ([Link](https://dl.acm.org/doi/abs/10.1145/3295662)).
@@ -293,13 +312,24 @@ In this repository, we list survey, literature review and systematic review pape
 - On the Usage of a Classical Arabic Corpus as a Language Resource: Related Research and Key Challenges ([Link](https://dl.acm.org/doi/10.1145/3277591)).
 - Digital Hadith authentication: Recent advances, open challenges, and future directions ([Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3977)).
 - A Review of Algorithms, Datasets, and Criteria in Word Sense Disambiguation With a View to its Use in Islamic Texts ([Link](https://ieeexplore.ieee.org/abstract/document/9238679)).
-- Arabic natural language processing for Qur’anic research: a systematic review ([Link](https://link.springer.com/article/10.1007/s10462-022-10313-2)).
+- Arabic natural language processing for Qur'anic research: a systematic review ([Link](https://link.springer.com/article/10.1007/s10462-022-10313-2)).
 - The utilization of machine learning on studying Hadith in Islam: A systematic literature review ([Link](https://link.springer.com/article/10.1007/s10639-023-12008-9)).
+- Can LLMs Directly Retrieve Passages for Answering Questions from Qur'an? ([Link](https://aclanthology.org/2025.arabicnlp-main.16/)).
+- Assessing Large Language Models on Islamic Legal Reasoning: Evidence from Inheritance Law Evaluation ([Link](https://aclanthology.org/2025.arabicnlp-main.20/)).
 
 ## LLMs
 - A Survey of Large Language Models for Arabic Language and its Dialects ([Link](https://arxiv.org/abs/2410.20238)).
 - The Landscape of Arabic Large Language Models (ALLMs): A New Era for Arabic Language Technology ([Link](https://arxiv.org/abs/2506.01340)).
 - Large Language Models and Arabic Content: A Review ([Link](https://arxiv.org/abs/2505.08004)).
+- Adapting Falcon3-7B Language Model for Arabic: Methods, Challenges, and Outcomes ([Link](https://aclanthology.org/2025.arabicnlp-main.1/)).
+- 3LM: Bridging Arabic, STEM, and Code through Benchmarking ([Link](https://aclanthology.org/2025.arabicnlp-main.4/)).
+- Saudi-Alignment Benchmark: Assessing LLMs Alignment with Cultural Norms and Domain Knowledge in the Saudi Context ([Link](https://aclanthology.org/2025.arabicnlp-main.11/)).
+- AraHalluEval: A Fine-grained Hallucination Evaluation Framework for Arabic LLMs ([Link](https://aclanthology.org/2025.arabicnlp-main.12/)).
+- BALSAM: A Platform for Benchmarking Arabic Large Language Models ([Link](https://aclanthology.org/2025.arabicnlp-main.21/)).
+- Nile-Chat: Egyptian Language Models for Arabic and Latin Scripts ([Link](https://arxiv.org/abs/2507.04569/)).
+- Mind the Gap: A Review of Arabic Post-Training Datasets and Their Limitations ([Link](https://arxiv.org/abs/2507.14688/)).
+- Bridging Dialectal Gaps in Arabic Medical LLMs through Model Merging ([Link](https://aclanthology.org/2025.arabicnlp-main.27/)).
+- Tool Calling for Arabic LLMs: Data Strategies and Instruction Tuning ([Link](https://aclanthology.org/2025.arabicnlp-main.28/)).
 
 ## Others (Steganography, Transfer Learning, Deep learning, etc.) 
 - ARABIC TEXT WATERMARKING: A REVIEW ([Link](https://arxiv.org/pdf/1508.01485)).
@@ -334,3 +364,11 @@ In this repository, we list survey, literature review and systematic review pape
 - Arabic Text Formality Modification: A Review and Future Research Directions. ([link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10778487)).
 - Deep Learning in Written Arabic Linguistic Studies: A Comprehensive Survey ([link](https://ieeexplore.ieee.org/abstract/document/10738816)).
 - Arabic Multimodal Machine Learning: Datasets, Applications, Approaches, and Challenges ([link](https://arxiv.org/abs/2508.12227)).
+- Tahḏīb: A Rhythm-Aware Phrase Insertion for Classical Arabic Poetry Composition ([Link](https://aclanthology.org/2025.arabicnlp-main.15/)).
+- Evaluating Prompt Relevance in Arabic Automatic Essay Scoring: Insights from Synthetic and Real-World Data ([Link](https://aclanthology.org/2025.arabicnlp-main.13/)).
+- Feature Engineering is not Dead: A Step Towards State of the Art for Arabic Automated Essay Scoring ([Link](https://aclanthology.org/2025.arabicnlp-main.19/)).
+- Toward Culturally-Aware Arabic Debate Platforms with NLP Support ([Link](https://aclanthology.org/2025.arabicnlp-main.29/)).
+- Learning Word Embeddings from Glosses: A Multi-Loss Framework for Arabic Reverse Dictionary Tasks ([Link](https://aclanthology.org/2025.arabicnlp-main.31/)).
+- ALARB: An Arabic Legal Argument Reasoning Benchmark ([Link](https://www.arxiv.org/abs/2510.00694)).
+- Transfer or Translate? Argument Mining in Arabic with No Native Annotations ([Link](https://aclanthology.org/2025.arabicnlp-main.33/)).
+- An Exploration of Knowledge Editing for Arabic ([Link](https://aclanthology.org/2025.arabicnlp-main.34/)).
