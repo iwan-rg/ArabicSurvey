@@ -88,13 +88,4 @@ git push origin add-papers-branch-name
 2. Click "Pull requests" → "New Pull Request"
 3. Select the base repository (`iwan-rg/ArabicSurvey`) and your branch
 
-## Quality Checklist
-
-Before submitting a pull request, it's better to make sure that:
-
-- [ ] All links are working and accessible
-- [ ] Papers are placed in the correct category
-- [ ] Formatting follows the existing style
-- [ ] No duplicate entries
-
 
