@@ -295,6 +295,7 @@ In this repository, we list survey, literature review and systematic review pape
 - A Review of Algorithms, Datasets, and Criteria in Word Sense Disambiguation With a View to its Use in Islamic Texts ([Link](https://ieeexplore.ieee.org/abstract/document/9238679)).
 - Arabic natural language processing for Qur’anic research: a systematic review ([Link](https://link.springer.com/article/10.1007/s10462-022-10313-2)).
 - The utilization of machine learning on studying Hadith in Islam: A systematic literature review ([Link](https://link.springer.com/article/10.1007/s10639-023-12008-9)).
+- A literature review on natural language processing techniques for Qur’anic studies: challenges and insights ([Link](https://www.frontiersin.org/journals/signal-processing/articles/10.3389/frsip.2025.1535166/full)).
 
 ## LLMs
 - A Survey of Large Language Models for Arabic Language and its Dialects ([Link](https://arxiv.org/abs/2410.20238)).
