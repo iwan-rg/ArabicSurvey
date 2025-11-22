@@ -44,6 +44,7 @@ In this repository, we list survey, literature review and systematic review pape
 - A survey on the state-of-the-art machine learning models in the context of NLP ([Link](https://journalskuwait.org/kjs/index.php/KJS/article/view/946)).
 - Rule-based approach in Arabic natural language processing ([Link](https://m.marefa.org/images/1/17/Rule_based_Arabic_NLP.pdf)).
 - Challenges in Arabic Natural Language Processing ([Link](https://www.worldscientific.com/doi/abs/10.1142/9789813229396_0003)).
+- Arabic Natural Language Processing (NLP): A Comprehensive Review of Challenges, Techniques, and Emerging Trends ([Link](https://www.mdpi.com/2073-431X/14/11/497))
 
 ## Enabling Tools (Morphology, Diacritization, Grammer, etc.)
 - Stemming impact on Arabic text categorization performance: A survey ([Link](https://ieeexplore.ieee.org/abstract/document/7426875)).
