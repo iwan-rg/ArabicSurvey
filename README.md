@@ -337,3 +337,4 @@ In this repository, we list survey, literature review and systematic review pape
 - Deep Learning in Written Arabic Linguistic Studies: A Comprehensive Survey ([link](https://ieeexplore.ieee.org/abstract/document/10738816)).
 - Arabic Multimodal Machine Learning: Datasets, Applications, Approaches, and Challenges ([link](https://arxiv.org/abs/2508.12227)).
 - Unlocking Arabic event relation extraction: a comprehensive survey ([link](https://link.springer.com/article/10.1007/s00521-025-11537-3)).
+- AI-driven semantic information retrieval for Arabic language- systematic literature review ([link](https://www.sciencedirect.com/science/article/pii/S1574013726000298)).
