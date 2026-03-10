@@ -204,6 +204,7 @@ In this repository, we list survey, literature review and systematic review pape
 - A Systematic Review for Sentiment Analysis of Arabic Dialect Texts Researches ([Link](https://link.springer.com/chapter/10.1007/978-3-030-85990-9_25)).
 - Automatic Arabic Dialect Identification Systems for Written Texts: A Survey ([Link](https://arxiv.org/abs/2009.12622)).
 - A Survey on Dialect Arabic Processing and Analysis: Recent Advances and Future Trends ([Link](https://dl.acm.org/doi/abs/10.1145/3747290)).
+- A Survey of Natural Language Processing for Classification of Saudi Arabic Dialect: Advancements, Opportunities, and Challenges ([Link](https://link.springer.com/chapter/10.1007/978-3-031-92625-9_8)).
 
 ## Plagiarism Detection Systems
 - A Survey of Plagiarism Detection Systems: Case of Use with English, French and Arabic Languages  ([Link](https://arxiv.org/abs/2201.03423)).
