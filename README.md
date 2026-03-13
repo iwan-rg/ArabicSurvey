@@ -305,6 +305,9 @@ In this repository, we list survey, literature review and systematic review pape
 - The Landscape of Arabic Large Language Models (ALLMs): A New Era for Arabic Language Technology ([Link](https://arxiv.org/abs/2506.01340)).
 - Large Language Models and Arabic Content: A Review ([Link](https://arxiv.org/abs/2505.08004)).
 - Evaluating Arabic Large Language Models: A Survey of Benchmarks, Methods, and Gaps ([Link](https://arxiv.org/abs/2510.13430)).
+- Large Language Models and Arabic Content: A Review ([Link](https://arxiv.org/abs/2505.08004)).
+- Mind the Gap: A Review of Arabic Post-Training Datasets and Their Limitations ([Link](https://aclanthology.org/2025.arabicnlp-main.26/)).
+- It's All Connected: A Survey for Multimodal Arabic AI ([Link](https://www.researchsquare.com/article/rs-8007923/v1)).
 
 ## Others (Steganography, Transfer Learning, Deep learning, etc.) 
 - ARABIC TEXT WATERMARKING: A REVIEW ([Link](https://arxiv.org/pdf/1508.01485)).
@@ -341,3 +344,5 @@ In this repository, we list survey, literature review and systematic review pape
 - Arabic Multimodal Machine Learning: Datasets, Applications, Approaches, and Challenges ([link](https://arxiv.org/abs/2508.12227)).
 - Unlocking Arabic event relation extraction: a comprehensive survey ([link](https://link.springer.com/article/10.1007/s00521-025-11537-3)).
 - AI-driven semantic information retrieval for Arabic language- systematic literature review ([link](https://www.sciencedirect.com/science/article/pii/S1574013726000298)).
+- A Survey of Code-switched Arabic NLP: Progress, Challenges, and Future Directions ([Link](https://aclanthology.org/2025.coling-main.307/)).
+- A Scoping Review of Arabic Natural Language Processing for Mental Health ([Link](https://www.mdpi.com/2227-9032/13/9/963)).
