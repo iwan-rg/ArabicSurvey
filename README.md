@@ -168,6 +168,7 @@ In this repository, we list survey, literature review and systematic review pape
 - Arabic speech recognition using neural networks: concepts, literature review and challenges ([Link](https://link.springer.com/article/10.1007/s43994-025-00213-w))).
 - A Review of Speech Recognition and Application to Arabic Speech Recognition ([Link](https://link.springer.com/chapter/10.1007/978-3-031-85363-0_2)).
 - Arabic dialects speech corpora: A systematic review ([Link](https://www.sciencedirect.com/science/article/pii/S0167639325001372)).
+- Automatic speech recognition and dialect identification for Arabic and Saudi dialects: a systematic literature review ([Link](https://link.springer.com/content/pdf/10.1007/s44443-026-00609-6_reference.pdf)).
 
 
 ## Summarization
