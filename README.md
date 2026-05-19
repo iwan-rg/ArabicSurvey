@@ -25,7 +25,7 @@ A curated collection of **survey, literature review, and systematic review paper
 
 ## 📋 Table of Contents
 
-| # | Category | عربي |
+| # | Category | التصنيف |
 |---|----------|------|
 | 1 | [General](#-general) | عام |
 | 2 | [Enabling Tools](#-enabling-tools-morphology-diacritization-grammar-etc) | الأدوات الأساسية |
