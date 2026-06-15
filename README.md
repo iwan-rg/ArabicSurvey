@@ -144,6 +144,7 @@ A curated collection of **survey, literature review, and systematic review paper
 - Challenges and opportunities for Arabic question-answering systems: current techniques and future directions (<a href="https://peerj.com/articles/cs-1633/" target="_blank">Link</a>)
 - A Comprehensive Review of Arabic Question Answering Datasets (<a href="https://link.springer.com/chapter/10.1007/978-981-99-8126-7_22" target="_blank">Link</a>)
 - Deciphering Arabic question: a dedicated survey on Arabic question analysis methods, challenges, limitations and future pathways (<a href="https://link.springer.com/article/10.1007/s10462-024-10880-6" target="_blank">Link</a>)
+- Commonsense question answering in Arabic: A survey of models, challenges, and future directions ([Link](https://www.sciencedirect.com/science/article/abs/pii/S0957417426019743)).
 
 ---
 
