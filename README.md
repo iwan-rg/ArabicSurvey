@@ -5,7 +5,7 @@
 
 **ASPR | أسبر**
 
-[![Papers](https://img.shields.io/badge/Papers-260-blue?style=for-the-badge)](https://github.com/iwan-rg/ArabicSurvey)
+[![Papers](https://img.shields.io/badge/Papers-261-blue?style=for-the-badge)](https://github.com/iwan-rg/ArabicSurvey)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)](https://github.com/iwan-rg/ArabicSurvey/blob/main/CONTRIBUTING.md)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-orange?style=for-the-badge)](https://github.com/iwan-rg/ArabicSurvey)
 [![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)](LICENSE)
@@ -313,6 +313,7 @@ A curated collection of **survey, literature review, and systematic review paper
 - A Comprehensive Survey on Arabic Sarcasm Detection: Approaches, Challenges and Future Trends (<a href="https://ieeexplore.ieee.org/document/10049545" target="_blank">Link</a>)
 - A systematic literature review of hate speech identification on Arabic Twitter data: research challenges and future directions (<a href="https://peerj.com/articles/cs-1966/" target="_blank">Link</a>)
 - Arabic hate speech detection using deep learning: a state-of-the-art survey of advances, challenges, and future directions (2020–2024) (<a href="https://peerj.com/articles/cs-3133/" target="_blank">Link</a>)
+- Arabic Cyberbullying Detection: A Comprehensive Review of Datasets and Methodologies (<a href="https://ieeexplore.ieee.org/abstract/document/10966006" target="_blank">Link</a>)
 
 ---
 
