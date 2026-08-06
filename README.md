@@ -5,7 +5,7 @@
 
 **ASPR | أسبر**
 
-[![Papers](https://img.shields.io/badge/Papers-262-blue?style=for-the-badge)](https://github.com/iwan-rg/ArabicSurvey)
+[![Papers](https://img.shields.io/badge/Papers-263-blue?style=for-the-badge)](https://github.com/iwan-rg/ArabicSurvey)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)](https://github.com/iwan-rg/ArabicSurvey/blob/main/CONTRIBUTING.md)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-orange?style=for-the-badge)](https://github.com/iwan-rg/ArabicSurvey)
 [![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)](LICENSE)
@@ -467,6 +467,7 @@ A curated collection of **survey, literature review, and systematic review paper
 - Analysis and Mining of Arabic Comparative Sentences: A Literature Review (<a href="https://ijci.journals.ekb.eg/article_358902.html" target="_blank">Link</a>)
 - Arabic Web page clustering: A review (<a href="https://www.sciencedirect.com/science/article/pii/S1319157817300290" target="_blank">Link</a>)
 - A Survey of Code-switched Arabic NLP: Progress, Challenges, and Future Directions (<a href="https://aclanthology.org/2025.coling-main.307/" target="_blank">Link</a>)
+- Natural language processing for Arabic poetry analysis and generation: a systematic review (<a href="https://peerj.com/articles/cs-3962/" target="_blank">Link</a>)
 
 ---
 
