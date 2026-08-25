@@ -5,7 +5,7 @@
 
 **ASPR | أسبر**
 
-[![Papers](https://img.shields.io/badge/Papers-263-blue?style=for-the-badge)](https://github.com/iwan-rg/ArabicSurvey)
+[![Papers](https://img.shields.io/badge/Papers-264-blue?style=for-the-badge)](https://github.com/iwan-rg/ArabicSurvey)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)](https://github.com/iwan-rg/ArabicSurvey/blob/main/CONTRIBUTING.md)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-orange?style=for-the-badge)](https://github.com/iwan-rg/ArabicSurvey)
 [![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)](LICENSE)
@@ -476,6 +476,7 @@ A curated collection of **survey, literature review, and systematic review paper
 - Arabic Multimodal Machine Learning: Datasets, Applications, Approaches, and Challenges (<a href="https://arxiv.org/abs/2508.12227" target="_blank">Link</a>)
 - A Scoping Review of Arabic Natural Language Processing for Mental Health (<a href="https://www.mdpi.com/2227-9032/13/9/963" target="_blank">Link</a>)
 - AI-driven semantic information retrieval for Arabic language- systematic literature review (<a href="https://www.sciencedirect.com/science/article/pii/S1574013726000298" target="_blank">Link</a>)
+- Generative AI for Learning and Teaching Arabic: Opportunities, Challenges, and Ethical Considerations (<a href="https://ieeexplore.ieee.org/document/11340666" target="_blank">Link</a>)
 
 ---
 
