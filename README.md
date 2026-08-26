@@ -5,7 +5,7 @@
 
 **ASPR | أسبر**
 
-[![Papers](https://img.shields.io/badge/Papers-264-blue?style=for-the-badge)](https://github.com/iwan-rg/ArabicSurvey)
+[![Papers](https://img.shields.io/badge/Papers-266-blue?style=for-the-badge)](https://github.com/iwan-rg/ArabicSurvey)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)](https://github.com/iwan-rg/ArabicSurvey/blob/main/CONTRIBUTING.md)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-orange?style=for-the-badge)](https://github.com/iwan-rg/ArabicSurvey)
 [![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)](LICENSE)
@@ -212,7 +212,8 @@ A curated collection of **survey, literature review, and systematic review paper
 - Arabic speech recognition using neural networks: concepts, literature review and challenges (<a href="https://link.springer.com/article/10.1007/s43994-025-00213-w" target="_blank">Link</a>)
 - A Review of Speech Recognition and Application to Arabic Speech Recognition (<a href="https://link.springer.com/chapter/10.1007/978-3-031-85363-0_2" target="_blank">Link</a>)
 - Arabic dialects speech corpora: A systematic review (<a href="https://www.sciencedirect.com/science/article/pii/S0167639325001372" target="_blank">Link</a>)
-- Automatic speech recognition and dialect identification for Arabic and Saudi dialects: a systematic literature review (<a href="https://link.springer.com/content/pdf/10.1007/s44443-026-00609-6_reference.pdf" target="_blank">Link</a>)
+- Automatic speech recognition and dialect identification for Arabic and Saudi dialects: a systematic literature review (<a href="https://link.springer.com/article/10.1007/s44443-026-00609-6" target="_blank">Link</a>)
+- Arabic speech emotion recognition (2015–2024): a systematic review of datasets, dialects, and classification methods (<a href="https://peerj.com/articles/cs-4021/" target="_blank">Link</a>)
 
 ---
 
@@ -299,6 +300,7 @@ A curated collection of **survey, literature review, and systematic review paper
 - A Survey of OCR in Arabic Language: Applications, Techniques, and Challenges (<a href="https://www.mdpi.com/2076-3417/13/7/4584" target="_blank">Link</a>)
 - Arabic Handwritten Text Recognition Systems Challenges and Opportunities (<a href="https://ejle.journals.ekb.eg/article_327127_7c7fc57d7f8458b44d257a7130b2ac47.pdf" target="_blank">Link</a>)
 - Advancements and Challenges in Arabic Optical Character Recognition: A Comprehensive Survey (<a href="https://dl.acm.org/doi/10.1145/3768150" target="_blank">Link</a>)
+- Handwritten Arabic Text Recognition: A Review of Recent Trends and Future Direction (<a href="https://link.springer.com/article/10.1007/s11263-026-02773-8" target="_blank">Link</a>)
 
 ---
 
