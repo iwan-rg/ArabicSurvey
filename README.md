@@ -30,20 +30,20 @@ A curated collection of **survey, literature review, and systematic review paper
 | 1 | [General](#-general) | عام |
 | 2 | [Enabling Tools](#-enabling-tools-morphology-diacritization-grammar-etc) | الأدوات الأساسية |
 | 3 | [Text Classification & Mining](#-text-classification--mining) | تصنيف النصوص |
-| 4 | [Named Entity Recognition](#-named-entity-recognition) | التعرف على الكيانات المسماة |
+| 4 | [Named Entity Recognition](#️-named-entity-recognition) | التعرف على الكيانات المسماة |
 | 5 | [Question Answering](#-question-answering) | الإجابة عن الأسئلة |
 | 6 | [Sentiment Analysis](#-sentiment-analysis) | تحليل المشاعر |
-| 7 | [Speech](#-speech) | معالجة الكلام |
+| 7 | [Speech](#️-speech) | معالجة الكلام |
 | 8 | [Summarization](#-summarization) | التلخيص |
 | 9 | [Conversational AI](#-conversational-ai-chatbots--dialogue-systems) | الذكاء الاصطناعي الحواري |
 | 10 | [Word Sense Disambiguation](#-word-sense-disambiguation-wsd) | إزالة الغموض الدلالي |
-| 11 | [Dialects](#-dialects) | اللهجات |
+| 11 | [Dialects](#️-dialects) | اللهجات |
 | 12 | [Plagiarism Detection](#-plagiarism-detection-systems) | كشف الانتحال |
 | 13 | [Machine Translation](#-machine-translation) | الترجمة الآلية |
-| 14 | [Handwriting Recognition & OCR](#-handwriting-recognition--ocr) | التعرف على الخط |
+| 14 | [Handwriting Recognition & OCR](#️-handwriting-recognition--ocr) | التعرف على الخط |
 | 15 | [Offensive Language Detection](#-offensive-language-detection) | كشف اللغة المسيئة |
 | 16 | [Fake News & Spam](#-fake-news-and-spam) | الأخبار الكاذبة |
-| 17 | [Ontology & Resources](#-ontology-and-resources) | الأنطولوجيا والموارد |
+| 17 | [Ontology & Resources](#️-ontology-and-resources) | الأنطولوجيا والموارد |
 | 18 | [Information Retrieval](#-information-retrieval) | استرجاع المعلومات |
 | 19 | [Opinion Mining](#-opinion-mining) | تنقيب الآراء |
 | 20 | [Knowledge Graph & Topic Modeling](#-knowledge-graph-and-topic-modeling) | الرسم البياني المعرفي |
@@ -51,12 +51,12 @@ A curated collection of **survey, literature review, and systematic review paper
 | 22 | [Religious Text](#-religious-text) | النصوص الدينية |
 | 23 | [LLMs](#-large-language-models-llms) | النماذج اللغوية الكبيرة |
 | 24 | [Deep Learning & Neural Architectures](#-deep-learning--neural-architectures) | التعلم العميق والمعماريات العصبية |
-| 25 | [Information Extraction](#-information-extraction) | استخلاص المعلومات |
+| 25 | [Information Extraction](#️-information-extraction) | استخلاص المعلومات |
 | 26 | [Sign Language](#-sign-language) | لغة الإشارة |
-| 27 | [Authorship & Readability](#-authorship--readability) | تأليف النص والقابلية للقراءة |
+| 27 | [Authorship & Readability](#️-authorship--readability) | تأليف النص والقابلية للقراءة |
 | 28 | [Lexical & Semantic Resources](#-lexical--semantic-resources) | الموارد المعجمية والدلالية |
 | 29 | [Text Steganography & Watermarking](#-text-steganography--watermarking) | إخفاء النصوص والعلامة المائية |
-| 30 | [Text Processing & Generation](#-text-processing--generation) | معالجة النصوص وتوليدها |
+| 30 | [Text Processing & Generation](#️-text-processing--generation) | معالجة النصوص وتوليدها |
 | 31 | [Specialized Applications](#-specialized-applications) | التطبيقات المتخصصة |
 
 ---
@@ -71,6 +71,8 @@ A curated collection of **survey, literature review, and systematic review paper
 - Rule-based approach in Arabic natural language processing (<a href="https://m.marefa.org/images/1/17/Rule_based_Arabic_NLP.pdf" target="_blank">Link</a>)
 - Challenges in Arabic Natural Language Processing (<a href="https://www.worldscientific.com/doi/abs/10.1142/9789813229396_0003" target="_blank">Link</a>)
 - Arabic Natural Language Processing (NLP): A Comprehensive Review of Challenges, Techniques, and Emerging Trends (<a href="https://www.mdpi.com/2073-431X/14/11/497" target="_blank">Link</a>)
+
+<div align="right"><sub><a href="#-table-of-contents">🔝 Back to menu</a></sub></div>
 
 ---
 
@@ -90,6 +92,8 @@ A curated collection of **survey, literature review, and systematic review paper
 - A Comparative Study of Some Automatic Arabic Text Diacritization Systems (<a href="https://www.hindawi.com/journals/ahci/2022/3613710/" target="_blank">Link</a>)
 - Arabic Semantic Similarity Approaches - Review (<a href="https://ieeexplore.ieee.org/abstract/document/8672665" target="_blank">Link</a>)
 - A Survey and Comparative Study of Arabic Diacritization Tools (<a href="https://jlcl.org/content/2-allissues/4-Heft1-2017/02-diacritics.pdf" target="_blank">Link</a>)
+
+<div align="right"><sub><a href="#-table-of-contents">🔝 Back to menu</a></sub></div>
 
 ---
 
@@ -116,6 +120,8 @@ A curated collection of **survey, literature review, and systematic review paper
 - Arabic documents classification: Overview and systematic review (<a href="https://pubs.aip.org/aip/acp/article/2845/1/050007/2911295" target="_blank">Link</a>)
 - Data augmentation for Arabic text classification: a review of current methods, challenges and prospective directions (<a href="https://peerj.com/articles/cs-2685/" target="_blank">Link</a>)
 
+<div align="right"><sub><a href="#-table-of-contents">🔝 Back to menu</a></sub></div>
+
 ---
 
 ## 🏷️ Named Entity Recognition
@@ -128,6 +134,8 @@ A curated collection of **survey, literature review, and systematic review paper
 - Arabic Named Entity Recognition—A Survey and Analysis (<a href="https://link.springer.com/chapter/10.1007/978-3-319-39345-2_8" target="_blank">Link</a>)
 - A Survey on Arabic Named Entity Recognition: Past, Recent Advances, and Future Trends (<a href="https://arxiv.org/pdf/2302.03512.pdf" target="_blank">Link</a>)
 - Advancements in Arabic Named Entity Recognition: A Comprehensive Review (<a href="https://ieeexplore.ieee.org/document/10744005" target="_blank">Link</a>)
+
+<div align="right"><sub><a href="#-table-of-contents">🔝 Back to menu</a></sub></div>
 
 ---
 
@@ -145,6 +153,8 @@ A curated collection of **survey, literature review, and systematic review paper
 - A Comprehensive Review of Arabic Question Answering Datasets (<a href="https://link.springer.com/chapter/10.1007/978-981-99-8126-7_22" target="_blank">Link</a>)
 - Deciphering Arabic question: a dedicated survey on Arabic question analysis methods, challenges, limitations and future pathways (<a href="https://link.springer.com/article/10.1007/s10462-024-10880-6" target="_blank">Link</a>)
 - Commonsense question answering in Arabic: A survey of models, challenges, and future directions (<a href="https://www.sciencedirect.com/science/article/pii/S0957417426019743" target="_blank">Link</a>)
+
+<div align="right"><sub><a href="#-table-of-contents">🔝 Back to menu</a></sub></div>
 
 ---
 
@@ -193,6 +203,8 @@ A curated collection of **survey, literature review, and systematic review paper
 - Resources Building for Arabic Harmful Online Content: Survey (<a href="https://www.atlantis-press.com/proceedings/iceis-24/126002676" target="_blank">Link</a>)
 - A Systematic Review of Sentiment Analysis in Arabizi (<a href="https://link.springer.com/chapter/10.1007/978-981-99-2969-6_11" target="_blank">Link</a>)
 
+<div align="right"><sub><a href="#-table-of-contents">🔝 Back to menu</a></sub></div>
+
 ---
 
 ## 🎙️ Speech
@@ -215,6 +227,8 @@ A curated collection of **survey, literature review, and systematic review paper
 - Automatic speech recognition and dialect identification for Arabic and Saudi dialects: a systematic literature review (<a href="https://link.springer.com/article/10.1007/s44443-026-00609-6" target="_blank">Link</a>)
 - Arabic speech emotion recognition (2015–2024): a systematic review of datasets, dialects, and classification methods (<a href="https://peerj.com/articles/cs-4021/" target="_blank">Link</a>)
 
+<div align="right"><sub><a href="#-table-of-contents">🔝 Back to menu</a></sub></div>
+
 ---
 
 ## 📝 Summarization
@@ -227,6 +241,8 @@ A curated collection of **survey, literature review, and systematic review paper
 - Deep Transformer Language Models for Arabic Text Summarization: A Comparison Study (<a href="https://www.mdpi.com/2076-3417/12/23/11944" target="_blank">Link</a>)
 - Arabic Text Summarization Challenges using Deep Learning Techniques: A Review (<a href="https://www.researchgate.net/profile/Adnan-Souri-2/publication/375064033_Arabic_Text_Summarization_Challenges_using_Deep_Learning_Techniques_A_Review/links/653f7a2aff8d8f507cd86db0/Arabic-Text-Summarization-Challenges-using-Deep-Learning-Techniques-A-Review.pdf" target="_blank">Link</a>)
 - Exploring Advances in Arabic Long-Text Summarization Strategies: A Survey (<a href="https://fcihib.journals.ekb.eg/article_363467_9ae37ba2e9289b9ba16771efe7658e61.pdf" target="_blank">Link</a>)
+
+<div align="right"><sub><a href="#-table-of-contents">🔝 Back to menu</a></sub></div>
 
 ---
 
@@ -241,6 +257,8 @@ A curated collection of **survey, literature review, and systematic review paper
 - A Survey of Arabic Dialogues Understanding for Spontaneous Dialogues and Instant Message (<a href="https://arxiv.org/abs/1505.03084" target="_blank">Link</a>)
 - Arabic Chatbots Challenges and Solutions: A Systematic Literature Review (<a href="http://journal.esj.edu.iq/index.php/IJCM/article/view/1481" target="_blank">Link</a>)
 
+<div align="right"><sub><a href="#-table-of-contents">🔝 Back to menu</a></sub></div>
+
 ---
 
 ## 🔍 Word Sense Disambiguation (WSD)
@@ -248,6 +266,8 @@ A curated collection of **survey, literature review, and systematic review paper
 - A comprehensive review on Arabic word sense disambiguation for natural language processing applications (<a href="https://wires.onlinelibrary.wiley.com/doi/10.1002/widm.1447" target="_blank">Link</a>)
 - Arabic word sense disambiguation: a review (<a href="https://link.springer.com/article/10.1007/s10462-018-9622-6" target="_blank">Link</a>)
 - Arabic Word Sense Disambiguation - Survey (<a href="https://ieeexplore.ieee.org/abstract/document/8250294" target="_blank">Link</a>)
+
+<div align="right"><sub><a href="#-table-of-contents">🔝 Back to menu</a></sub></div>
 
 ---
 
@@ -263,12 +283,16 @@ A curated collection of **survey, literature review, and systematic review paper
 - A Survey on Dialect Arabic Processing and Analysis: Recent Advances and Future Trends (<a href="https://dl.acm.org/doi/abs/10.1145/3747290" target="_blank">Link</a>)
 - A Survey of Natural Language Processing for Classification of Saudi Arabic Dialect: Advancements, Opportunities, and Challenges (<a href="https://link.springer.com/chapter/10.1007/978-3-031-92625-9_8" target="_blank">Link</a>)
 
+<div align="right"><sub><a href="#-table-of-contents">🔝 Back to menu</a></sub></div>
+
 ---
 
 ## 🔎 Plagiarism Detection Systems
 
 - A Survey of Plagiarism Detection Systems: Case of Use with English, French and Arabic Languages (<a href="https://arxiv.org/abs/2201.03423" target="_blank">Link</a>)
 - Plagiarism Detection Techniques for Arabic Script Languages: A Literature Review (<a href="https://www.kjar.spu.edu.iq/index.php/kjar/article/view/66" target="_blank">Link</a>)
+
+<div align="right"><sub><a href="#-table-of-contents">🔝 Back to menu</a></sub></div>
 
 ---
 
@@ -284,6 +308,8 @@ A curated collection of **survey, literature review, and systematic review paper
 - Arabic Machine Translation: A Panoramic Survey (<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4312742" target="_blank">Link</a>)
 - Challenges in Rendering Arabic text to English using Machine Translation: A Systematic Literature Review (<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10233872" target="_blank">Link</a>)
 - A Survey on Machine Translation of Low-Resource Arabic Dialects (<a href="https://ieeexplore.ieee.org/abstract/document/10638285" target="_blank">Link</a>)
+
+<div align="right"><sub><a href="#-table-of-contents">🔝 Back to menu</a></sub></div>
 
 ---
 
@@ -302,6 +328,8 @@ A curated collection of **survey, literature review, and systematic review paper
 - Advancements and Challenges in Arabic Optical Character Recognition: A Comprehensive Survey (<a href="https://dl.acm.org/doi/10.1145/3768150" target="_blank">Link</a>)
 - Handwritten Arabic Text Recognition: A Review of Recent Trends and Future Direction (<a href="https://link.springer.com/article/10.1007/s11263-026-02773-8" target="_blank">Link</a>)
 
+<div align="right"><sub><a href="#-table-of-contents">🔝 Back to menu</a></sub></div>
+
 ---
 
 ## 🚫 Offensive Language Detection
@@ -317,6 +345,8 @@ A curated collection of **survey, literature review, and systematic review paper
 - Arabic hate speech detection using deep learning: a state-of-the-art survey of advances, challenges, and future directions (2020–2024) (<a href="https://peerj.com/articles/cs-3133/" target="_blank">Link</a>)
 - Arabic Cyberbullying Detection: A Comprehensive Review of Datasets and Methodologies (<a href="https://ieeexplore.ieee.org/abstract/document/10966006" target="_blank">Link</a>)
 
+<div align="right"><sub><a href="#-table-of-contents">🔝 Back to menu</a></sub></div>
+
 ---
 
 ## 📰 Fake News and Spam
@@ -327,6 +357,8 @@ A curated collection of **survey, literature review, and systematic review paper
 - A Survey: Datasets and Methods for Arabic Fake News Detection (<a href="https://www.researchgate.net/publication/373949310_A_Survey_Datasets_and_Methods_for_Arabic_Fake_News_Detection" target="_blank">Link</a>)
 - Survey of machine learning techniques for Arabic fake news detection (<a href="https://link.springer.com/article/10.1007/s10462-024-10778-3" target="_blank">Link</a>)
 - A Review of Fake News Detection Techniques for Arabic Language (<a href="https://thesai.org/Publications/ViewPaper?Volume=15&Issue=1&Code=IJACSA&SerialNo=37" target="_blank">Link</a>)
+
+<div align="right"><sub><a href="#-table-of-contents">🔝 Back to menu</a></sub></div>
 
 ---
 
@@ -342,6 +374,8 @@ A curated collection of **survey, literature review, and systematic review paper
 - Semantic Relations Extraction and Ontology Learning from Arabic Texts—A Survey (<a href="https://link.springer.com/chapter/10.1007/978-3-319-67056-0_11" target="_blank">Link</a>)
 - Arabic ontology engineering-challenges and opportunities (<a href="https://dl.acm.org/doi/abs/10.1145/1980822.1980824" target="_blank">Link</a>)
 
+<div align="right"><sub><a href="#-table-of-contents">🔝 Back to menu</a></sub></div>
+
 ---
 
 ## 🔭 Information Retrieval
@@ -351,12 +385,16 @@ A curated collection of **survey, literature review, and systematic review paper
 - Automatic Indexing of Arabic Texts: State of the Art (<a href="http://196.200.140.34/index.php/eti/article/view/96" target="_blank">Link</a>)
 - Arabic Information Retrieval: A Relevancy Assessment Survey (<a href="http://eprints.hud.ac.uk/id/eprint/31385/" target="_blank">Link</a>)
 
+<div align="right"><sub><a href="#-table-of-contents">🔝 Back to menu</a></sub></div>
+
 ---
 
 ## 💡 Opinion Mining
 
 - A Survey of Opinion Mining in Arabic: A Comprehensive System Perspective Covering Challenges and Advances in Tools, Resources, Models, Applications, and Visualizations (<a href="https://dl.acm.org/doi/abs/10.1145/3295662" target="_blank">Link</a>)
 - A review of recent aspect extraction techniques for opinion mining systems (<a href="https://ieeexplore.ieee.org/abstract/document/8374382" target="_blank">Link</a>)
+
+<div align="right"><sub><a href="#-table-of-contents">🔝 Back to menu</a></sub></div>
 
 ---
 
@@ -366,12 +404,16 @@ A curated collection of **survey, literature review, and systematic review paper
 - The Arabic Knowledge Graph: Opportunities and Challenges (<a href="https://ieeexplore.ieee.org/abstract/document/7889502" target="_blank">Link</a>)
 - Topic Modeling on Arabic Language Dataset: Comparative Study (<a href="https://link.springer.com/chapter/10.1007/978-3-031-23119-3_5" target="_blank">Link</a>)
 
+<div align="right"><sub><a href="#-table-of-contents">🔝 Back to menu</a></sub></div>
+
 ---
 
 ## 🔄 Query Expansion
 
 - Arabic Query Expansion: A Review (<a href="https://www.researchgate.net/profile/Jaffar-Atwan/publication/323689372_Arabic_query_expansion_A_review/links/5aa4f7a7aca272d448b95c58/Arabic-query-expansion-A-review.pdf" target="_blank">Link</a>)
 - Survey of Automatic Query Expansion for Arabic Text Retrieval (<a href="https://jistap.accesson.kr/v.8/4/67/7239" target="_blank">Link</a>)
+
+<div align="right"><sub><a href="#-table-of-contents">🔝 Back to menu</a></sub></div>
 
 ---
 
@@ -393,6 +435,8 @@ A curated collection of **survey, literature review, and systematic review paper
 - A literature review on natural language processing techniques for Qur'anic studies: challenges and insights (<a href="https://www.frontiersin.org/journals/signal-processing/articles/10.3389/frsip.2025.1535166/full" target="_blank">Link</a>)
 - A comprehensive review of Artificial Intelligence in Qur'anic research: Trends, methods, challenges, and future directions (<a href="https://www.sciencedirect.com/science/article/pii/S030645732600261X" target="_blank">Link</a>)
 
+<div align="right"><sub><a href="#-table-of-contents">🔝 Back to menu</a></sub></div>
+
 ---
 
 ## 🤖 Large Language Models (LLMs)
@@ -403,6 +447,8 @@ A curated collection of **survey, literature review, and systematic review paper
 - Evaluating Arabic Large Language Models: A Survey of Benchmarks, Methods, and Gaps (<a href="https://arxiv.org/abs/2510.13430" target="_blank">Link</a>)
 - Mind the Gap: A Review of Arabic Post-Training Datasets and Their Limitations (<a href="https://aclanthology.org/2025.arabicnlp-main.26/" target="_blank">Link</a>)
 - It's All Connected: A Survey for Multimodal Arabic AI (<a href="https://www.researchsquare.com/article/rs-8007923/v1" target="_blank">Link</a>)
+
+<div align="right"><sub><a href="#-table-of-contents">🔝 Back to menu</a></sub></div>
 
 ---
 
@@ -418,6 +464,8 @@ A curated collection of **survey, literature review, and systematic review paper
 - Deep Learning in Written Arabic Linguistic Studies: A Comprehensive Survey (<a href="https://ieeexplore.ieee.org/abstract/document/10738816" target="_blank">Link</a>)
 - Research Trends in the Fields of Arabic Natural Language Processing Tasks and Arabic Information Extraction Applications: A Survey Study (<a href="https://journals.sfu.ca/ijitls/index.php/ijitls/article/view/233" target="_blank">Link</a>)
 
+<div align="right"><sub><a href="#-table-of-contents">🔝 Back to menu</a></sub></div>
+
 ---
 
 ## 🗃️ Information Extraction
@@ -425,12 +473,16 @@ A curated collection of **survey, literature review, and systematic review paper
 - Arabic relation extraction: a survey (<a href="https://www.researchgate.net/profile/Injy-Sarhan/publication/351824481_Arabic_relation_extraction_A_survey/links/619e1aa9f1d624457166f7ee/Arabic-relation-extraction-A-survey.pdf" target="_blank">Link</a>)
 - Unlocking Arabic event relation extraction: a comprehensive survey (<a href="https://link.springer.com/article/10.1007/s00521-025-11537-3" target="_blank">Link</a>)
 
+<div align="right"><sub><a href="#-table-of-contents">🔝 Back to menu</a></sub></div>
+
 ---
 
 ## 🤟 Sign Language
 
 - Automatic Arabic sign language recognition: A review, taxonomy, open challenges, research roadmap and future directions (<a href="http://jummec.um.edu.my/index.php/MJCS/article/view/26902" target="_blank">Link</a>)
 - Automatic Translation from Arabic to Arabic Sign Language: A Review (<a href="https://ieeexplore.ieee.org/abstract/document/8726197" target="_blank">Link</a>)
+
+<div align="right"><sub><a href="#-table-of-contents">🔝 Back to menu</a></sub></div>
 
 ---
 
@@ -441,6 +493,8 @@ A curated collection of **survey, literature review, and systematic review paper
 - Arabic Readability Research: Current State and Future Directions (<a href="https://www.sciencedirect.com/science/article/pii/S1877050918321598" target="_blank">Link</a>)
 - Arabic Automatic Essay Scoring Systems: An Overview Study (<a href="https://link.springer.com/chapter/10.1007/978-3-030-96308-8_108" target="_blank">Link</a>)
 
+<div align="right"><sub><a href="#-table-of-contents">🔝 Back to menu</a></sub></div>
+
 ---
 
 ## 📚 Lexical & Semantic Resources
@@ -449,6 +503,8 @@ A curated collection of **survey, literature review, and systematic review paper
 - Semantic similarity for english and arabic texts: a review (<a href="https://www.worldscientific.com/doi/abs/10.1142/S0219649220500331" target="_blank">Link</a>)
 - Arabic Domain Terminology Extraction: A Literature Review (<a href="https://link.springer.com/chapter/10.1007/978-3-662-45563-0_51" target="_blank">Link</a>)
 
+<div align="right"><sub><a href="#-table-of-contents">🔝 Back to menu</a></sub></div>
+
 ---
 
 ## 🔐 Text Steganography & Watermarking
@@ -456,6 +512,8 @@ A curated collection of **survey, literature review, and systematic review paper
 - ARABIC TEXT WATERMARKING: A REVIEW (<a href="https://arxiv.org/pdf/1508.01485" target="_blank">Link</a>)
 - A Review of Arabic Text Steganography (<a href="https://dl.acm.org/doi/10.1145/3456146.3456148" target="_blank">Link</a>)
 - A Comparative Analysis of Arabic Text Steganography (<a href="https://www.mdpi.com/2076-3417/11/15/6851" target="_blank">Link</a>)
+
+<div align="right"><sub><a href="#-table-of-contents">🔝 Back to menu</a></sub></div>
 
 ---
 
@@ -471,6 +529,8 @@ A curated collection of **survey, literature review, and systematic review paper
 - A Survey of Code-switched Arabic NLP: Progress, Challenges, and Future Directions (<a href="https://aclanthology.org/2025.coling-main.307/" target="_blank">Link</a>)
 - Natural language processing for Arabic poetry analysis and generation: a systematic review (<a href="https://peerj.com/articles/cs-3962/" target="_blank">Link</a>)
 
+<div align="right"><sub><a href="#-table-of-contents">🔝 Back to menu</a></sub></div>
+
 ---
 
 ## 🌟 Specialized Applications
@@ -479,6 +539,8 @@ A curated collection of **survey, literature review, and systematic review paper
 - A Scoping Review of Arabic Natural Language Processing for Mental Health (<a href="https://www.mdpi.com/2227-9032/13/9/963" target="_blank">Link</a>)
 - AI-driven semantic information retrieval for Arabic language- systematic literature review (<a href="https://www.sciencedirect.com/science/article/pii/S1574013726000298" target="_blank">Link</a>)
 - Generative AI for Learning and Teaching Arabic: Opportunities, Challenges, and Ethical Considerations (<a href="https://ieeexplore.ieee.org/document/11340666" target="_blank">Link</a>)
+
+<div align="right"><sub><a href="#-table-of-contents">🔝 Back to menu</a></sub></div>
 
 ---
 
