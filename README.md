@@ -5,7 +5,7 @@
 
 **ASPR | أسبر**
 
-[![Papers](https://img.shields.io/badge/Papers-266-blue?style=for-the-badge)](https://github.com/iwan-rg/ArabicSurvey)
+[![Papers](https://img.shields.io/badge/Papers-267-blue?style=for-the-badge)](https://github.com/iwan-rg/ArabicSurvey)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)](https://github.com/iwan-rg/ArabicSurvey/blob/main/CONTRIBUTING.md)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-orange?style=for-the-badge)](https://github.com/iwan-rg/ArabicSurvey)
 [![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)](LICENSE)
@@ -62,6 +62,10 @@ A curated collection of **survey, literature review, and systematic review paper
 ---
 
 ## 🌐 General
+
+**2026**
+
+- Why Current XAI Is Not Enough for Arabic NLP: A Critical Survey of the Explainability Gap (<a href="https://arxiv.org/abs/2608.26144" target="_blank">Link</a>)
 
 **2025**
 
